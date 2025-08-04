@@ -1,0 +1,5 @@
+pandas
+google-generativeai
+tqdm
+tenacity
+fire 

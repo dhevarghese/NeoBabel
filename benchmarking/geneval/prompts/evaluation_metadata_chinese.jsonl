@@ -1,0 +1,553 @@
+{"tag": "single_object", "include": [{"class": "bench", "count": 1}], "prompt": "长凳的照片"}
+{"tag": "single_object", "include": [{"class": "cow", "count": 1}], "prompt": "一张牛的照片"}
+{"tag": "single_object", "include": [{"class": "bicycle", "count": 1}], "prompt": "自行车的照片"}
+{"tag": "single_object", "include": [{"class": "clock", "count": 1}], "prompt": "时钟的照片"}
+{"tag": "single_object", "include": [{"class": "carrot", "count": 1}], "prompt": "胡萝卜的照片"}
+{"tag": "single_object", "include": [{"class": "suitcase", "count": 1}], "prompt": "手提箱的照片"}
+{"tag": "single_object", "include": [{"class": "fork", "count": 1}], "prompt": "叉子的照片"}
+{"tag": "single_object", "include": [{"class": "surfboard", "count": 1}], "prompt": "冲浪板的照片"}
+{"tag": "single_object", "include": [{"class": "refrigerator", "count": 1}], "prompt": "冰箱的照片"}
+{"tag": "single_object", "include": [{"class": "cup", "count": 1}], "prompt": "杯子的照片"}
+{"tag": "single_object", "include": [{"class": "microwave", "count": 1}], "prompt": "微波炉的照片"}
+{"tag": "single_object", "include": [{"class": "potted plant", "count": 1}], "prompt": "盆栽植物的照片"}
+{"tag": "single_object", "include": [{"class": "snowboard", "count": 1}], "prompt": "滑雪板的照片"}
+{"tag": "single_object", "include": [{"class": "zebra", "count": 1}], "prompt": "斑马的照片"}
+{"tag": "single_object", "include": [{"class": "parking meter", "count": 1}], "prompt": "停车表的照片"}
+{"tag": "single_object", "include": [{"class": "spoon", "count": 1}], "prompt": "汤匙的照片"}
+{"tag": "single_object", "include": [{"class": "skateboard", "count": 1}], "prompt": "滑板的照片"}
+{"tag": "single_object", "include": [{"class": "car", "count": 1}], "prompt": "汽车的照片"}
+{"tag": "single_object", "include": [{"class": "motorcycle", "count": 1}], "prompt": "摩托车的照片"}
+{"tag": "single_object", "include": [{"class": "traffic light", "count": 1}], "prompt": "交通信号灯的照片"}
+{"tag": "single_object", "include": [{"class": "book", "count": 1}], "prompt": "一本书的照片"}
+{"tag": "single_object", "include": [{"class": "couch", "count": 1}], "prompt": "沙发的照片"}
+{"tag": "single_object", "include": [{"class": "backpack", "count": 1}], "prompt": "背包的照片"}
+{"tag": "single_object", "include": [{"class": "computer keyboard", "count": 1}], "prompt": "计算机键盘的照片"}
+{"tag": "single_object", "include": [{"class": "toaster", "count": 1}], "prompt": "烤面包机的照片"}
+{"tag": "single_object", "include": [{"class": "bird", "count": 1}], "prompt": "一只鸟的照片"}
+{"tag": "single_object", "include": [{"class": "bowl", "count": 1}], "prompt": "碗的照片"}
+{"tag": "single_object", "include": [{"class": "dog", "count": 1}], "prompt": "狗的照片"}
+{"tag": "single_object", "include": [{"class": "tie", "count": 1}], "prompt": "领带的照片"}
+{"tag": "single_object", "include": [{"class": "laptop", "count": 1}], "prompt": "笔记本电脑的照片"}
+{"tag": "single_object", "include": [{"class": "computer mouse", "count": 1}], "prompt": "计算机鼠标的照片"}
+{"tag": "single_object", "include": [{"class": "sandwich", "count": 1}], "prompt": "三明治的照片"}
+{"tag": "single_object", "include": [{"class": "baseball bat", "count": 1}], "prompt": "棒球棒的照片"}
+{"tag": "single_object", "include": [{"class": "train", "count": 1}], "prompt": "火车的照片"}
+{"tag": "single_object", "include": [{"class": "cell phone", "count": 1}], "prompt": "手机的照片"}
+{"tag": "single_object", "include": [{"class": "chair", "count": 1}], "prompt": "椅子的照片"}
+{"tag": "single_object", "include": [{"class": "tv", "count": 1}], "prompt": "电视的照片"}
+{"tag": "single_object", "include": [{"class": "broccoli", "count": 1}], "prompt": "西兰花的照片"}
+{"tag": "single_object", "include": [{"class": "bed", "count": 1}], "prompt": "床的照片"}
+{"tag": "single_object", "include": [{"class": "skis", "count": 1}], "prompt": "滑雪板的照片"}
+{"tag": "single_object", "include": [{"class": "handbag", "count": 1}], "prompt": "手提包的照片"}
+{"tag": "single_object", "include": [{"class": "pizza", "count": 1}], "prompt": "披萨的照片"}
+{"tag": "single_object", "include": [{"class": "frisbee", "count": 1}], "prompt": "飞盘的照片"}
+{"tag": "single_object", "include": [{"class": "scissors", "count": 1}], "prompt": "剪刀的照片"}
+{"tag": "single_object", "include": [{"class": "bottle", "count": 1}], "prompt": "瓶子的照片"}
+{"tag": "single_object", "include": [{"class": "elephant", "count": 1}], "prompt": "大象的照片"}
+{"tag": "single_object", "include": [{"class": "toilet", "count": 1}], "prompt": "厕所的照片"}
+{"tag": "single_object", "include": [{"class": "oven", "count": 1}], "prompt": "烤箱的照片"}
+{"tag": "single_object", "include": [{"class": "orange", "count": 1}], "prompt": "橙色的照片"}
+{"tag": "single_object", "include": [{"class": "person", "count": 1}], "prompt": "一个人的照片"}
+{"tag": "single_object", "include": [{"class": "teddy bear", "count": 1}], "prompt": "泰迪熊的照片"}
+{"tag": "single_object", "include": [{"class": "vase", "count": 1}], "prompt": "花瓶的照片"}
+{"tag": "single_object", "include": [{"class": "banana", "count": 1}], "prompt": "香蕉的照片"}
+{"tag": "single_object", "include": [{"class": "toothbrush", "count": 1}], "prompt": "牙刷的照片"}
+{"tag": "single_object", "include": [{"class": "tv remote", "count": 1}], "prompt": "电视遥控器的照片"}
+{"tag": "single_object", "include": [{"class": "dining table", "count": 1}], "prompt": "餐桌的照片"}
+{"tag": "single_object", "include": [{"class": "stop sign", "count": 1}], "prompt": "停车标志的照片"}
+{"tag": "single_object", "include": [{"class": "sheep", "count": 1}], "prompt": "绵羊的照片"}
+{"tag": "single_object", "include": [{"class": "fire hydrant", "count": 1}], "prompt": "消防栓的照片"}
+{"tag": "single_object", "include": [{"class": "airplane", "count": 1}], "prompt": "飞机的照片"}
+{"tag": "single_object", "include": [{"class": "giraffe", "count": 1}], "prompt": "长颈鹿的照片"}
+{"tag": "single_object", "include": [{"class": "horse", "count": 1}], "prompt": "一匹马的照片"}
+{"tag": "single_object", "include": [{"class": "cat", "count": 1}], "prompt": "猫的照片"}
+{"tag": "single_object", "include": [{"class": "donut", "count": 1}], "prompt": "甜甜圈的照片"}
+{"tag": "single_object", "include": [{"class": "boat", "count": 1}], "prompt": "船的照片"}
+{"tag": "single_object", "include": [{"class": "baseball glove", "count": 1}], "prompt": "棒球手套的照片"}
+{"tag": "single_object", "include": [{"class": "hair drier", "count": 1}], "prompt": "发毛的照片"}
+{"tag": "single_object", "include": [{"class": "sink", "count": 1}], "prompt": "水槽的照片"}
+{"tag": "single_object", "include": [{"class": "cake", "count": 1}], "prompt": "蛋糕的照片"}
+{"tag": "single_object", "include": [{"class": "wine glass", "count": 1}], "prompt": "酒杯的照片"}
+{"tag": "single_object", "include": [{"class": "apple", "count": 1}], "prompt": "苹果的照片"}
+{"tag": "single_object", "include": [{"class": "bus", "count": 1}], "prompt": "公共汽车的照片"}
+{"tag": "single_object", "include": [{"class": "tennis racket", "count": 1}], "prompt": "网球拍的照片"}
+{"tag": "single_object", "include": [{"class": "knife", "count": 1}], "prompt": "刀的照片"}
+{"tag": "single_object", "include": [{"class": "hot dog", "count": 1}], "prompt": "热狗的照片"}
+{"tag": "single_object", "include": [{"class": "truck", "count": 1}], "prompt": "卡车的照片"}
+{"tag": "single_object", "include": [{"class": "umbrella", "count": 1}], "prompt": "雨伞的照片"}
+{"tag": "single_object", "include": [{"class": "sports ball", "count": 1}], "prompt": "运动球的照片"}
+{"tag": "single_object", "include": [{"class": "bear", "count": 1}], "prompt": "熊的照片"}
+{"tag": "single_object", "include": [{"class": "kite", "count": 1}], "prompt": "风筝的照片"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "sports ball", "count": 1}], "prompt": "长凳和运动球的照片"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "牙刷和滑雪板的照片"}
+{"tag": "two_object", "include": [{"class": "toaster", "count": 1}, {"class": "oven", "count": 1}], "prompt": "烤面包机和烤箱的照片"}
+{"tag": "two_object", "include": [{"class": "broccoli", "count": 1}, {"class": "vase", "count": 1}], "prompt": "西兰花和花瓶的照片"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "wine glass", "count": 1}], "prompt": "网球球拍和酒杯的照片"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "knife", "count": 1}], "prompt": "叉子和刀的照片"}
+{"tag": "two_object", "include": [{"class": "hair drier", "count": 1}, {"class": "cake", "count": 1}], "prompt": "头发和蛋糕的照片"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "giraffe", "count": 1}], "prompt": "一匹马和长颈鹿的照片"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "computer keyboard", "count": 1}], "prompt": "马和计算机键盘的照片"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "牙刷和胡萝卜的照片"}
+{"tag": "two_object", "include": [{"class": "cake", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "蛋糕和斑马的照片"}
+{"tag": "two_object", "include": [{"class": "hair drier", "count": 1}, {"class": "bear", "count": 1}], "prompt": "发毛和熊的照片"}
+{"tag": "two_object", "include": [{"class": "knife", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "刀和斑马的照片"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "wine glass", "count": 1}], "prompt": "沙发和酒杯的照片"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "vase", "count": 1}], "prompt": "飞盘和花瓶的照片"}
+{"tag": "two_object", "include": [{"class": "book", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "一本书和笔记本电脑的照片"}
+{"tag": "two_object", "include": [{"class": "dining table", "count": 1}, {"class": "bear", "count": 1}], "prompt": "餐桌和熊的照片"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "couch", "count": 1}], "prompt": "飞盘和沙发的照片"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "horse", "count": 1}], "prompt": "沙发和马的照片"}
+{"tag": "two_object", "include": [{"class": "toilet", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "厕所和计算机鼠标的照片"}
+{"tag": "two_object", "include": [{"class": "bottle", "count": 1}, {"class": "refrigerator", "count": 1}], "prompt": "瓶子和冰箱的照片"}
+{"tag": "two_object", "include": [{"class": "potted plant", "count": 1}, {"class": "backpack", "count": 1}], "prompt": "盆栽植物和背包的照片"}
+{"tag": "two_object", "include": [{"class": "skateboard", "count": 1}, {"class": "cake", "count": 1}], "prompt": "滑板和蛋糕的照片"}
+{"tag": "two_object", "include": [{"class": "broccoli", "count": 1}, {"class": "parking meter", "count": 1}], "prompt": "西兰花和停车表的照片"}
+{"tag": "two_object", "include": [{"class": "zebra", "count": 1}, {"class": "bed", "count": 1}], "prompt": "斑马和床的照片"}
+{"tag": "two_object", "include": [{"class": "oven", "count": 1}, {"class": "bed", "count": 1}], "prompt": "烤箱和床的照片"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "fork", "count": 1}], "prompt": "棒球棒和叉子的照片"}
+{"tag": "two_object", "include": [{"class": "vase", "count": 1}, {"class": "spoon", "count": 1}], "prompt": "花瓶和汤匙的照片"}
+{"tag": "two_object", "include": [{"class": "skateboard", "count": 1}, {"class": "sink", "count": 1}], "prompt": "滑板和水槽的照片"}
+{"tag": "two_object", "include": [{"class": "pizza", "count": 1}, {"class": "bench", "count": 1}], "prompt": "披萨和长凳的照片"}
+{"tag": "two_object", "include": [{"class": "bowl", "count": 1}, {"class": "pizza", "count": 1}], "prompt": "碗和披萨的照片"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "bird", "count": 1}], "prompt": "网球球拍和鸟的照片"}
+{"tag": "two_object", "include": [{"class": "wine glass", "count": 1}, {"class": "bear", "count": 1}], "prompt": "酒杯和熊的照片"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "book", "count": 1}], "prompt": "叉子和书的照片"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "bowl", "count": 1}], "prompt": "剪刀和碗的照片"}
+{"tag": "two_object", "include": [{"class": "laptop", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "笔记本电脑和胡萝卜的照片"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "bottle", "count": 1}], "prompt": "停车标志和瓶子的照片"}
+{"tag": "two_object", "include": [{"class": "microwave", "count": 1}, {"class": "truck", "count": 1}], "prompt": "微波炉和卡车的照片"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "bear", "count": 1}], "prompt": "一个人和熊的照片"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "飞盘和手机的照片"}
+{"tag": "two_object", "include": [{"class": "parking meter", "count": 1}, {"class": "teddy bear", "count": 1}], "prompt": "停车表和泰迪熊的照片"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "bicycle", "count": 1}], "prompt": "网球拍和自行车的照片"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "motorcycle", "count": 1}], "prompt": "停车标志和摩托车的照片"}
+{"tag": "two_object", "include": [{"class": "fire hydrant", "count": 1}, {"class": "tennis racket", "count": 1}], "prompt": "消防栓和网球球拍的照片"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "sandwich", "count": 1}], "prompt": "剪刀和三明治的照片"}
+{"tag": "two_object", "include": [{"class": "pizza", "count": 1}, {"class": "book", "count": 1}], "prompt": "披萨和书的照片"}
+{"tag": "two_object", "include": [{"class": "giraffe", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "长颈鹿和计算机鼠标的照片"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "toaster", "count": 1}], "prompt": "停车标志和烤面包机的照片"}
+{"tag": "two_object", "include": [{"class": "computer mouse", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "计算机鼠标和斑马的照片"}
+{"tag": "two_object", "include": [{"class": "chair", "count": 1}, {"class": "bench", "count": 1}], "prompt": "椅子和长凳的照片"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "电视和胡萝卜的照片"}
+{"tag": "two_object", "include": [{"class": "surfboard", "count": 1}, {"class": "suitcase", "count": 1}], "prompt": "冲浪板和手提箱的照片"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "计算机键盘和笔记本电脑的照片"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "microwave", "count": 1}], "prompt": "计算机键盘和微波炉的照片"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "bird", "count": 1}], "prompt": "剪刀和鸟的照片"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "一个人和滑雪板的照片"}
+{"tag": "two_object", "include": [{"class": "cow", "count": 1}, {"class": "horse", "count": 1}], "prompt": "牛和马的照片"}
+{"tag": "two_object", "include": [{"class": "handbag", "count": 1}, {"class": "refrigerator", "count": 1}], "prompt": "手袋和冰箱的照片"}
+{"tag": "two_object", "include": [{"class": "chair", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "椅子和笔记本电脑的照片"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "bench", "count": 1}], "prompt": "牙刷和长凳的照片"}
+{"tag": "two_object", "include": [{"class": "book", "count": 1}, {"class": "baseball bat", "count": 1}], "prompt": "一本书和棒球棒的照片"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "train", "count": 1}], "prompt": "马和火车的照片"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "vase", "count": 1}], "prompt": "长凳和花瓶的照片"}
+{"tag": "two_object", "include": [{"class": "traffic light", "count": 1}, {"class": "backpack", "count": 1}], "prompt": "交通信号灯和背包的照片"}
+{"tag": "two_object", "include": [{"class": "sports ball", "count": 1}, {"class": "cow", "count": 1}], "prompt": "运动球和牛的照片"}
+{"tag": "two_object", "include": [{"class": "computer mouse", "count": 1}, {"class": "spoon", "count": 1}], "prompt": "计算机鼠标和汤匙的照片"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "bicycle", "count": 1}], "prompt": "电视和自行车的照片"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "长凳和滑雪板的照片"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "toilet", "count": 1}], "prompt": "牙刷和厕所的照片"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "apple", "count": 1}], "prompt": "一个人和苹果的照片"}
+{"tag": "two_object", "include": [{"class": "sink", "count": 1}, {"class": "sports ball", "count": 1}], "prompt": "水槽和运动球的照片"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "dog", "count": 1}], "prompt": "停车标志和狗的照片"}
+{"tag": "two_object", "include": [{"class": "knife", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "刀和停车标志的照片"}
+{"tag": "two_object", "include": [{"class": "wine glass", "count": 1}, {"class": "handbag", "count": 1}], "prompt": "酒杯和手提包的照片"}
+{"tag": "two_object", "include": [{"class": "bowl", "count": 1}, {"class": "skis", "count": 1}], "prompt": "碗和滑雪板的照片"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "apple", "count": 1}], "prompt": "飞盘和苹果的照片"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "计算机键盘和手机的照片"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "fork", "count": 1}], "prompt": "停车标志和叉子的照片"}
+{"tag": "two_object", "include": [{"class": "potted plant", "count": 1}, {"class": "boat", "count": 1}], "prompt": "盆栽植物和船的照片"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "电视和手机的照片"}
+{"tag": "two_object", "include": [{"class": "tie", "count": 1}, {"class": "broccoli", "count": 1}], "prompt": "领带和西兰花的照片"}
+{"tag": "two_object", "include": [{"class": "potted plant", "count": 1}, {"class": "donut", "count": 1}], "prompt": "盆栽植物和甜甜圈的照片"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "sink", "count": 1}], "prompt": "一个人和水槽的照片"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "沙发和滑雪板的照片"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "baseball glove", "count": 1}], "prompt": "叉子和棒球手套的照片"}
+{"tag": "two_object", "include": [{"class": "apple", "count": 1}, {"class": "toothbrush", "count": 1}], "prompt": "苹果和牙刷的照片"}
+{"tag": "two_object", "include": [{"class": "bus", "count": 1}, {"class": "baseball glove", "count": 1}], "prompt": "公共汽车和棒球手套的照片"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "一个人的照片和停车标志"}
+{"tag": "two_object", "include": [{"class": "carrot", "count": 1}, {"class": "couch", "count": 1}], "prompt": "胡萝卜和沙发的照片"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "bear", "count": 1}], "prompt": "棒球棒和熊的照片"}
+{"tag": "two_object", "include": [{"class": "fire hydrant", "count": 1}, {"class": "train", "count": 1}], "prompt": "消防栓和火车的照片"}
+{"tag": "two_object", "include": [{"class": "baseball glove", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "棒球手套和胡萝卜的照片"}
+{"tag": "two_object", "include": [{"class": "microwave", "count": 1}, {"class": "bench", "count": 1}], "prompt": "微波炉和长凳的照片"}
+{"tag": "two_object", "include": [{"class": "cake", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "蛋糕和停车标志的照片"}
+{"tag": "two_object", "include": [{"class": "car", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "汽车和计算机鼠标的照片"}
+{"tag": "two_object", "include": [{"class": "suitcase", "count": 1}, {"class": "dining table", "count": 1}], "prompt": "手提箱和餐桌的照片"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "traffic light", "count": 1}], "prompt": "一个人和交通信号灯的照片"}
+{"tag": "two_object", "include": [{"class": "cell phone", "count": 1}, {"class": "horse", "count": 1}], "prompt": "手机和马的照片"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "giraffe", "count": 1}], "prompt": "棒球棒和长颈鹿的照片"}
+{"tag": "counting", "include": [{"class": "clock", "count": 2}], "exclude": [{"class": "clock", "count": 3}], "prompt": "两个时钟的照片"}
+{"tag": "counting", "include": [{"class": "backpack", "count": 2}], "exclude": [{"class": "backpack", "count": 3}], "prompt": "两个背包的照片"}
+{"tag": "counting", "include": [{"class": "handbag", "count": 4}], "exclude": [{"class": "handbag", "count": 5}], "prompt": "四个手袋的照片"}
+{"tag": "counting", "include": [{"class": "frisbee", "count": 2}], "exclude": [{"class": "frisbee", "count": 3}], "prompt": "两张菜鸟的照片"}
+{"tag": "counting", "include": [{"class": "sports ball", "count": 3}], "exclude": [{"class": "sports ball", "count": 4}], "prompt": "三个运动球的照片"}
+{"tag": "counting", "include": [{"class": "bear", "count": 2}], "exclude": [{"class": "bear", "count": 3}], "prompt": "两只熊的照片"}
+{"tag": "counting", "include": [{"class": "tie", "count": 2}], "exclude": [{"class": "tie", "count": 3}], "prompt": "两个领带的照片"}
+{"tag": "counting", "include": [{"class": "sink", "count": 4}], "exclude": [{"class": "sink", "count": 5}], "prompt": "四个水槽的照片"}
+{"tag": "counting", "include": [{"class": "toothbrush", "count": 2}], "exclude": [{"class": "toothbrush", "count": 3}], "prompt": "两张牙刷的照片"}
+{"tag": "counting", "include": [{"class": "person", "count": 3}], "exclude": [{"class": "person", "count": 4}], "prompt": "三人的照片"}
+{"tag": "counting", "include": [{"class": "tennis racket", "count": 3}], "exclude": [{"class": "tennis racket", "count": 4}], "prompt": "三个网球球拍的照片"}
+{"tag": "counting", "include": [{"class": "bowl", "count": 4}], "exclude": [{"class": "bowl", "count": 5}], "prompt": "四个碗的照片"}
+{"tag": "counting", "include": [{"class": "vase", "count": 4}], "exclude": [{"class": "vase", "count": 5}], "prompt": "四个花瓶的照片"}
+{"tag": "counting", "include": [{"class": "cup", "count": 3}], "exclude": [{"class": "cup", "count": 4}], "prompt": "三杯照片"}
+{"tag": "counting", "include": [{"class": "computer keyboard", "count": 4}], "exclude": [{"class": "computer keyboard", "count": 5}], "prompt": "四个计算机键盘的照片"}
+{"tag": "counting", "include": [{"class": "sink", "count": 3}], "exclude": [{"class": "sink", "count": 4}], "prompt": "三个水槽的照片"}
+{"tag": "counting", "include": [{"class": "oven", "count": 2}], "exclude": [{"class": "oven", "count": 3}], "prompt": "两张烤箱的照片"}
+{"tag": "counting", "include": [{"class": "toilet", "count": 2}], "exclude": [{"class": "toilet", "count": 3}], "prompt": "两张厕所的照片"}
+{"tag": "counting", "include": [{"class": "bicycle", "count": 2}], "exclude": [{"class": "bicycle", "count": 3}], "prompt": "两辆自行车的照片"}
+{"tag": "counting", "include": [{"class": "train", "count": 2}], "exclude": [{"class": "train", "count": 3}], "prompt": "两列火车的照片"}
+{"tag": "counting", "include": [{"class": "orange", "count": 3}], "exclude": [{"class": "orange", "count": 4}], "prompt": "三个橘子的照片"}
+{"tag": "counting", "include": [{"class": "bus", "count": 3}], "exclude": [{"class": "bus", "count": 4}], "prompt": "三辆公共汽车的照片"}
+{"tag": "counting", "include": [{"class": "handbag", "count": 3}], "exclude": [{"class": "handbag", "count": 4}], "prompt": "三个手袋的照片"}
+{"tag": "counting", "include": [{"class": "snowboard", "count": 3}], "exclude": [{"class": "snowboard", "count": 4}], "prompt": "三个滑雪板的照片"}
+{"tag": "counting", "include": [{"class": "snowboard", "count": 2}], "exclude": [{"class": "snowboard", "count": 3}], "prompt": "两张滑雪板的照片"}
+{"tag": "counting", "include": [{"class": "dog", "count": 4}], "exclude": [{"class": "dog", "count": 5}], "prompt": "四只狗的照片"}
+{"tag": "counting", "include": [{"class": "apple", "count": 3}], "exclude": [{"class": "apple", "count": 4}], "prompt": "三个苹果的照片"}
+{"tag": "counting", "include": [{"class": "sheep", "count": 2}], "exclude": [{"class": "sheep", "count": 3}], "prompt": "两只绵羊的照片"}
+{"tag": "counting", "include": [{"class": "hot dog", "count": 3}], "exclude": [{"class": "hot dog", "count": 4}], "prompt": "三只热狗的照片"}
+{"tag": "counting", "include": [{"class": "zebra", "count": 3}], "exclude": [{"class": "zebra", "count": 4}], "prompt": "三个斑马的照片"}
+{"tag": "counting", "include": [{"class": "kite", "count": 3}], "exclude": [{"class": "kite", "count": 4}], "prompt": "三个风筝的照片"}
+{"tag": "counting", "include": [{"class": "apple", "count": 4}], "exclude": [{"class": "apple", "count": 5}], "prompt": "四个苹果的照片"}
+{"tag": "counting", "include": [{"class": "cell phone", "count": 3}], "exclude": [{"class": "cell phone", "count": 4}], "prompt": "三部手机的照片"}
+{"tag": "counting", "include": [{"class": "baseball glove", "count": 4}], "exclude": [{"class": "baseball glove", "count": 5}], "prompt": "四张棒球手套的照片"}
+{"tag": "counting", "include": [{"class": "computer keyboard", "count": 3}], "exclude": [{"class": "computer keyboard", "count": 4}], "prompt": "三个计算机键盘的照片"}
+{"tag": "counting", "include": [{"class": "bed", "count": 2}], "exclude": [{"class": "bed", "count": 3}], "prompt": "两张床的照片"}
+{"tag": "counting", "include": [{"class": "tv remote", "count": 2}], "exclude": [{"class": "tv remote", "count": 3}], "prompt": "两张电视遥控器的照片"}
+{"tag": "counting", "include": [{"class": "fire hydrant", "count": 3}], "exclude": [{"class": "fire hydrant", "count": 4}], "prompt": "三个消防栓的照片"}
+{"tag": "counting", "include": [{"class": "book", "count": 3}], "exclude": [{"class": "book", "count": 4}], "prompt": "三本书的照片"}
+{"tag": "counting", "include": [{"class": "giraffe", "count": 4}], "exclude": [{"class": "giraffe", "count": 5}], "prompt": "四个长颈鹿的照片"}
+{"tag": "counting", "include": [{"class": "vase", "count": 2}], "exclude": [{"class": "vase", "count": 3}], "prompt": "两个花瓶的照片"}
+{"tag": "counting", "include": [{"class": "donut", "count": 4}], "exclude": [{"class": "donut", "count": 5}], "prompt": "四张甜甜圈的照片"}
+{"tag": "counting", "include": [{"class": "chair", "count": 4}], "exclude": [{"class": "chair", "count": 5}], "prompt": "四把椅子的照片"}
+{"tag": "counting", "include": [{"class": "baseball bat", "count": 3}], "exclude": [{"class": "baseball bat", "count": 4}], "prompt": "三个棒球蝙蝠的照片"}
+{"tag": "counting", "include": [{"class": "stop sign", "count": 4}], "exclude": [{"class": "stop sign", "count": 5}], "prompt": "四个停车标志的照片"}
+{"tag": "counting", "include": [{"class": "pizza", "count": 2}], "exclude": [{"class": "pizza", "count": 3}], "prompt": "两张披萨的照片"}
+{"tag": "counting", "include": [{"class": "refrigerator", "count": 3}], "exclude": [{"class": "refrigerator", "count": 4}], "prompt": "三个冰箱的照片"}
+{"tag": "counting", "include": [{"class": "fire hydrant", "count": 2}], "exclude": [{"class": "fire hydrant", "count": 3}], "prompt": "两张消防栓的照片"}
+{"tag": "counting", "include": [{"class": "giraffe", "count": 3}], "exclude": [{"class": "giraffe", "count": 4}], "prompt": "三个长颈鹿的照片"}
+{"tag": "counting", "include": [{"class": "tv", "count": 4}], "exclude": [{"class": "tv", "count": 5}], "prompt": "四台电视的照片"}
+{"tag": "counting", "include": [{"class": "wine glass", "count": 3}], "exclude": [{"class": "wine glass", "count": 4}], "prompt": "三张酒杯的照片"}
+{"tag": "counting", "include": [{"class": "broccoli", "count": 4}], "exclude": [{"class": "broccoli", "count": 5}], "prompt": "四个西兰花的照片"}
+{"tag": "counting", "include": [{"class": "truck", "count": 3}], "exclude": [{"class": "truck", "count": 4}], "prompt": "三辆卡车的照片"}
+{"tag": "counting", "include": [{"class": "truck", "count": 2}], "exclude": [{"class": "truck", "count": 3}], "prompt": "两辆卡车的照片"}
+{"tag": "counting", "include": [{"class": "carrot", "count": 2}], "exclude": [{"class": "carrot", "count": 3}], "prompt": "两张胡萝卜的照片"}
+{"tag": "counting", "include": [{"class": "sandwich", "count": 2}], "exclude": [{"class": "sandwich", "count": 3}], "prompt": "两个三明治的照片"}
+{"tag": "counting", "include": [{"class": "traffic light", "count": 4}], "exclude": [{"class": "traffic light", "count": 5}], "prompt": "四个交通信号灯的照片"}
+{"tag": "counting", "include": [{"class": "clock", "count": 4}], "exclude": [{"class": "clock", "count": 5}], "prompt": "四个时钟的照片"}
+{"tag": "counting", "include": [{"class": "car", "count": 2}], "exclude": [{"class": "car", "count": 3}], "prompt": "两辆车的照片"}
+{"tag": "counting", "include": [{"class": "banana", "count": 2}], "exclude": [{"class": "banana", "count": 3}], "prompt": "两张香蕉的照片"}
+{"tag": "counting", "include": [{"class": "wine glass", "count": 2}], "exclude": [{"class": "wine glass", "count": 3}], "prompt": "两张酒杯的照片"}
+{"tag": "counting", "include": [{"class": "pizza", "count": 3}], "exclude": [{"class": "pizza", "count": 4}], "prompt": "三个披萨的照片"}
+{"tag": "counting", "include": [{"class": "knife", "count": 4}], "exclude": [{"class": "knife", "count": 5}], "prompt": "四刀的照片"}
+{"tag": "counting", "include": [{"class": "suitcase", "count": 3}], "exclude": [{"class": "suitcase", "count": 4}], "prompt": "三个行李箱的照片"}
+{"tag": "counting", "include": [{"class": "zebra", "count": 4}], "exclude": [{"class": "zebra", "count": 5}], "prompt": "四个斑马的照片"}
+{"tag": "counting", "include": [{"class": "teddy bear", "count": 2}], "exclude": [{"class": "teddy bear", "count": 3}], "prompt": "两只泰迪熊的照片"}
+{"tag": "counting", "include": [{"class": "skateboard", "count": 4}], "exclude": [{"class": "skateboard", "count": 5}], "prompt": "四张滑板的照片"}
+{"tag": "counting", "include": [{"class": "hot dog", "count": 4}], "exclude": [{"class": "hot dog", "count": 5}], "prompt": "四只热狗的照片"}
+{"tag": "counting", "include": [{"class": "bird", "count": 3}], "exclude": [{"class": "bird", "count": 4}], "prompt": "三只鸟的照片"}
+{"tag": "counting", "include": [{"class": "boat", "count": 4}], "exclude": [{"class": "boat", "count": 5}], "prompt": "四艘船的照片"}
+{"tag": "counting", "include": [{"class": "microwave", "count": 4}], "exclude": [{"class": "microwave", "count": 5}], "prompt": "四张微波的照片"}
+{"tag": "counting", "include": [{"class": "hair drier", "count": 2}], "exclude": [{"class": "hair drier", "count": 3}], "prompt": "两张雷液的照片"}
+{"tag": "counting", "include": [{"class": "laptop", "count": 3}], "exclude": [{"class": "laptop", "count": 4}], "prompt": "三个笔记本电脑的照片"}
+{"tag": "counting", "include": [{"class": "cow", "count": 3}], "exclude": [{"class": "cow", "count": 4}], "prompt": "三头牛的照片"}
+{"tag": "counting", "include": [{"class": "parking meter", "count": 2}], "exclude": [{"class": "parking meter", "count": 3}], "prompt": "两个停车收费表的照片"}
+{"tag": "counting", "include": [{"class": "bench", "count": 4}], "exclude": [{"class": "bench", "count": 5}], "prompt": "四个长凳的照片"}
+{"tag": "counting", "include": [{"class": "bench", "count": 3}], "exclude": [{"class": "bench", "count": 4}], "prompt": "三个长凳的照片"}
+{"tag": "counting", "include": [{"class": "frisbee", "count": 4}], "exclude": [{"class": "frisbee", "count": 5}], "prompt": "四个飞盘的照片"}
+{"tag": "counting", "include": [{"class": "book", "count": 4}], "exclude": [{"class": "book", "count": 5}], "prompt": "四本书的照片"}
+{"tag": "counting", "include": [{"class": "bus", "count": 4}], "exclude": [{"class": "bus", "count": 5}], "prompt": "四辆公共汽车的照片"}
+{"tag": "colors", "include": [{"class": "fire hydrant", "count": 1, "color": "blue"}], "prompt": "蓝色消防栓的照片"}
+{"tag": "colors", "include": [{"class": "car", "count": 1, "color": "pink"}], "prompt": "粉红色汽车的照片"}
+{"tag": "colors", "include": [{"class": "cup", "count": 1, "color": "purple"}], "prompt": "紫色杯子的照片"}
+{"tag": "colors", "include": [{"class": "cow", "count": 1, "color": "blue"}], "prompt": "蓝牛的照片"}
+{"tag": "colors", "include": [{"class": "boat", "count": 1, "color": "yellow"}], "prompt": "黄色船的照片"}
+{"tag": "colors", "include": [{"class": "umbrella", "count": 1, "color": "blue"}], "prompt": "蓝色伞的照片"}
+{"tag": "colors", "include": [{"class": "elephant", "count": 1, "color": "blue"}], "prompt": "蓝色大象的照片"}
+{"tag": "colors", "include": [{"class": "elephant", "count": 1, "color": "yellow"}], "prompt": "黄色大象的照片"}
+{"tag": "colors", "include": [{"class": "bicycle", "count": 1, "color": "red"}], "prompt": "红色自行车的照片"}
+{"tag": "colors", "include": [{"class": "suitcase", "count": 1, "color": "purple"}], "prompt": "紫色手提箱的照片"}
+{"tag": "colors", "include": [{"class": "hair drier", "count": 1, "color": "purple"}], "prompt": "紫色头发的照片"}
+{"tag": "colors", "include": [{"class": "sandwich", "count": 1, "color": "white"}], "prompt": "白色三明治的照片"}
+{"tag": "colors", "include": [{"class": "elephant", "count": 1, "color": "purple"}], "prompt": "紫色大象的照片"}
+{"tag": "colors", "include": [{"class": "microwave", "count": 1, "color": "green"}], "prompt": "绿色微波炉的照片"}
+{"tag": "colors", "include": [{"class": "zebra", "count": 1, "color": "red"}], "prompt": "红斑马的照片"}
+{"tag": "colors", "include": [{"class": "apple", "count": 1, "color": "red"}], "prompt": "红色苹果的照片"}
+{"tag": "colors", "include": [{"class": "tv remote", "count": 1, "color": "yellow"}], "prompt": "黄色电视遥控器的照片"}
+{"tag": "colors", "include": [{"class": "toilet", "count": 1, "color": "blue"}], "prompt": "蓝色厕所的照片"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "orange"}], "prompt": "一张橙色的照片"}
+{"tag": "colors", "include": [{"class": "donut", "count": 1, "color": "black"}], "prompt": "黑色甜甜圈的照片"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "red"}], "prompt": "红色花瓶的照片"}
+{"tag": "colors", "include": [{"class": "pizza", "count": 1, "color": "purple"}], "prompt": "紫色披萨的照片"}
+{"tag": "colors", "include": [{"class": "skateboard", "count": 1, "color": "pink"}], "prompt": "粉红色滑板的照片"}
+{"tag": "colors", "include": [{"class": "skateboard", "count": 1, "color": "green"}], "prompt": "绿色滑板的照片"}
+{"tag": "colors", "include": [{"class": "bear", "count": 1, "color": "purple"}], "prompt": "紫熊的照片"}
+{"tag": "colors", "include": [{"class": "chair", "count": 1, "color": "brown"}], "prompt": "棕色椅子的照片"}
+{"tag": "colors", "include": [{"class": "computer keyboard", "count": 1, "color": "brown"}], "prompt": "棕色计算机键盘的照片"}
+{"tag": "colors", "include": [{"class": "cow", "count": 1, "color": "orange"}], "prompt": "橙牛的照片"}
+{"tag": "colors", "include": [{"class": "skis", "count": 1, "color": "brown"}], "prompt": "棕色滑雪板的照片"}
+{"tag": "colors", "include": [{"class": "kite", "count": 1, "color": "white"}], "prompt": "白色风筝的照片"}
+{"tag": "colors", "include": [{"class": "dog", "count": 1, "color": "red"}], "prompt": "一张红狗的照片"}
+{"tag": "colors", "include": [{"class": "couch", "count": 1, "color": "green"}], "prompt": "绿沙发的照片"}
+{"tag": "colors", "include": [{"class": "airplane", "count": 1, "color": "yellow"}], "prompt": "黄色飞机的照片"}
+{"tag": "colors", "include": [{"class": "tv", "count": 1, "color": "orange"}], "prompt": "橙色电视的照片"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "white"}], "prompt": "白色剪刀的照片"}
+{"tag": "colors", "include": [{"class": "cell phone", "count": 1, "color": "pink"}], "prompt": "粉红色手机的照片"}
+{"tag": "colors", "include": [{"class": "surfboard", "count": 1, "color": "green"}], "prompt": "绿色冲浪板的照片"}
+{"tag": "colors", "include": [{"class": "fire hydrant", "count": 1, "color": "white"}], "prompt": "白色消防栓的照片"}
+{"tag": "colors", "include": [{"class": "bicycle", "count": 1, "color": "black"}], "prompt": "黑色自行车的照片"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "purple"}], "prompt": "紫色胡萝卜的照片"}
+{"tag": "colors", "include": [{"class": "dining table", "count": 1, "color": "black"}], "prompt": "黑色餐桌的照片"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "purple"}], "prompt": "紫色盆栽植物的照片"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "purple"}], "prompt": "紫色背包的照片"}
+{"tag": "colors", "include": [{"class": "train", "count": 1, "color": "yellow"}], "prompt": "黄色火车的照片"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "pink"}], "prompt": "粉红色盆栽植物的照片"}
+{"tag": "colors", "include": [{"class": "giraffe", "count": 1, "color": "red"}], "prompt": "红色长颈鹿的照片"}
+{"tag": "colors", "include": [{"class": "bear", "count": 1, "color": "brown"}], "prompt": "棕熊的照片"}
+{"tag": "colors", "include": [{"class": "train", "count": 1, "color": "black"}], "prompt": "黑火车的照片"}
+{"tag": "colors", "include": [{"class": "laptop", "count": 1, "color": "orange"}], "prompt": "橙色笔记本电脑的照片"}
+{"tag": "colors", "include": [{"class": "hot dog", "count": 1, "color": "green"}], "prompt": "绿色热狗的照片"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "yellow"}], "prompt": "黄色停车表的照片"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "red"}], "prompt": "一张红盆栽植物的照片"}
+{"tag": "colors", "include": [{"class": "traffic light", "count": 1, "color": "green"}], "prompt": "绿色交通信号灯的照片"}
+{"tag": "colors", "include": [{"class": "tv", "count": 1, "color": "blue"}], "prompt": "蓝色电视的照片"}
+{"tag": "colors", "include": [{"class": "refrigerator", "count": 1, "color": "brown"}], "prompt": "棕色冰箱的照片"}
+{"tag": "colors", "include": [{"class": "tv remote", "count": 1, "color": "black"}], "prompt": "黑色电视遥控器的照片"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "purple"}], "prompt": "紫色剪刀的照片"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "yellow"}], "prompt": "黄色橙色的照片"}
+{"tag": "colors", "include": [{"class": "toaster", "count": 1, "color": "brown"}], "prompt": "棕色烤面包机的照片"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "red"}], "prompt": "红色停车表的照片"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "brown"}], "prompt": "棕色橙色的照片"}
+{"tag": "colors", "include": [{"class": "clock", "count": 1, "color": "green"}], "prompt": "绿色时钟的照片"}
+{"tag": "colors", "include": [{"class": "sheep", "count": 1, "color": "white"}], "prompt": "一张白羊的照片"}
+{"tag": "colors", "include": [{"class": "oven", "count": 1, "color": "yellow"}], "prompt": "黄烤箱的照片"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "green"}], "prompt": "绿色花瓶的照片"}
+{"tag": "colors", "include": [{"class": "teddy bear", "count": 1, "color": "black"}], "prompt": "黑色泰迪熊的照片"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "yellow"}], "prompt": "黄色胡萝卜的照片"}
+{"tag": "colors", "include": [{"class": "hot dog", "count": 1, "color": "black"}], "prompt": "黑色热狗的照片"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "red"}], "prompt": "红剪刀的照片"}
+{"tag": "colors", "include": [{"class": "teddy bear", "count": 1, "color": "white"}], "prompt": "白色泰迪熊的照片"}
+{"tag": "colors", "include": [{"class": "skis", "count": 1, "color": "black"}], "prompt": "黑色滑雪板的照片"}
+{"tag": "colors", "include": [{"class": "dining table", "count": 1, "color": "blue"}], "prompt": "蓝色餐桌的照片"}
+{"tag": "colors", "include": [{"class": "refrigerator", "count": 1, "color": "black"}], "prompt": "黑色冰箱的照片"}
+{"tag": "colors", "include": [{"class": "dog", "count": 1, "color": "white"}], "prompt": "一张白狗的照片"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "orange"}], "prompt": "橙色剪刀的照片"}
+{"tag": "colors", "include": [{"class": "cell phone", "count": 1, "color": "red"}], "prompt": "红色手机的照片"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "white"}], "prompt": "白色橙色的照片"}
+{"tag": "colors", "include": [{"class": "clock", "count": 1, "color": "blue"}], "prompt": "蓝色时钟的照片"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "blue"}], "prompt": "蓝胡萝卜的照片"}
+{"tag": "colors", "include": [{"class": "motorcycle", "count": 1, "color": "green"}], "prompt": "绿色摩托车的照片"}
+{"tag": "colors", "include": [{"class": "stop sign", "count": 1, "color": "pink"}], "prompt": "粉红色停止标志的照片"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "black"}], "prompt": "黑色花瓶的照片"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "black"}], "prompt": "黑色背包的照片"}
+{"tag": "colors", "include": [{"class": "car", "count": 1, "color": "red"}], "prompt": "红色汽车的照片"}
+{"tag": "colors", "include": [{"class": "computer mouse", "count": 1, "color": "green"}], "prompt": "绿色计算机鼠标的照片"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "red"}], "prompt": "红色背包的照片"}
+{"tag": "colors", "include": [{"class": "bus", "count": 1, "color": "green"}], "prompt": "绿色巴士的照片"}
+{"tag": "colors", "include": [{"class": "toaster", "count": 1, "color": "orange"}], "prompt": "橙色烤面包机的照片"}
+{"tag": "colors", "include": [{"class": "fork", "count": 1, "color": "yellow"}], "prompt": "黄叉的照片"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "pink"}], "prompt": "粉红色停车表的照片"}
+{"tag": "colors", "include": [{"class": "book", "count": 1, "color": "blue"}], "prompt": "蓝皮书的照片"}
+{"tag": "colors", "include": [{"class": "broccoli", "count": 1, "color": "yellow"}], "prompt": "黄色西兰花的照片"}
+{"tag": "colors", "include": [{"class": "computer mouse", "count": 1, "color": "orange"}], "prompt": "橙色计算机鼠标的照片"}
+{"tag": "colors", "include": [{"class": "cake", "count": 1, "color": "red"}], "prompt": "红色蛋糕的照片"}
+{"tag": "position", "include": [{"class": "teddy bear", "count": 1}, {"class": "dog", "count": 1, "position": ["right of", 0]}], "prompt": "一张狗的狗的照片"}
+{"tag": "position", "include": [{"class": "kite", "count": 1}, {"class": "wine glass", "count": 1, "position": ["above", 0]}], "prompt": "风筝上方的酒杯照片"}
+{"tag": "position", "include": [{"class": "cup", "count": 1}, {"class": "couch", "count": 1, "position": ["below", 0]}], "prompt": "杯子下沙发的照片"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "laptop", "count": 1, "position": ["left of", 0]}], "prompt": "一张牛的笔记本电脑的照片"}
+{"tag": "position", "include": [{"class": "hair drier", "count": 1}, {"class": "fork", "count": 1, "position": ["above", 0]}], "prompt": "头发叉上方的叉子的照片"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "tie", "count": 1, "position": ["right of", 0]}], "prompt": "棒球棒右边的领带的照片"}
+{"tag": "position", "include": [{"class": "fork", "count": 1}, {"class": "stop sign", "count": 1, "position": ["above", 0]}], "prompt": "叉子上方的停车标志的照片"}
+{"tag": "position", "include": [{"class": "skateboard", "count": 1}, {"class": "bird", "count": 1, "position": ["below", 0]}], "prompt": "滑板下方的鸟的照片"}
+{"tag": "position", "include": [{"class": "tv", "count": 1}, {"class": "apple", "count": 1, "position": ["above", 0]}], "prompt": "电视上方的苹果的照片"}
+{"tag": "position", "include": [{"class": "potted plant", "count": 1}, {"class": "train", "count": 1, "position": ["above", 0]}], "prompt": "盆栽植物上方的火车照片"}
+{"tag": "position", "include": [{"class": "refrigerator", "count": 1}, {"class": "truck", "count": 1, "position": ["left of", 0]}], "prompt": "冰箱左卡车的照片"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "tv remote", "count": 1, "position": ["below", 0]}], "prompt": "牛下电视遥控器的照片"}
+{"tag": "position", "include": [{"class": "train", "count": 1}, {"class": "bottle", "count": 1, "position": ["right of", 0]}], "prompt": "火车右边的瓶子照片"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "dog", "count": 1, "position": ["above", 0]}], "prompt": "牛上方的狗的照片"}
+{"tag": "position", "include": [{"class": "person", "count": 1}, {"class": "skateboard", "count": 1, "position": ["above", 0]}], "prompt": "一个人上方滑板的照片"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "baseball glove", "count": 1, "position": ["below", 0]}], "prompt": "雨伞下方的棒球手套的照片"}
+{"tag": "position", "include": [{"class": "oven", "count": 1}, {"class": "dining table", "count": 1, "position": ["right of", 0]}], "prompt": "烤箱右餐桌的照片"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "hot dog", "count": 1, "position": ["left of", 0]}], "prompt": "一张手提箱剩下的热狗的照片"}
+{"tag": "position", "include": [{"class": "toothbrush", "count": 1}, {"class": "bus", "count": 1, "position": ["below", 0]}], "prompt": "牙刷下方的公共汽车的照片"}
+{"tag": "position", "include": [{"class": "sandwich", "count": 1}, {"class": "backpack", "count": 1, "position": ["right of", 0]}], "prompt": "三明治的背包的照片"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "cake", "count": 1, "position": ["below", 0]}], "prompt": "棒球棒下面的蛋糕的照片"}
+{"tag": "position", "include": [{"class": "tie", "count": 1}, {"class": "dog", "count": 1, "position": ["right of", 0]}], "prompt": "狗的照片的照片"}
+{"tag": "position", "include": [{"class": "boat", "count": 1}, {"class": "suitcase", "count": 1, "position": ["right of", 0]}], "prompt": "船的手提箱的照片"}
+{"tag": "position", "include": [{"class": "clock", "count": 1}, {"class": "bear", "count": 1, "position": ["above", 0]}], "prompt": "熊上方的熊的照片"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "tv remote", "count": 1, "position": ["left of", 0]}], "prompt": "雨伞左的电视遥控器照片"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "sports ball", "count": 1, "position": ["left of", 0]}], "prompt": "雨伞留下的运动球的照片"}
+{"tag": "position", "include": [{"class": "dining table", "count": 1}, {"class": "train", "count": 1, "position": ["right of", 0]}], "prompt": "餐桌右边火车的照片"}
+{"tag": "position", "include": [{"class": "elephant", "count": 1}, {"class": "hair drier", "count": 1, "position": ["below", 0]}], "prompt": "大象下方发毛的照片"}
+{"tag": "position", "include": [{"class": "spoon", "count": 1}, {"class": "tennis racket", "count": 1, "position": ["right of", 0]}], "prompt": "汤匙的网球球拍的照片"}
+{"tag": "position", "include": [{"class": "hot dog", "count": 1}, {"class": "wine glass", "count": 1, "position": ["right of", 0]}], "prompt": "热狗的酒杯的照片"}
+{"tag": "position", "include": [{"class": "bench", "count": 1}, {"class": "computer mouse", "count": 1, "position": ["left of", 0]}], "prompt": "长凳左的计算机鼠标的照片"}
+{"tag": "position", "include": [{"class": "orange", "count": 1}, {"class": "carrot", "count": 1, "position": ["left of", 0]}], "prompt": "一张橙色的胡萝卜的照片"}
+{"tag": "position", "include": [{"class": "toothbrush", "count": 1}, {"class": "kite", "count": 1, "position": ["above", 0]}], "prompt": "牙刷上方风筝的照片"}
+{"tag": "position", "include": [{"class": "traffic light", "count": 1}, {"class": "toaster", "count": 1, "position": ["below", 0]}], "prompt": "交通信号灯下方的烤面包机的照片"}
+{"tag": "position", "include": [{"class": "baseball glove", "count": 1}, {"class": "cat", "count": 1, "position": ["below", 0]}], "prompt": "棒球手套下面的猫的照片"}
+{"tag": "position", "include": [{"class": "zebra", "count": 1}, {"class": "skis", "count": 1, "position": ["right of", 0]}], "prompt": "斑马的滑雪板的照片"}
+{"tag": "position", "include": [{"class": "chair", "count": 1}, {"class": "stop sign", "count": 1, "position": ["above", 0]}], "prompt": "椅子上方的停车标志的照片"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "stop sign", "count": 1, "position": ["above", 0]}], "prompt": "停车表上方的停车标志的照片"}
+{"tag": "position", "include": [{"class": "skateboard", "count": 1}, {"class": "hot dog", "count": 1, "position": ["right of", 0]}], "prompt": "滑板的热狗的照片"}
+{"tag": "position", "include": [{"class": "computer keyboard", "count": 1}, {"class": "pizza", "count": 1, "position": ["below", 0]}], "prompt": "计算机键盘下方的披萨的照片"}
+{"tag": "position", "include": [{"class": "toilet", "count": 1}, {"class": "hair drier", "count": 1, "position": ["left of", 0]}], "prompt": "厕所左头发的照片"}
+{"tag": "position", "include": [{"class": "stop sign", "count": 1}, {"class": "cow", "count": 1, "position": ["left of", 0]}], "prompt": "一张牛的左停车标志的照片"}
+{"tag": "position", "include": [{"class": "skis", "count": 1}, {"class": "suitcase", "count": 1, "position": ["above", 0]}], "prompt": "滑雪板上方的手提箱的照片"}
+{"tag": "position", "include": [{"class": "laptop", "count": 1}, {"class": "book", "count": 1, "position": ["above", 0]}], "prompt": "笔记本电脑上方的书的照片"}
+{"tag": "position", "include": [{"class": "pizza", "count": 1}, {"class": "toothbrush", "count": 1, "position": ["below", 0]}], "prompt": "披萨下面的牙刷的照片"}
+{"tag": "position", "include": [{"class": "kite", "count": 1}, {"class": "toilet", "count": 1, "position": ["left of", 0]}], "prompt": "风筝剩下的厕所的照片"}
+{"tag": "position", "include": [{"class": "sink", "count": 1}, {"class": "tie", "count": 1, "position": ["above", 0]}], "prompt": "水槽上方的领带的照片"}
+{"tag": "position", "include": [{"class": "couch", "count": 1}, {"class": "bird", "count": 1, "position": ["left of", 0]}], "prompt": "沙发剩下的鸟的照片"}
+{"tag": "position", "include": [{"class": "sports ball", "count": 1}, {"class": "bed", "count": 1, "position": ["right of", 0]}], "prompt": "运动球的床的照片"}
+{"tag": "position", "include": [{"class": "surfboard", "count": 1}, {"class": "elephant", "count": 1, "position": ["below", 0]}], "prompt": "冲浪板下方的大象的照片"}
+{"tag": "position", "include": [{"class": "motorcycle", "count": 1}, {"class": "frisbee", "count": 1, "position": ["right of", 0]}], "prompt": "摩托车飞盘右边的照片"}
+{"tag": "position", "include": [{"class": "fire hydrant", "count": 1}, {"class": "vase", "count": 1, "position": ["above", 0]}], "prompt": "消防栓上方花瓶的照片"}
+{"tag": "position", "include": [{"class": "elephant", "count": 1}, {"class": "zebra", "count": 1, "position": ["left of", 0]}], "prompt": "一张大象左斑马的照片"}
+{"tag": "position", "include": [{"class": "bear", "count": 1}, {"class": "bench", "count": 1, "position": ["left of", 0]}], "prompt": "一张熊左长凳的照片"}
+{"tag": "position", "include": [{"class": "bench", "count": 1}, {"class": "donut", "count": 1, "position": ["right of", 0]}], "prompt": "长凳上的甜甜圈右边的照片"}
+{"tag": "position", "include": [{"class": "horse", "count": 1}, {"class": "frisbee", "count": 1, "position": ["below", 0]}], "prompt": "一匹马下方的飞盘的照片"}
+{"tag": "position", "include": [{"class": "snowboard", "count": 1}, {"class": "computer keyboard", "count": 1, "position": ["above", 0]}], "prompt": "滑雪板上方的计算机键盘的照片"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "tv", "count": 1, "position": ["below", 0]}], "prompt": "牛下电视的照片"}
+{"tag": "position", "include": [{"class": "horse", "count": 1}, {"class": "elephant", "count": 1, "position": ["below", 0]}], "prompt": "一匹马下方的大象的照片"}
+{"tag": "position", "include": [{"class": "banana", "count": 1}, {"class": "suitcase", "count": 1, "position": ["left of", 0]}], "prompt": "香蕉左侧的手提箱的照片"}
+{"tag": "position", "include": [{"class": "airplane", "count": 1}, {"class": "train", "count": 1, "position": ["below", 0]}], "prompt": "飞机下方火车的照片"}
+{"tag": "position", "include": [{"class": "backpack", "count": 1}, {"class": "cat", "count": 1, "position": ["below", 0]}], "prompt": "背包下方的猫的照片"}
+{"tag": "position", "include": [{"class": "cake", "count": 1}, {"class": "backpack", "count": 1, "position": ["below", 0]}], "prompt": "蛋糕下背包的照片"}
+{"tag": "position", "include": [{"class": "knife", "count": 1}, {"class": "sandwich", "count": 1, "position": ["below", 0]}], "prompt": "刀下面的三明治的照片"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "bicycle", "count": 1, "position": ["above", 0]}], "prompt": "停车表上方的自行车的照片"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "knife", "count": 1, "position": ["right of", 0]}], "prompt": "手提箱的刀的照片"}
+{"tag": "position", "include": [{"class": "knife", "count": 1}, {"class": "hot dog", "count": 1, "position": ["above", 0]}], "prompt": "刀上方的热狗的照片"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "zebra", "count": 1, "position": ["right of", 0]}], "prompt": "斑马右边的斑马的照片"}
+{"tag": "position", "include": [{"class": "zebra", "count": 1}, {"class": "chair", "count": 1, "position": ["left of", 0]}], "prompt": "斑马左椅子的照片"}
+{"tag": "position", "include": [{"class": "airplane", "count": 1}, {"class": "cow", "count": 1, "position": ["below", 0]}], "prompt": "飞机下方的牛的照片"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "cup", "count": 1, "position": ["left of", 0]}], "prompt": "雨伞左杯的照片"}
+{"tag": "position", "include": [{"class": "computer keyboard", "count": 1}, {"class": "zebra", "count": 1, "position": ["below", 0]}], "prompt": "计算机键盘下方斑马的照片"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "zebra", "count": 1, "position": ["below", 0]}], "prompt": "西兰花下面的斑马的照片"}
+{"tag": "position", "include": [{"class": "sports ball", "count": 1}, {"class": "laptop", "count": 1, "position": ["below", 0]}], "prompt": "运动球下面的笔记本电脑的照片"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "truck", "count": 1, "position": ["left of", 0]}], "prompt": "一张棒球棒左卡车的照片"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "refrigerator", "count": 1, "position": ["above", 0]}], "prompt": "棒球棒上方的冰箱的照片"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "tv", "count": 1, "position": ["above", 0]}], "prompt": "棒球棒上方电视的照片"}
+{"tag": "position", "include": [{"class": "bear", "count": 1}, {"class": "baseball glove", "count": 1, "position": ["right of", 0]}], "prompt": "熊手套的照片"}
+{"tag": "position", "include": [{"class": "scissors", "count": 1}, {"class": "refrigerator", "count": 1, "position": ["below", 0]}], "prompt": "剪刀下面的冰箱的照片"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "dining table", "count": 1, "position": ["above", 0]}], "prompt": "手提箱上方的餐桌的照片"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "parking meter", "count": 1, "position": ["above", 0]}], "prompt": "一张西兰花上方的停车仪的照片"}
+{"tag": "position", "include": [{"class": "truck", "count": 1}, {"class": "frisbee", "count": 1, "position": ["above", 0]}], "prompt": "卡车上方的飞盘的照片"}
+{"tag": "position", "include": [{"class": "banana", "count": 1}, {"class": "pizza", "count": 1, "position": ["right of", 0]}], "prompt": "香蕉的比萨饼的照片"}
+{"tag": "position", "include": [{"class": "boat", "count": 1}, {"class": "bus", "count": 1, "position": ["above", 0]}], "prompt": "船上的公共汽车的照片"}
+{"tag": "position", "include": [{"class": "tennis racket", "count": 1}, {"class": "cell phone", "count": 1, "position": ["left of", 0]}], "prompt": "剩下的网球球拍的手机照片"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "horse", "count": 1, "position": ["right of", 0]}], "prompt": "一匹马的照片"}
+{"tag": "position", "include": [{"class": "bottle", "count": 1}, {"class": "broccoli", "count": 1, "position": ["above", 0]}], "prompt": "瓶上方的西兰花的照片"}
+{"tag": "position", "include": [{"class": "horse", "count": 1}, {"class": "vase", "count": 1, "position": ["right of", 0]}], "prompt": "一匹马的花瓶的照片"}
+{"tag": "position", "include": [{"class": "spoon", "count": 1}, {"class": "bear", "count": 1, "position": ["above", 0]}], "prompt": "汤匙上方的熊的照片"}
+{"tag": "position", "include": [{"class": "bed", "count": 1}, {"class": "zebra", "count": 1, "position": ["right of", 0]}], "prompt": "一张斑马右边的斑马的照片"}
+{"tag": "position", "include": [{"class": "laptop", "count": 1}, {"class": "cow", "count": 1, "position": ["right of", 0]}], "prompt": "一张笔记本电脑右牛的照片"}
+{"tag": "position", "include": [{"class": "frisbee", "count": 1}, {"class": "bed", "count": 1, "position": ["right of", 0]}], "prompt": "飞盘的床的照片"}
+{"tag": "position", "include": [{"class": "motorcycle", "count": 1}, {"class": "tie", "count": 1, "position": ["right of", 0]}], "prompt": "一张摩托车右带的照片"}
+{"tag": "position", "include": [{"class": "tv", "count": 1}, {"class": "laptop", "count": 1, "position": ["right of", 0]}], "prompt": "电视笔记本电脑的照片"}
+{"tag": "position", "include": [{"class": "chair", "count": 1}, {"class": "cell phone", "count": 1, "position": ["right of", 0]}], "prompt": "椅子的手机的照片"}
+{"tag": "position", "include": [{"class": "potted plant", "count": 1}, {"class": "couch", "count": 1, "position": ["below", 0]}], "prompt": "盆栽植物下方沙发的照片"}
+{"tag": "position", "include": [{"class": "tv", "count": 1}, {"class": "clock", "count": 1, "position": ["below", 0]}], "prompt": "电视下方时钟的照片"}
+{"tag": "position", "include": [{"class": "vase", "count": 1}, {"class": "couch", "count": 1, "position": ["below", 0]}], "prompt": "花瓶下沙发的照片"}
+{"tag": "position", "include": [{"class": "cat", "count": 1}, {"class": "donut", "count": 1, "position": ["below", 0]}], "prompt": "猫下面的甜甜圈的照片"}
+{"tag": "position", "include": [{"class": "toaster", "count": 1}, {"class": "couch", "count": 1, "position": ["left of", 0]}], "prompt": "烤面包机左沙发的照片"}
+{"tag": "color_attr", "include": [{"class": "wine glass", "count": 1, "color": "purple"}, {"class": "apple", "count": 1, "color": "black"}], "prompt": "紫色酒杯和黑色苹果的照片"}
+{"tag": "color_attr", "include": [{"class": "bus", "count": 1, "color": "green"}, {"class": "microwave", "count": 1, "color": "purple"}], "prompt": "绿色巴士和紫色微波炉的照片"}
+{"tag": "color_attr", "include": [{"class": "skis", "count": 1, "color": "green"}, {"class": "airplane", "count": 1, "color": "brown"}], "prompt": "绿色滑雪板和棕色飞机的照片"}
+{"tag": "color_attr", "include": [{"class": "computer keyboard", "count": 1, "color": "yellow"}, {"class": "sink", "count": 1, "color": "black"}], "prompt": "黄色计算机键盘和黑色水槽的照片"}
+{"tag": "color_attr", "include": [{"class": "oven", "count": 1, "color": "pink"}, {"class": "motorcycle", "count": 1, "color": "green"}], "prompt": "粉红色烤箱和绿色摩托车的照片"}
+{"tag": "color_attr", "include": [{"class": "parking meter", "count": 1, "color": "purple"}, {"class": "laptop", "count": 1, "color": "red"}], "prompt": "紫色停车表和红色笔记本电脑的照片"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "yellow"}, {"class": "computer mouse", "count": 1, "color": "orange"}], "prompt": "黄色滑板和橙色计算机鼠标的照片"}
+{"tag": "color_attr", "include": [{"class": "skis", "count": 1, "color": "red"}, {"class": "tie", "count": 1, "color": "brown"}], "prompt": "红色滑雪板和棕色领带的照片"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "pink"}, {"class": "train", "count": 1, "color": "black"}], "prompt": "粉红色滑板和黑火车的照片"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "white"}, {"class": "bed", "count": 1, "color": "purple"}], "prompt": "白色手袋和紫色床的照片"}
+{"tag": "color_attr", "include": [{"class": "elephant", "count": 1, "color": "purple"}, {"class": "sports ball", "count": 1, "color": "brown"}], "prompt": "紫色大象和棕色运动球的照片"}
+{"tag": "color_attr", "include": [{"class": "dog", "count": 1, "color": "purple"}, {"class": "dining table", "count": 1, "color": "black"}], "prompt": "紫色狗和黑色餐桌的照片"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "white"}, {"class": "car", "count": 1, "color": "red"}], "prompt": "白色餐桌和红色汽车的照片"}
+{"tag": "color_attr", "include": [{"class": "cell phone", "count": 1, "color": "blue"}, {"class": "apple", "count": 1, "color": "green"}], "prompt": "蓝色手机和绿色苹果的照片"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "red"}, {"class": "potted plant", "count": 1, "color": "orange"}], "prompt": "一辆红色汽车和橙盆栽植物的照片"}
+{"tag": "color_attr", "include": [{"class": "carrot", "count": 1, "color": "brown"}, {"class": "potted plant", "count": 1, "color": "white"}], "prompt": "棕色胡萝卜和白色盆栽植物的照片"}
+{"tag": "color_attr", "include": [{"class": "kite", "count": 1, "color": "black"}, {"class": "bear", "count": 1, "color": "green"}], "prompt": "黑色风筝和绿熊的照片"}
+{"tag": "color_attr", "include": [{"class": "laptop", "count": 1, "color": "blue"}, {"class": "bear", "count": 1, "color": "brown"}], "prompt": "蓝色笔记本电脑和棕熊的照片"}
+{"tag": "color_attr", "include": [{"class": "teddy bear", "count": 1, "color": "green"}, {"class": "kite", "count": 1, "color": "brown"}], "prompt": "一张绿色泰迪熊和棕色风筝的照片"}
+{"tag": "color_attr", "include": [{"class": "stop sign", "count": 1, "color": "yellow"}, {"class": "potted plant", "count": 1, "color": "blue"}], "prompt": "黄色停车标志和蓝色盆栽植物的照片"}
+{"tag": "color_attr", "include": [{"class": "snowboard", "count": 1, "color": "orange"}, {"class": "cat", "count": 1, "color": "green"}], "prompt": "橙色滑雪板和绿猫的照片"}
+{"tag": "color_attr", "include": [{"class": "truck", "count": 1, "color": "orange"}, {"class": "sink", "count": 1, "color": "pink"}], "prompt": "橙色卡车和粉红色水槽的照片"}
+{"tag": "color_attr", "include": [{"class": "hot dog", "count": 1, "color": "brown"}, {"class": "pizza", "count": 1, "color": "purple"}], "prompt": "棕色热狗和紫色披萨的照片"}
+{"tag": "color_attr", "include": [{"class": "couch", "count": 1, "color": "green"}, {"class": "umbrella", "count": 1, "color": "orange"}], "prompt": "绿沙发和橙色伞的照片"}
+{"tag": "color_attr", "include": [{"class": "bed", "count": 1, "color": "brown"}, {"class": "cell phone", "count": 1, "color": "pink"}], "prompt": "棕色床和粉红色手机的照片"}
+{"tag": "color_attr", "include": [{"class": "broccoli", "count": 1, "color": "black"}, {"class": "cake", "count": 1, "color": "yellow"}], "prompt": "黑色西兰花和黄色蛋糕的照片"}
+{"tag": "color_attr", "include": [{"class": "train", "count": 1, "color": "red"}, {"class": "bear", "count": 1, "color": "purple"}], "prompt": "红色火车和紫熊的照片"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "purple"}, {"class": "sink", "count": 1, "color": "black"}], "prompt": "紫色网球球拍和黑色水槽的照片"}
+{"tag": "color_attr", "include": [{"class": "vase", "count": 1, "color": "blue"}, {"class": "banana", "count": 1, "color": "black"}], "prompt": "蓝色花瓶和黑色香蕉的照片"}
+{"tag": "color_attr", "include": [{"class": "clock", "count": 1, "color": "blue"}, {"class": "cup", "count": 1, "color": "white"}], "prompt": "蓝色时钟和白杯的照片"}
+{"tag": "color_attr", "include": [{"class": "umbrella", "count": 1, "color": "red"}, {"class": "couch", "count": 1, "color": "blue"}], "prompt": "红色伞和蓝色沙发的照片"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "white"}, {"class": "giraffe", "count": 1, "color": "red"}], "prompt": "白色手袋和红色长颈鹿的照片"}
+{"tag": "color_attr", "include": [{"class": "tv remote", "count": 1, "color": "pink"}, {"class": "airplane", "count": 1, "color": "blue"}], "prompt": "粉红色电视遥控器和蓝色飞机的照片"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "pink"}, {"class": "scissors", "count": 1, "color": "black"}], "prompt": "粉红色手提包和黑色剪刀的照片"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "brown"}, {"class": "hair drier", "count": 1, "color": "pink"}], "prompt": "棕色汽车和粉红色头发的照片"}
+{"tag": "color_attr", "include": [{"class": "bus", "count": 1, "color": "black"}, {"class": "cell phone", "count": 1, "color": "brown"}], "prompt": "黑色巴士和棕色手机的照片"}
+{"tag": "color_attr", "include": [{"class": "sheep", "count": 1, "color": "purple"}, {"class": "banana", "count": 1, "color": "pink"}], "prompt": "紫色绵羊和粉红色香蕉的照片"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "blue"}, {"class": "cell phone", "count": 1, "color": "white"}], "prompt": "蓝色手袋和白色手机的照片"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "white"}, {"class": "umbrella", "count": 1, "color": "green"}], "prompt": "白色披萨和绿色雨伞的照片"}
+{"tag": "color_attr", "include": [{"class": "tie", "count": 1, "color": "white"}, {"class": "skateboard", "count": 1, "color": "purple"}], "prompt": "白色领带和紫色滑板的照片"}
+{"tag": "color_attr", "include": [{"class": "sports ball", "count": 1, "color": "yellow"}, {"class": "boat", "count": 1, "color": "green"}], "prompt": "黄色运动球和绿船的照片"}
+{"tag": "color_attr", "include": [{"class": "wine glass", "count": 1, "color": "white"}, {"class": "giraffe", "count": 1, "color": "brown"}], "prompt": "白葡萄酒玻璃和棕色长颈鹿的照片"}
+{"tag": "color_attr", "include": [{"class": "bowl", "count": 1, "color": "yellow"}, {"class": "baseball glove", "count": 1, "color": "white"}], "prompt": "黄色碗和白色棒球手套的照片"}
+{"tag": "color_attr", "include": [{"class": "microwave", "count": 1, "color": "orange"}, {"class": "spoon", "count": 1, "color": "black"}], "prompt": "橙色微波炉和黑勺的照片"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "orange"}, {"class": "bowl", "count": 1, "color": "pink"}], "prompt": "橙色滑板和粉红色碗的照片"}
+{"tag": "color_attr", "include": [{"class": "toilet", "count": 1, "color": "blue"}, {"class": "suitcase", "count": 1, "color": "white"}], "prompt": "蓝色厕所和白色手提箱的照片"}
+{"tag": "color_attr", "include": [{"class": "boat", "count": 1, "color": "white"}, {"class": "hot dog", "count": 1, "color": "orange"}], "prompt": "白船和橙色热狗的照片"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "yellow"}, {"class": "dog", "count": 1, "color": "pink"}], "prompt": "黄色餐桌和粉红色狗的照片"}
+{"tag": "color_attr", "include": [{"class": "cake", "count": 1, "color": "red"}, {"class": "chair", "count": 1, "color": "purple"}], "prompt": "红色蛋糕和紫色椅子的照片"}
+{"tag": "color_attr", "include": [{"class": "tie", "count": 1, "color": "blue"}, {"class": "dining table", "count": 1, "color": "pink"}], "prompt": "蓝色领带和粉红色餐桌的照片"}
+{"tag": "color_attr", "include": [{"class": "cow", "count": 1, "color": "blue"}, {"class": "computer keyboard", "count": 1, "color": "black"}], "prompt": "蓝牛和黑色计算机键盘的照片"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "yellow"}, {"class": "oven", "count": 1, "color": "green"}], "prompt": "黄色披萨和绿烤箱的照片"}
+{"tag": "color_attr", "include": [{"class": "laptop", "count": 1, "color": "red"}, {"class": "car", "count": 1, "color": "brown"}], "prompt": "红色笔记本电脑和棕色汽车的照片"}
+{"tag": "color_attr", "include": [{"class": "computer keyboard", "count": 1, "color": "purple"}, {"class": "scissors", "count": 1, "color": "blue"}], "prompt": "紫色计算机键盘和蓝色剪刀的照片"}
+{"tag": "color_attr", "include": [{"class": "surfboard", "count": 1, "color": "green"}, {"class": "oven", "count": 1, "color": "orange"}], "prompt": "绿色冲浪板和橙烤箱的照片"}
+{"tag": "color_attr", "include": [{"class": "parking meter", "count": 1, "color": "yellow"}, {"class": "refrigerator", "count": 1, "color": "pink"}], "prompt": "黄色停车表和粉红色冰箱的照片"}
+{"tag": "color_attr", "include": [{"class": "computer mouse", "count": 1, "color": "brown"}, {"class": "bottle", "count": 1, "color": "purple"}], "prompt": "棕色计算机鼠标和紫色瓶的照片"}
+{"tag": "color_attr", "include": [{"class": "umbrella", "count": 1, "color": "red"}, {"class": "cow", "count": 1, "color": "green"}], "prompt": "红色伞和绿头牛的照片"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "red"}, {"class": "cell phone", "count": 1, "color": "black"}], "prompt": "红色长颈鹿和黑色手机的照片"}
+{"tag": "color_attr", "include": [{"class": "oven", "count": 1, "color": "brown"}, {"class": "train", "count": 1, "color": "purple"}], "prompt": "棕色烤箱和紫色火车的照片"}
+{"tag": "color_attr", "include": [{"class": "baseball bat", "count": 1, "color": "blue"}, {"class": "book", "count": 1, "color": "pink"}], "prompt": "蓝色棒球棒和粉红色书的照片"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "green"}, {"class": "bowl", "count": 1, "color": "yellow"}], "prompt": "绿色杯子和黄色碗的照片"}
+{"tag": "color_attr", "include": [{"class": "suitcase", "count": 1, "color": "yellow"}, {"class": "bus", "count": 1, "color": "brown"}], "prompt": "黄色手提箱和棕色巴士的照片"}
+{"tag": "color_attr", "include": [{"class": "motorcycle", "count": 1, "color": "orange"}, {"class": "donut", "count": 1, "color": "pink"}], "prompt": "橙色摩托车和粉红色甜甜圈的照片"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "orange"}, {"class": "baseball glove", "count": 1, "color": "white"}], "prompt": "橙色长颈鹿和白色棒球手套的照片"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "orange"}, {"class": "carrot", "count": 1, "color": "green"}], "prompt": "橙色手袋和绿色胡萝卜的照片"}
+{"tag": "color_attr", "include": [{"class": "bottle", "count": 1, "color": "black"}, {"class": "refrigerator", "count": 1, "color": "white"}], "prompt": "黑色瓶子和白色冰箱的照片"}
+{"tag": "color_attr", "include": [{"class": "dog", "count": 1, "color": "white"}, {"class": "potted plant", "count": 1, "color": "blue"}], "prompt": "一张白狗和蓝盆植物的照片"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "orange"}, {"class": "car", "count": 1, "color": "red"}], "prompt": "橙色手袋和红色汽车的照片"}
+{"tag": "color_attr", "include": [{"class": "stop sign", "count": 1, "color": "red"}, {"class": "book", "count": 1, "color": "blue"}], "prompt": "红色停车标志和蓝皮书的照片"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "yellow"}, {"class": "toothbrush", "count": 1, "color": "orange"}], "prompt": "黄色汽车和橙色牙刷的照片"}
+{"tag": "color_attr", "include": [{"class": "potted plant", "count": 1, "color": "black"}, {"class": "toilet", "count": 1, "color": "yellow"}], "prompt": "黑色盆栽植物和黄色厕所的照片"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "brown"}, {"class": "suitcase", "count": 1, "color": "white"}], "prompt": "棕色餐桌和白色手提箱的照片"}
+{"tag": "color_attr", "include": [{"class": "donut", "count": 1, "color": "orange"}, {"class": "stop sign", "count": 1, "color": "yellow"}], "prompt": "橙甜甜圈和黄色停车标志的照片"}
+{"tag": "color_attr", "include": [{"class": "suitcase", "count": 1, "color": "green"}, {"class": "boat", "count": 1, "color": "blue"}], "prompt": "绿色手提箱和蓝色船的照片"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "orange"}, {"class": "sports ball", "count": 1, "color": "yellow"}], "prompt": "橙色网球拍和黄色运动球的照片"}
+{"tag": "color_attr", "include": [{"class": "computer keyboard", "count": 1, "color": "purple"}, {"class": "chair", "count": 1, "color": "red"}], "prompt": "紫色计算机键盘和红色椅子的照片"}
+{"tag": "color_attr", "include": [{"class": "suitcase", "count": 1, "color": "purple"}, {"class": "pizza", "count": 1, "color": "orange"}], "prompt": "紫色手提箱和橙色披萨的照片"}
+{"tag": "color_attr", "include": [{"class": "bottle", "count": 1, "color": "white"}, {"class": "sheep", "count": 1, "color": "blue"}], "prompt": "白色瓶和蓝羊的照片"}
+{"tag": "color_attr", "include": [{"class": "backpack", "count": 1, "color": "purple"}, {"class": "umbrella", "count": 1, "color": "white"}], "prompt": "紫色背包和白色雨伞的照片"}
+{"tag": "color_attr", "include": [{"class": "potted plant", "count": 1, "color": "orange"}, {"class": "spoon", "count": 1, "color": "black"}], "prompt": "橙盆栽植物和黑勺的照片"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "green"}, {"class": "dog", "count": 1, "color": "black"}], "prompt": "绿色网球拍和黑狗的照片"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "yellow"}, {"class": "refrigerator", "count": 1, "color": "blue"}], "prompt": "黄色手袋和蓝色冰箱的照片"}
+{"tag": "color_attr", "include": [{"class": "broccoli", "count": 1, "color": "pink"}, {"class": "sink", "count": 1, "color": "red"}], "prompt": "粉红色西兰花和红色水槽的照片"}
+{"tag": "color_attr", "include": [{"class": "bowl", "count": 1, "color": "red"}, {"class": "sink", "count": 1, "color": "pink"}], "prompt": "红色碗和粉红色水槽的照片"}
+{"tag": "color_attr", "include": [{"class": "toilet", "count": 1, "color": "white"}, {"class": "apple", "count": 1, "color": "red"}], "prompt": "白色厕所和红色苹果的照片"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "pink"}, {"class": "sandwich", "count": 1, "color": "black"}], "prompt": "粉红色餐桌和黑色三明治的照片"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "black"}, {"class": "parking meter", "count": 1, "color": "green"}], "prompt": "黑色汽车和绿色停车表的照片"}
+{"tag": "color_attr", "include": [{"class": "bird", "count": 1, "color": "yellow"}, {"class": "motorcycle", "count": 1, "color": "black"}], "prompt": "黄色鸟和黑色摩托车的照片"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "brown"}, {"class": "stop sign", "count": 1, "color": "white"}], "prompt": "棕色长颈鹿和白色停车标志的照片"}
+{"tag": "color_attr", "include": [{"class": "banana", "count": 1, "color": "white"}, {"class": "elephant", "count": 1, "color": "black"}], "prompt": "白色香蕉和黑大象的照片"}
+{"tag": "color_attr", "include": [{"class": "cow", "count": 1, "color": "orange"}, {"class": "sandwich", "count": 1, "color": "purple"}], "prompt": "橙牛和紫色三明治的照片"}
+{"tag": "color_attr", "include": [{"class": "clock", "count": 1, "color": "red"}, {"class": "cell phone", "count": 1, "color": "black"}], "prompt": "红色时钟和黑色手机的照片"}
+{"tag": "color_attr", "include": [{"class": "knife", "count": 1, "color": "brown"}, {"class": "donut", "count": 1, "color": "blue"}], "prompt": "棕色刀和蓝色甜甜圈的照片"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "red"}, {"class": "handbag", "count": 1, "color": "pink"}], "prompt": "红色杯子和粉红色手袋的照片"}
+{"tag": "color_attr", "include": [{"class": "bicycle", "count": 1, "color": "yellow"}, {"class": "motorcycle", "count": 1, "color": "red"}], "prompt": "黄色自行车和红色摩托车的照片"}
+{"tag": "color_attr", "include": [{"class": "orange", "count": 1, "color": "red"}, {"class": "broccoli", "count": 1, "color": "purple"}], "prompt": "红色橙色和紫色西兰花的照片"}
+{"tag": "color_attr", "include": [{"class": "traffic light", "count": 1, "color": "orange"}, {"class": "toilet", "count": 1, "color": "white"}], "prompt": "橙色交通灯和白色厕所的照片"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "green"}, {"class": "pizza", "count": 1, "color": "red"}], "prompt": "绿色杯子和红色披萨的照片"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "blue"}, {"class": "baseball glove", "count": 1, "color": "yellow"}], "prompt": "蓝色披萨和黄色棒球手套的照片"}

@@ -1,0 +1,553 @@
+{"tag": "single_object", "include": [{"class": "bench", "count": 1}], "prompt": "एक बेंच की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "cow", "count": 1}], "prompt": "एक गाय की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "bicycle", "count": 1}], "prompt": "एक साइकिल की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "clock", "count": 1}], "prompt": "एक घड़ी की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "carrot", "count": 1}], "prompt": "एक गाजर की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "suitcase", "count": 1}], "prompt": "एक सूटकेस की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "fork", "count": 1}], "prompt": "एक कांटा की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "surfboard", "count": 1}], "prompt": "एक सर्फबोर्ड की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "refrigerator", "count": 1}], "prompt": "एक रेफ्रिजरेटर की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "cup", "count": 1}], "prompt": "एक कप की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "microwave", "count": 1}], "prompt": "एक माइक्रोवेव की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "potted plant", "count": 1}], "prompt": "एक पॉटेड प्लांट की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "snowboard", "count": 1}], "prompt": "एक स्नोबोर्ड की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "zebra", "count": 1}], "prompt": "एक ज़ेबरा की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "parking meter", "count": 1}], "prompt": "एक पार्किंग मीटर की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "spoon", "count": 1}], "prompt": "एक चम्मच की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "skateboard", "count": 1}], "prompt": "एक स्केटबोर्ड की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "car", "count": 1}], "prompt": "एक कार की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "motorcycle", "count": 1}], "prompt": "एक मोटरसाइकिल की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "traffic light", "count": 1}], "prompt": "ट्रैफिक लाइट की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "book", "count": 1}], "prompt": "एक किताब की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "couch", "count": 1}], "prompt": "एक सोफे की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "backpack", "count": 1}], "prompt": "एक बैकपैक की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "computer keyboard", "count": 1}], "prompt": "एक कंप्यूटर कीबोर्ड की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "toaster", "count": 1}], "prompt": "एक टोस्टर की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "bird", "count": 1}], "prompt": "एक पक्षी की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "bowl", "count": 1}], "prompt": "एक कटोरे की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "dog", "count": 1}], "prompt": "एक कुत्ते की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "tie", "count": 1}], "prompt": "एक टाई की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "laptop", "count": 1}], "prompt": "एक लैपटॉप की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "computer mouse", "count": 1}], "prompt": "एक कंप्यूटर माउस की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "sandwich", "count": 1}], "prompt": "एक सैंडविच की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "baseball bat", "count": 1}], "prompt": "बेसबॉल बैट की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "train", "count": 1}], "prompt": "एक ट्रेन की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "cell phone", "count": 1}], "prompt": "एक सेल फोन की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "chair", "count": 1}], "prompt": "एक कुर्सी की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "tv", "count": 1}], "prompt": "एक टीवी की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "broccoli", "count": 1}], "prompt": "एक ब्रोकोली की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "bed", "count": 1}], "prompt": "एक बिस्तर की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "skis", "count": 1}], "prompt": "एक स्की की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "handbag", "count": 1}], "prompt": "एक हैंडबैग की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "pizza", "count": 1}], "prompt": "एक पिज्जा की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "frisbee", "count": 1}], "prompt": "एक फ्रिसबी की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "scissors", "count": 1}], "prompt": "एक कैंची की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "bottle", "count": 1}], "prompt": "एक बोतल की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "elephant", "count": 1}], "prompt": "एक हाथी की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "toilet", "count": 1}], "prompt": "एक शौचालय की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "oven", "count": 1}], "prompt": "एक ओवन की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "orange", "count": 1}], "prompt": "एक नारंगी की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "person", "count": 1}], "prompt": "एक व्यक्ति की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "teddy bear", "count": 1}], "prompt": "एक टेडी बियर की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "vase", "count": 1}], "prompt": "एक फूलदान की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "banana", "count": 1}], "prompt": "एक केले की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "toothbrush", "count": 1}], "prompt": "टूथब्रश की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "tv remote", "count": 1}], "prompt": "एक टीवी रिमोट की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "dining table", "count": 1}], "prompt": "एक डाइनिंग टेबल की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "stop sign", "count": 1}], "prompt": "एक स्टॉप साइन की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "sheep", "count": 1}], "prompt": "एक भेड़ की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "fire hydrant", "count": 1}], "prompt": "फायर हाइड्रेंट की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "airplane", "count": 1}], "prompt": "एक हवाई जहाज की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "giraffe", "count": 1}], "prompt": "एक जिराफ की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "horse", "count": 1}], "prompt": "एक घोड़े की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "cat", "count": 1}], "prompt": "एक बिल्ली की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "donut", "count": 1}], "prompt": "एक डोनट की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "boat", "count": 1}], "prompt": "एक नाव की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "baseball glove", "count": 1}], "prompt": "एक बेसबॉल दस्ताने की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "hair drier", "count": 1}], "prompt": "एक हेयर ड्रायर की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "sink", "count": 1}], "prompt": "एक सिंक की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "cake", "count": 1}], "prompt": "एक केक की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "wine glass", "count": 1}], "prompt": "वाइन ग्लास की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "apple", "count": 1}], "prompt": "एक सेब की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "bus", "count": 1}], "prompt": "एक बस की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "tennis racket", "count": 1}], "prompt": "एक टेनिस रैकेट की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "knife", "count": 1}], "prompt": "चाकू की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "hot dog", "count": 1}], "prompt": "एक हॉट डॉग की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "truck", "count": 1}], "prompt": "एक ट्रक की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "umbrella", "count": 1}], "prompt": "एक छतरी की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "sports ball", "count": 1}], "prompt": "एक स्पोर्ट्स बॉल की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "bear", "count": 1}], "prompt": "एक भालू की एक तस्वीर"}
+{"tag": "single_object", "include": [{"class": "kite", "count": 1}], "prompt": "एक पतंग की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "sports ball", "count": 1}], "prompt": "एक बेंच और एक स्पोर्ट्स बॉल की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "टूथब्रश और एक स्नोबोर्ड की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "toaster", "count": 1}, {"class": "oven", "count": 1}], "prompt": "एक टोस्टर और एक ओवन की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "broccoli", "count": 1}, {"class": "vase", "count": 1}], "prompt": "एक ब्रोकोली और एक फूलदान की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "wine glass", "count": 1}], "prompt": "एक टेनिस रैकेट और एक वाइन ग्लास की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "knife", "count": 1}], "prompt": "एक कांटा और एक चाकू की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "hair drier", "count": 1}, {"class": "cake", "count": 1}], "prompt": "एक हेयर ड्रायर और एक केक की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "giraffe", "count": 1}], "prompt": "एक घोड़े और जिराफ की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "computer keyboard", "count": 1}], "prompt": "एक घोड़े और एक कंप्यूटर कीबोर्ड की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "एक टूथब्रश और एक गाजर की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "cake", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "एक केक और एक ज़ेबरा की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "hair drier", "count": 1}, {"class": "bear", "count": 1}], "prompt": "एक बाल सूखने और एक भालू की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "knife", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "एक चाकू और एक ज़ेबरा की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "wine glass", "count": 1}], "prompt": "एक सोफे और एक शराब का गिलास की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "vase", "count": 1}], "prompt": "एक फ्रिसबी और एक फूलदान की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "book", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "एक किताब और एक लैपटॉप की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "dining table", "count": 1}, {"class": "bear", "count": 1}], "prompt": "एक डाइनिंग टेबल और एक भालू की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "couch", "count": 1}], "prompt": "एक फ्रिसबी और एक सोफे की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "horse", "count": 1}], "prompt": "एक सोफे और एक घोड़े की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "toilet", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "एक शौचालय और एक कंप्यूटर माउस की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "bottle", "count": 1}, {"class": "refrigerator", "count": 1}], "prompt": "एक बोतल और एक रेफ्रिजरेटर की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "potted plant", "count": 1}, {"class": "backpack", "count": 1}], "prompt": "एक पॉटेड प्लांट और एक बैकपैक की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "skateboard", "count": 1}, {"class": "cake", "count": 1}], "prompt": "एक स्केटबोर्ड और एक केक की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "broccoli", "count": 1}, {"class": "parking meter", "count": 1}], "prompt": "एक ब्रोकोली और एक पार्किंग मीटर की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "zebra", "count": 1}, {"class": "bed", "count": 1}], "prompt": "एक ज़ेबरा और एक बिस्तर की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "oven", "count": 1}, {"class": "bed", "count": 1}], "prompt": "एक ओवन और एक बिस्तर की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "fork", "count": 1}], "prompt": "एक बेसबॉल बैट और एक कांटा की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "vase", "count": 1}, {"class": "spoon", "count": 1}], "prompt": "एक फूलदान और एक चम्मच की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "skateboard", "count": 1}, {"class": "sink", "count": 1}], "prompt": "एक स्केटबोर्ड और एक सिंक की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "pizza", "count": 1}, {"class": "bench", "count": 1}], "prompt": "एक पिज्जा और एक बेंच की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "bowl", "count": 1}, {"class": "pizza", "count": 1}], "prompt": "एक कटोरे और एक पिज्जा की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "bird", "count": 1}], "prompt": "एक टेनिस रैकेट और एक पक्षी की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "wine glass", "count": 1}, {"class": "bear", "count": 1}], "prompt": "वाइन ग्लास और एक भालू की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "book", "count": 1}], "prompt": "एक कांटा और एक किताब की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "bowl", "count": 1}], "prompt": "एक कैंची और एक कटोरा की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "laptop", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "एक लैपटॉप और एक गाजर की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "bottle", "count": 1}], "prompt": "एक स्टॉप साइन और एक बोतल की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "microwave", "count": 1}, {"class": "truck", "count": 1}], "prompt": "एक माइक्रोवेव और एक ट्रक की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "bear", "count": 1}], "prompt": "एक व्यक्ति और एक भालू की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "एक फ्रिसबी और एक सेल फोन की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "parking meter", "count": 1}, {"class": "teddy bear", "count": 1}], "prompt": "एक पार्किंग मीटर और एक टेडी बियर की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "bicycle", "count": 1}], "prompt": "एक टेनिस रैकेट और एक साइकिल की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "motorcycle", "count": 1}], "prompt": "एक स्टॉप साइन और एक मोटरसाइकिल की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "fire hydrant", "count": 1}, {"class": "tennis racket", "count": 1}], "prompt": "एक फायर हाइड्रेंट और एक टेनिस रैकेट की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "sandwich", "count": 1}], "prompt": "एक कैंची और एक सैंडविच की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "pizza", "count": 1}, {"class": "book", "count": 1}], "prompt": "एक पिज्जा और एक किताब की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "giraffe", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "एक जिराफ और एक कंप्यूटर माउस की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "toaster", "count": 1}], "prompt": "एक स्टॉप साइन और एक टोस्टर की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "computer mouse", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "एक कंप्यूटर माउस और एक ज़ेबरा की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "chair", "count": 1}, {"class": "bench", "count": 1}], "prompt": "एक कुर्सी और एक बेंच की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "एक टीवी और एक गाजर की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "surfboard", "count": 1}, {"class": "suitcase", "count": 1}], "prompt": "एक सर्फबोर्ड और एक सूटकेस की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "एक कंप्यूटर कीबोर्ड और एक लैपटॉप की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "microwave", "count": 1}], "prompt": "एक कंप्यूटर कीबोर्ड और एक माइक्रोवेव की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "bird", "count": 1}], "prompt": "एक कैंची और एक पक्षी की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "एक व्यक्ति और एक स्नोबोर्ड की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "cow", "count": 1}, {"class": "horse", "count": 1}], "prompt": "एक गाय और घोड़े की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "handbag", "count": 1}, {"class": "refrigerator", "count": 1}], "prompt": "एक हैंडबैग और एक रेफ्रिजरेटर की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "chair", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "एक कुर्सी और एक लैपटॉप की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "bench", "count": 1}], "prompt": "एक टूथब्रश और एक बेंच की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "book", "count": 1}, {"class": "baseball bat", "count": 1}], "prompt": "एक किताब की एक तस्वीर और एक बेसबॉल बैट"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "train", "count": 1}], "prompt": "एक घोड़े और एक ट्रेन की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "vase", "count": 1}], "prompt": "एक बेंच और एक फूलदान की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "traffic light", "count": 1}, {"class": "backpack", "count": 1}], "prompt": "ट्रैफ़िक लाइट और बैकपैक की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "sports ball", "count": 1}, {"class": "cow", "count": 1}], "prompt": "एक स्पोर्ट्स बॉल और एक गाय की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "computer mouse", "count": 1}, {"class": "spoon", "count": 1}], "prompt": "एक कंप्यूटर माउस और एक चम्मच की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "bicycle", "count": 1}], "prompt": "एक टीवी और एक साइकिल की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "एक बेंच और एक स्नोबोर्ड की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "toilet", "count": 1}], "prompt": "एक टूथब्रश और एक शौचालय की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "apple", "count": 1}], "prompt": "एक व्यक्ति और एक सेब की तस्वीर"}
+{"tag": "two_object", "include": [{"class": "sink", "count": 1}, {"class": "sports ball", "count": 1}], "prompt": "एक सिंक और एक स्पोर्ट्स बॉल की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "dog", "count": 1}], "prompt": "एक स्टॉप साइन और एक कुत्ते की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "knife", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "चाकू की एक तस्वीर और एक स्टॉप साइन"}
+{"tag": "two_object", "include": [{"class": "wine glass", "count": 1}, {"class": "handbag", "count": 1}], "prompt": "वाइन ग्लास और एक हैंडबैग की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "bowl", "count": 1}, {"class": "skis", "count": 1}], "prompt": "एक कटोरे और एक स्की की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "apple", "count": 1}], "prompt": "एक फ्रिसबी और एक सेब की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "एक कंप्यूटर कीबोर्ड और एक सेल फोन की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "fork", "count": 1}], "prompt": "एक स्टॉप साइन और एक कांटा की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "potted plant", "count": 1}, {"class": "boat", "count": 1}], "prompt": "एक पॉटेड प्लांट और एक नाव की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "एक टीवी और एक सेल फोन की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "tie", "count": 1}, {"class": "broccoli", "count": 1}], "prompt": "एक टाई और एक ब्रोकोली की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "potted plant", "count": 1}, {"class": "donut", "count": 1}], "prompt": "एक पॉटेड प्लांट और एक डोनट की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "sink", "count": 1}], "prompt": "एक व्यक्ति की एक तस्वीर और एक सिंक"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "एक सोफे और एक स्नोबोर्ड की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "baseball glove", "count": 1}], "prompt": "एक कांटा और एक बेसबॉल दस्ताने की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "apple", "count": 1}, {"class": "toothbrush", "count": 1}], "prompt": "एक सेब और एक टूथब्रश की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "bus", "count": 1}, {"class": "baseball glove", "count": 1}], "prompt": "एक बस और एक बेसबॉल दस्ताने की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "एक व्यक्ति की तस्वीर और एक स्टॉप साइन"}
+{"tag": "two_object", "include": [{"class": "carrot", "count": 1}, {"class": "couch", "count": 1}], "prompt": "एक गाजर और एक सोफे की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "bear", "count": 1}], "prompt": "एक बेसबॉल बैट और एक भालू की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "fire hydrant", "count": 1}, {"class": "train", "count": 1}], "prompt": "एक फायर हाइड्रेंट और एक ट्रेन की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "baseball glove", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "एक बेसबॉल दस्ताने और एक गाजर की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "microwave", "count": 1}, {"class": "bench", "count": 1}], "prompt": "एक माइक्रोवेव और एक बेंच की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "cake", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "एक केक की एक तस्वीर और एक स्टॉप साइन"}
+{"tag": "two_object", "include": [{"class": "car", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "एक कार और एक कंप्यूटर माउस की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "suitcase", "count": 1}, {"class": "dining table", "count": 1}], "prompt": "एक सूटकेस और एक डाइनिंग टेबल की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "traffic light", "count": 1}], "prompt": "एक व्यक्ति की तस्वीर और एक ट्रैफ़िक लाइट"}
+{"tag": "two_object", "include": [{"class": "cell phone", "count": 1}, {"class": "horse", "count": 1}], "prompt": "एक सेल फोन और एक घोड़े की एक तस्वीर"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "giraffe", "count": 1}], "prompt": "बेसबॉल बैट और जिराफ की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "clock", "count": 2}], "exclude": [{"class": "clock", "count": 3}], "prompt": "दो घड़ियों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "backpack", "count": 2}], "exclude": [{"class": "backpack", "count": 3}], "prompt": "दो बैकपैक की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "handbag", "count": 4}], "exclude": [{"class": "handbag", "count": 5}], "prompt": "चार हैंडबैग की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "frisbee", "count": 2}], "exclude": [{"class": "frisbee", "count": 3}], "prompt": "दो फ्रिसबीज की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "sports ball", "count": 3}], "exclude": [{"class": "sports ball", "count": 4}], "prompt": "तीन स्पोर्ट्स बॉल्स की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "bear", "count": 2}], "exclude": [{"class": "bear", "count": 3}], "prompt": "दो भालू की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "tie", "count": 2}], "exclude": [{"class": "tie", "count": 3}], "prompt": "दो संबंधों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "sink", "count": 4}], "exclude": [{"class": "sink", "count": 5}], "prompt": "चार सिंक की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "toothbrush", "count": 2}], "exclude": [{"class": "toothbrush", "count": 3}], "prompt": "दो टूथब्रश की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "person", "count": 3}], "exclude": [{"class": "person", "count": 4}], "prompt": "तीन व्यक्तियों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "tennis racket", "count": 3}], "exclude": [{"class": "tennis racket", "count": 4}], "prompt": "तीन टेनिस रैकेट की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "bowl", "count": 4}], "exclude": [{"class": "bowl", "count": 5}], "prompt": "चार कटोरे की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "vase", "count": 4}], "exclude": [{"class": "vase", "count": 5}], "prompt": "चार vases की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "cup", "count": 3}], "exclude": [{"class": "cup", "count": 4}], "prompt": "तीन कप की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "computer keyboard", "count": 4}], "exclude": [{"class": "computer keyboard", "count": 5}], "prompt": "चार कंप्यूटर कीबोर्ड की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "sink", "count": 3}], "exclude": [{"class": "sink", "count": 4}], "prompt": "तीन सिंक की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "oven", "count": 2}], "exclude": [{"class": "oven", "count": 3}], "prompt": "दो ओवन की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "toilet", "count": 2}], "exclude": [{"class": "toilet", "count": 3}], "prompt": "दो शौचालयों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "bicycle", "count": 2}], "exclude": [{"class": "bicycle", "count": 3}], "prompt": "दो साइकिलों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "train", "count": 2}], "exclude": [{"class": "train", "count": 3}], "prompt": "दो ट्रेनों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "orange", "count": 3}], "exclude": [{"class": "orange", "count": 4}], "prompt": "तीन संतरे की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "bus", "count": 3}], "exclude": [{"class": "bus", "count": 4}], "prompt": "तीन बसों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "handbag", "count": 3}], "exclude": [{"class": "handbag", "count": 4}], "prompt": "तीन हैंडबैग की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "snowboard", "count": 3}], "exclude": [{"class": "snowboard", "count": 4}], "prompt": "तीन स्नोबोर्ड की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "snowboard", "count": 2}], "exclude": [{"class": "snowboard", "count": 3}], "prompt": "दो स्नोबोर्ड की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "dog", "count": 4}], "exclude": [{"class": "dog", "count": 5}], "prompt": "चार कुत्तों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "apple", "count": 3}], "exclude": [{"class": "apple", "count": 4}], "prompt": "तीन सेब की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "sheep", "count": 2}], "exclude": [{"class": "sheep", "count": 3}], "prompt": "दो भेड़ों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "hot dog", "count": 3}], "exclude": [{"class": "hot dog", "count": 4}], "prompt": "तीन हॉट डॉग्स की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "zebra", "count": 3}], "exclude": [{"class": "zebra", "count": 4}], "prompt": "तीन ज़ेब्रा की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "kite", "count": 3}], "exclude": [{"class": "kite", "count": 4}], "prompt": "तीन पतंगों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "apple", "count": 4}], "exclude": [{"class": "apple", "count": 5}], "prompt": "चार सेब की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "cell phone", "count": 3}], "exclude": [{"class": "cell phone", "count": 4}], "prompt": "तीन सेल फोन की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "baseball glove", "count": 4}], "exclude": [{"class": "baseball glove", "count": 5}], "prompt": "चार बेसबॉल दस्ताने की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "computer keyboard", "count": 3}], "exclude": [{"class": "computer keyboard", "count": 4}], "prompt": "तीन कंप्यूटर कीबोर्ड की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "bed", "count": 2}], "exclude": [{"class": "bed", "count": 3}], "prompt": "दो बेड की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "tv remote", "count": 2}], "exclude": [{"class": "tv remote", "count": 3}], "prompt": "दो टीवी रिमोट की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "fire hydrant", "count": 3}], "exclude": [{"class": "fire hydrant", "count": 4}], "prompt": "तीन फायर हाइड्रेंट्स की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "book", "count": 3}], "exclude": [{"class": "book", "count": 4}], "prompt": "तीन पुस्तकों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "giraffe", "count": 4}], "exclude": [{"class": "giraffe", "count": 5}], "prompt": "चार जिराफों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "vase", "count": 2}], "exclude": [{"class": "vase", "count": 3}], "prompt": "दो vases की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "donut", "count": 4}], "exclude": [{"class": "donut", "count": 5}], "prompt": "चार डोनट्स की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "chair", "count": 4}], "exclude": [{"class": "chair", "count": 5}], "prompt": "चार कुर्सियों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "baseball bat", "count": 3}], "exclude": [{"class": "baseball bat", "count": 4}], "prompt": "तीन बेसबॉल चमगादड़ की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "stop sign", "count": 4}], "exclude": [{"class": "stop sign", "count": 5}], "prompt": "चार स्टॉप साइन्स की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "pizza", "count": 2}], "exclude": [{"class": "pizza", "count": 3}], "prompt": "दो पिज्जा की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "refrigerator", "count": 3}], "exclude": [{"class": "refrigerator", "count": 4}], "prompt": "तीन रेफ्रिजरेटर की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "fire hydrant", "count": 2}], "exclude": [{"class": "fire hydrant", "count": 3}], "prompt": "दो फायर हाइड्रेंट्स की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "giraffe", "count": 3}], "exclude": [{"class": "giraffe", "count": 4}], "prompt": "तीन जिराफों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "tv", "count": 4}], "exclude": [{"class": "tv", "count": 5}], "prompt": "चार टीवी की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "wine glass", "count": 3}], "exclude": [{"class": "wine glass", "count": 4}], "prompt": "तीन शराब के चश्मे की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "broccoli", "count": 4}], "exclude": [{"class": "broccoli", "count": 5}], "prompt": "चार ब्रोकोलिस की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "truck", "count": 3}], "exclude": [{"class": "truck", "count": 4}], "prompt": "तीन ट्रकों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "truck", "count": 2}], "exclude": [{"class": "truck", "count": 3}], "prompt": "दो ट्रकों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "carrot", "count": 2}], "exclude": [{"class": "carrot", "count": 3}], "prompt": "दो गाजर की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "sandwich", "count": 2}], "exclude": [{"class": "sandwich", "count": 3}], "prompt": "दो सैंडविच की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "traffic light", "count": 4}], "exclude": [{"class": "traffic light", "count": 5}], "prompt": "चार ट्रैफिक लाइट की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "clock", "count": 4}], "exclude": [{"class": "clock", "count": 5}], "prompt": "चार घड़ियों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "car", "count": 2}], "exclude": [{"class": "car", "count": 3}], "prompt": "दो कारों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "banana", "count": 2}], "exclude": [{"class": "banana", "count": 3}], "prompt": "दो केले की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "wine glass", "count": 2}], "exclude": [{"class": "wine glass", "count": 3}], "prompt": "दो शराब के चश्मे की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "pizza", "count": 3}], "exclude": [{"class": "pizza", "count": 4}], "prompt": "तीन पिज्जा की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "knife", "count": 4}], "exclude": [{"class": "knife", "count": 5}], "prompt": "चार चाकू की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "suitcase", "count": 3}], "exclude": [{"class": "suitcase", "count": 4}], "prompt": "तीन सूटकेस की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "zebra", "count": 4}], "exclude": [{"class": "zebra", "count": 5}], "prompt": "चार ज़ेब्रा की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "teddy bear", "count": 2}], "exclude": [{"class": "teddy bear", "count": 3}], "prompt": "दो टेडी बियर की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "skateboard", "count": 4}], "exclude": [{"class": "skateboard", "count": 5}], "prompt": "चार स्केटबोर्ड की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "hot dog", "count": 4}], "exclude": [{"class": "hot dog", "count": 5}], "prompt": "चार गर्म कुत्तों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "bird", "count": 3}], "exclude": [{"class": "bird", "count": 4}], "prompt": "तीन पक्षियों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "boat", "count": 4}], "exclude": [{"class": "boat", "count": 5}], "prompt": "चार नावों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "microwave", "count": 4}], "exclude": [{"class": "microwave", "count": 5}], "prompt": "चार माइक्रोवेव की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "hair drier", "count": 2}], "exclude": [{"class": "hair drier", "count": 3}], "prompt": "दो हेयर ड्रायर्स की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "laptop", "count": 3}], "exclude": [{"class": "laptop", "count": 4}], "prompt": "तीन लैपटॉप की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "cow", "count": 3}], "exclude": [{"class": "cow", "count": 4}], "prompt": "तीन गायों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "parking meter", "count": 2}], "exclude": [{"class": "parking meter", "count": 3}], "prompt": "दो पार्किंग मीटर की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "bench", "count": 4}], "exclude": [{"class": "bench", "count": 5}], "prompt": "चार बेंचों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "bench", "count": 3}], "exclude": [{"class": "bench", "count": 4}], "prompt": "तीन बेंचों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "frisbee", "count": 4}], "exclude": [{"class": "frisbee", "count": 5}], "prompt": "चार फ्रिस्बेस की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "book", "count": 4}], "exclude": [{"class": "book", "count": 5}], "prompt": "चार पुस्तकों की एक तस्वीर"}
+{"tag": "counting", "include": [{"class": "bus", "count": 4}], "exclude": [{"class": "bus", "count": 5}], "prompt": "चार बसों की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "fire hydrant", "count": 1, "color": "blue"}], "prompt": "एक नीली फायर हाइड्रेंट की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "car", "count": 1, "color": "pink"}], "prompt": "एक गुलाबी कार की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "cup", "count": 1, "color": "purple"}], "prompt": "एक बैंगनी कप की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "cow", "count": 1, "color": "blue"}], "prompt": "एक नीली गाय की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "boat", "count": 1, "color": "yellow"}], "prompt": "एक पीली नाव की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "umbrella", "count": 1, "color": "blue"}], "prompt": "एक नीली छाता की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "elephant", "count": 1, "color": "blue"}], "prompt": "एक नीले हाथी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "elephant", "count": 1, "color": "yellow"}], "prompt": "एक पीले हाथी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "bicycle", "count": 1, "color": "red"}], "prompt": "एक लाल साइकिल की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "suitcase", "count": 1, "color": "purple"}], "prompt": "एक बैंगनी सूटकेस की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "hair drier", "count": 1, "color": "purple"}], "prompt": "एक बैंगनी बाल सूखने की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "sandwich", "count": 1, "color": "white"}], "prompt": "एक सफेद सैंडविच की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "elephant", "count": 1, "color": "purple"}], "prompt": "एक बैंगनी हाथी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "microwave", "count": 1, "color": "green"}], "prompt": "एक हरे माइक्रोवेव की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "zebra", "count": 1, "color": "red"}], "prompt": "एक लाल ज़ेबरा की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "apple", "count": 1, "color": "red"}], "prompt": "एक लाल सेब की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "tv remote", "count": 1, "color": "yellow"}], "prompt": "एक पीले टीवी रिमोट की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "toilet", "count": 1, "color": "blue"}], "prompt": "एक नीले शौचालय की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "orange"}], "prompt": "एक नारंगी नारंगी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "donut", "count": 1, "color": "black"}], "prompt": "एक काले डोनट की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "red"}], "prompt": "एक लाल फूलदान की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "pizza", "count": 1, "color": "purple"}], "prompt": "एक बैंगनी पिज्जा की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "skateboard", "count": 1, "color": "pink"}], "prompt": "एक गुलाबी स्केटबोर्ड की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "skateboard", "count": 1, "color": "green"}], "prompt": "हरे रंग की स्केटबोर्ड की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "bear", "count": 1, "color": "purple"}], "prompt": "एक बैंगनी भालू की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "chair", "count": 1, "color": "brown"}], "prompt": "एक भूरे रंग की कुर्सी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "computer keyboard", "count": 1, "color": "brown"}], "prompt": "एक ब्राउन कंप्यूटर कीबोर्ड की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "cow", "count": 1, "color": "orange"}], "prompt": "एक नारंगी गाय की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "skis", "count": 1, "color": "brown"}], "prompt": "एक भूरे रंग की स्की की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "kite", "count": 1, "color": "white"}], "prompt": "एक सफेद पतंग की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "dog", "count": 1, "color": "red"}], "prompt": "एक लाल कुत्ते की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "couch", "count": 1, "color": "green"}], "prompt": "हरे सोफे की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "airplane", "count": 1, "color": "yellow"}], "prompt": "एक पीले हवाई जहाज की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "tv", "count": 1, "color": "orange"}], "prompt": "एक नारंगी टीवी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "white"}], "prompt": "एक सफेद कैंची की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "cell phone", "count": 1, "color": "pink"}], "prompt": "एक गुलाबी सेल फोन की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "surfboard", "count": 1, "color": "green"}], "prompt": "एक हरे सर्फबोर्ड की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "fire hydrant", "count": 1, "color": "white"}], "prompt": "एक सफेद आग हाइड्रेंट की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "bicycle", "count": 1, "color": "black"}], "prompt": "एक काली साइकिल की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "purple"}], "prompt": "एक बैंगनी गाजर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "dining table", "count": 1, "color": "black"}], "prompt": "एक काले भोजन की मेज की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "purple"}], "prompt": "एक बैंगनी रंग के पौधे की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "purple"}], "prompt": "एक बैंगनी बैकपैक की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "train", "count": 1, "color": "yellow"}], "prompt": "एक पीली ट्रेन की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "pink"}], "prompt": "एक गुलाबी रंग के पौधे की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "giraffe", "count": 1, "color": "red"}], "prompt": "एक लाल जिराफ की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "bear", "count": 1, "color": "brown"}], "prompt": "एक भूरे भालू की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "train", "count": 1, "color": "black"}], "prompt": "एक काली ट्रेन की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "laptop", "count": 1, "color": "orange"}], "prompt": "एक नारंगी लैपटॉप की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "hot dog", "count": 1, "color": "green"}], "prompt": "हरे रंग के हॉट डॉग की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "yellow"}], "prompt": "एक पीले पार्किंग मीटर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "red"}], "prompt": "एक लाल पॉटेड पौधे की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "traffic light", "count": 1, "color": "green"}], "prompt": "ग्रीन ट्रैफिक लाइट की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "tv", "count": 1, "color": "blue"}], "prompt": "एक नीले टीवी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "refrigerator", "count": 1, "color": "brown"}], "prompt": "एक भूरे रंग के रेफ्रिजरेटर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "tv remote", "count": 1, "color": "black"}], "prompt": "एक ब्लैक टीवी रिमोट की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "purple"}], "prompt": "बैंगनी कैंची की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "yellow"}], "prompt": "एक पीले नारंगी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "toaster", "count": 1, "color": "brown"}], "prompt": "एक भूरे रंग के टोस्टर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "red"}], "prompt": "एक लाल पार्किंग मीटर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "brown"}], "prompt": "एक भूरे रंग के नारंगी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "clock", "count": 1, "color": "green"}], "prompt": "हरी घड़ी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "sheep", "count": 1, "color": "white"}], "prompt": "एक सफेद भेड़ की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "oven", "count": 1, "color": "yellow"}], "prompt": "एक पीले ओवन की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "green"}], "prompt": "एक हरे रंग की फूलदान की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "teddy bear", "count": 1, "color": "black"}], "prompt": "एक काले टेडी बियर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "yellow"}], "prompt": "एक पीले रंग की गाजर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "hot dog", "count": 1, "color": "black"}], "prompt": "एक काले हॉट डॉग की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "red"}], "prompt": "एक लाल कैंची की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "teddy bear", "count": 1, "color": "white"}], "prompt": "एक सफेद टेडी बियर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "skis", "count": 1, "color": "black"}], "prompt": "एक काले स्की की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "dining table", "count": 1, "color": "blue"}], "prompt": "एक नीले भोजन की मेज की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "refrigerator", "count": 1, "color": "black"}], "prompt": "एक काले रेफ्रिजरेटर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "dog", "count": 1, "color": "white"}], "prompt": "एक सफेद कुत्ते की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "orange"}], "prompt": "एक नारंगी कैंची की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "cell phone", "count": 1, "color": "red"}], "prompt": "एक लाल सेल फोन की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "white"}], "prompt": "एक सफेद नारंगी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "clock", "count": 1, "color": "blue"}], "prompt": "एक नीली घड़ी की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "blue"}], "prompt": "एक नीली गाजर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "motorcycle", "count": 1, "color": "green"}], "prompt": "एक हरी मोटरसाइकिल की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "stop sign", "count": 1, "color": "pink"}], "prompt": "एक गुलाबी स्टॉप साइन की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "black"}], "prompt": "एक काले फूलदान की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "black"}], "prompt": "एक काले बैकपैक की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "car", "count": 1, "color": "red"}], "prompt": "एक लाल कार की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "computer mouse", "count": 1, "color": "green"}], "prompt": "एक हरे रंग के कंप्यूटर माउस की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "red"}], "prompt": "एक लाल बैकपैक की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "bus", "count": 1, "color": "green"}], "prompt": "एक हरे रंग की बस की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "toaster", "count": 1, "color": "orange"}], "prompt": "एक नारंगी टोस्टर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "fork", "count": 1, "color": "yellow"}], "prompt": "एक पीले कांटे की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "pink"}], "prompt": "एक गुलाबी पार्किंग मीटर की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "book", "count": 1, "color": "blue"}], "prompt": "एक नीली किताब की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "broccoli", "count": 1, "color": "yellow"}], "prompt": "एक पीले ब्रोकोली की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "computer mouse", "count": 1, "color": "orange"}], "prompt": "एक नारंगी कंप्यूटर माउस की एक तस्वीर"}
+{"tag": "colors", "include": [{"class": "cake", "count": 1, "color": "red"}], "prompt": "एक लाल केक की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "teddy bear", "count": 1}, {"class": "dog", "count": 1, "position": ["right of", 0]}], "prompt": "एक कुत्ते की एक तस्वीर एक टेडी बियर के अधिकार"}
+{"tag": "position", "include": [{"class": "kite", "count": 1}, {"class": "wine glass", "count": 1, "position": ["above", 0]}], "prompt": "एक पतंग के ऊपर एक वाइन ग्लास की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "cup", "count": 1}, {"class": "couch", "count": 1, "position": ["below", 0]}], "prompt": "एक कप के नीचे एक सोफे की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "laptop", "count": 1, "position": ["left of", 0]}], "prompt": "एक गाय के बचे लैपटॉप की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "hair drier", "count": 1}, {"class": "fork", "count": 1, "position": ["above", 0]}], "prompt": "एक बाल सूखने के ऊपर एक कांटा की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "tie", "count": 1, "position": ["right of", 0]}], "prompt": "बेसबॉल बैट के एक टाई राइट की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "fork", "count": 1}, {"class": "stop sign", "count": 1, "position": ["above", 0]}], "prompt": "एक कांटा के ऊपर एक स्टॉप साइन की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "skateboard", "count": 1}, {"class": "bird", "count": 1, "position": ["below", 0]}], "prompt": "एक स्केटबोर्ड के नीचे एक पक्षी की तस्वीर"}
+{"tag": "position", "include": [{"class": "tv", "count": 1}, {"class": "apple", "count": 1, "position": ["above", 0]}], "prompt": "एक टीवी के ऊपर एक सेब की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "potted plant", "count": 1}, {"class": "train", "count": 1, "position": ["above", 0]}], "prompt": "एक पॉटेड प्लांट के ऊपर एक ट्रेन की तस्वीर"}
+{"tag": "position", "include": [{"class": "refrigerator", "count": 1}, {"class": "truck", "count": 1, "position": ["left of", 0]}], "prompt": "एक रेफ्रिजरेटर के बचे एक ट्रक की तस्वीर"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "tv remote", "count": 1, "position": ["below", 0]}], "prompt": "एक गाय के नीचे एक टीवी रिमोट की तस्वीर"}
+{"tag": "position", "include": [{"class": "train", "count": 1}, {"class": "bottle", "count": 1, "position": ["right of", 0]}], "prompt": "एक ट्रेन के दाईं ओर एक बोतल की तस्वीर"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "dog", "count": 1, "position": ["above", 0]}], "prompt": "एक गाय के ऊपर एक कुत्ते की तस्वीर"}
+{"tag": "position", "include": [{"class": "person", "count": 1}, {"class": "skateboard", "count": 1, "position": ["above", 0]}], "prompt": "एक व्यक्ति के ऊपर एक स्केटबोर्ड की तस्वीर"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "baseball glove", "count": 1, "position": ["below", 0]}], "prompt": "एक छाता के नीचे एक बेसबॉल दस्ताने की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "oven", "count": 1}, {"class": "dining table", "count": 1, "position": ["right of", 0]}], "prompt": "एक ओवन के दाईं ओर एक डाइनिंग टेबल की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "hot dog", "count": 1, "position": ["left of", 0]}], "prompt": "एक हॉट डॉग की एक तस्वीर एक सूटकेस से बचा है"}
+{"tag": "position", "include": [{"class": "toothbrush", "count": 1}, {"class": "bus", "count": 1, "position": ["below", 0]}], "prompt": "टूथब्रश के नीचे एक बस की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "sandwich", "count": 1}, {"class": "backpack", "count": 1, "position": ["right of", 0]}], "prompt": "एक सैंडविच के एक बैकपैक की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "cake", "count": 1, "position": ["below", 0]}], "prompt": "बेसबॉल बैट के नीचे एक केक की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "tie", "count": 1}, {"class": "dog", "count": 1, "position": ["right of", 0]}], "prompt": "एक टाई के दाईं ओर कुत्ते की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "boat", "count": 1}, {"class": "suitcase", "count": 1, "position": ["right of", 0]}], "prompt": "एक नाव के दाईं ओर सूटकेस की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "clock", "count": 1}, {"class": "bear", "count": 1, "position": ["above", 0]}], "prompt": "एक घड़ी के ऊपर एक भालू की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "tv remote", "count": 1, "position": ["left of", 0]}], "prompt": "एक छतरी के एक टीवी रिमोट की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "sports ball", "count": 1, "position": ["left of", 0]}], "prompt": "एक स्पोर्ट्स बॉल की एक तस्वीर एक छाता की बची हुई है"}
+{"tag": "position", "include": [{"class": "dining table", "count": 1}, {"class": "train", "count": 1, "position": ["right of", 0]}], "prompt": "एक डाइनिंग टेबल के दाईं ओर ट्रेन की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "elephant", "count": 1}, {"class": "hair drier", "count": 1, "position": ["below", 0]}], "prompt": "एक हाथी के नीचे एक बाल सूखने की तस्वीर"}
+{"tag": "position", "include": [{"class": "spoon", "count": 1}, {"class": "tennis racket", "count": 1, "position": ["right of", 0]}], "prompt": "एक चम्मच के दाईं ओर टेनिस रैकेट की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "hot dog", "count": 1}, {"class": "wine glass", "count": 1, "position": ["right of", 0]}], "prompt": "एक हॉट डॉग के दाईं ओर एक वाइन ग्लास की तस्वीर"}
+{"tag": "position", "include": [{"class": "bench", "count": 1}, {"class": "computer mouse", "count": 1, "position": ["left of", 0]}], "prompt": "एक बेंच के बचे कंप्यूटर माउस की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "orange", "count": 1}, {"class": "carrot", "count": 1, "position": ["left of", 0]}], "prompt": "एक नारंगी के बचे गाजर की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "toothbrush", "count": 1}, {"class": "kite", "count": 1, "position": ["above", 0]}], "prompt": "एक टूथब्रश के ऊपर एक पतंग की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "traffic light", "count": 1}, {"class": "toaster", "count": 1, "position": ["below", 0]}], "prompt": "ट्रैफ़िक लाइट के नीचे एक टोस्टर की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "baseball glove", "count": 1}, {"class": "cat", "count": 1, "position": ["below", 0]}], "prompt": "बेसबॉल दस्ताने के नीचे एक बिल्ली की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "zebra", "count": 1}, {"class": "skis", "count": 1, "position": ["right of", 0]}], "prompt": "एक ज़ेबरा के एक स्की की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "chair", "count": 1}, {"class": "stop sign", "count": 1, "position": ["above", 0]}], "prompt": "एक कुर्सी के ऊपर एक स्टॉप साइन की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "stop sign", "count": 1, "position": ["above", 0]}], "prompt": "एक पार्किंग मीटर के ऊपर एक स्टॉप साइन की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "skateboard", "count": 1}, {"class": "hot dog", "count": 1, "position": ["right of", 0]}], "prompt": "एक हॉट डॉग की एक तस्वीर एक स्केटबोर्ड के अधिकार"}
+{"tag": "position", "include": [{"class": "computer keyboard", "count": 1}, {"class": "pizza", "count": 1, "position": ["below", 0]}], "prompt": "कंप्यूटर कीबोर्ड के नीचे एक पिज्जा की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "toilet", "count": 1}, {"class": "hair drier", "count": 1, "position": ["left of", 0]}], "prompt": "एक शौचालय के एक बाल सूखे की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "stop sign", "count": 1}, {"class": "cow", "count": 1, "position": ["left of", 0]}], "prompt": "एक गाय की एक तस्वीर एक स्टॉप साइन से बची हुई है"}
+{"tag": "position", "include": [{"class": "skis", "count": 1}, {"class": "suitcase", "count": 1, "position": ["above", 0]}], "prompt": "एक स्की के ऊपर एक सूटकेस की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "laptop", "count": 1}, {"class": "book", "count": 1, "position": ["above", 0]}], "prompt": "एक लैपटॉप के ऊपर एक किताब की तस्वीर"}
+{"tag": "position", "include": [{"class": "pizza", "count": 1}, {"class": "toothbrush", "count": 1, "position": ["below", 0]}], "prompt": "एक पिज्जा के नीचे एक टूथब्रश की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "kite", "count": 1}, {"class": "toilet", "count": 1, "position": ["left of", 0]}], "prompt": "एक पतंग के शौचालय की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "sink", "count": 1}, {"class": "tie", "count": 1, "position": ["above", 0]}], "prompt": "एक सिंक के ऊपर एक टाई की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "couch", "count": 1}, {"class": "bird", "count": 1, "position": ["left of", 0]}], "prompt": "एक सोफे से बचे एक पक्षी की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "sports ball", "count": 1}, {"class": "bed", "count": 1, "position": ["right of", 0]}], "prompt": "एक स्पोर्ट्स बॉल के एक बेड की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "surfboard", "count": 1}, {"class": "elephant", "count": 1, "position": ["below", 0]}], "prompt": "एक सर्फबोर्ड के नीचे एक हाथी की तस्वीर"}
+{"tag": "position", "include": [{"class": "motorcycle", "count": 1}, {"class": "frisbee", "count": 1, "position": ["right of", 0]}], "prompt": "एक मोटरसाइकिल के एक फ्रिसबी की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "fire hydrant", "count": 1}, {"class": "vase", "count": 1, "position": ["above", 0]}], "prompt": "एक फायर हाइड्रेंट के ऊपर एक फूलदान की तस्वीर"}
+{"tag": "position", "include": [{"class": "elephant", "count": 1}, {"class": "zebra", "count": 1, "position": ["left of", 0]}], "prompt": "एक हाथी के एक ज़ेबरा की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "bear", "count": 1}, {"class": "bench", "count": 1, "position": ["left of", 0]}], "prompt": "एक भालू के बचे एक बेंच की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "bench", "count": 1}, {"class": "donut", "count": 1, "position": ["right of", 0]}], "prompt": "एक बेंच के एक डोनट की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "horse", "count": 1}, {"class": "frisbee", "count": 1, "position": ["below", 0]}], "prompt": "एक घोड़े के नीचे एक फ्रिसबी की तस्वीर"}
+{"tag": "position", "include": [{"class": "snowboard", "count": 1}, {"class": "computer keyboard", "count": 1, "position": ["above", 0]}], "prompt": "एक स्नोबोर्ड के ऊपर एक कंप्यूटर कीबोर्ड की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "tv", "count": 1, "position": ["below", 0]}], "prompt": "एक गाय के नीचे एक टीवी की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "horse", "count": 1}, {"class": "elephant", "count": 1, "position": ["below", 0]}], "prompt": "एक घोड़े के नीचे एक हाथी की तस्वीर"}
+{"tag": "position", "include": [{"class": "banana", "count": 1}, {"class": "suitcase", "count": 1, "position": ["left of", 0]}], "prompt": "एक केले के बचे एक सूटकेस की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "airplane", "count": 1}, {"class": "train", "count": 1, "position": ["below", 0]}], "prompt": "एक हवाई जहाज के नीचे एक ट्रेन की तस्वीर"}
+{"tag": "position", "include": [{"class": "backpack", "count": 1}, {"class": "cat", "count": 1, "position": ["below", 0]}], "prompt": "एक बैकपैक के नीचे एक बिल्ली की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "cake", "count": 1}, {"class": "backpack", "count": 1, "position": ["below", 0]}], "prompt": "एक केक के नीचे एक बैकपैक की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "knife", "count": 1}, {"class": "sandwich", "count": 1, "position": ["below", 0]}], "prompt": "चाकू के नीचे एक सैंडविच की तस्वीर"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "bicycle", "count": 1, "position": ["above", 0]}], "prompt": "एक पार्किंग मीटर के ऊपर एक साइकिल की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "knife", "count": 1, "position": ["right of", 0]}], "prompt": "एक सूटकेस के चाकू की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "knife", "count": 1}, {"class": "hot dog", "count": 1, "position": ["above", 0]}], "prompt": "चाकू के ऊपर एक हॉट डॉग की तस्वीर"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "zebra", "count": 1, "position": ["right of", 0]}], "prompt": "एक पार्किंग मीटर के एक ज़ेबरा की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "zebra", "count": 1}, {"class": "chair", "count": 1, "position": ["left of", 0]}], "prompt": "एक ज़ेबरा के बचे कुर्सी की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "airplane", "count": 1}, {"class": "cow", "count": 1, "position": ["below", 0]}], "prompt": "एक हवाई जहाज के नीचे एक गाय की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "cup", "count": 1, "position": ["left of", 0]}], "prompt": "एक कप की एक तस्वीर एक छाता की बची हुई है"}
+{"tag": "position", "include": [{"class": "computer keyboard", "count": 1}, {"class": "zebra", "count": 1, "position": ["below", 0]}], "prompt": "कंप्यूटर कीबोर्ड के नीचे एक ज़ेबरा की तस्वीर"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "zebra", "count": 1, "position": ["below", 0]}], "prompt": "एक ब्रोकोली के नीचे एक ज़ेबरा की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "sports ball", "count": 1}, {"class": "laptop", "count": 1, "position": ["below", 0]}], "prompt": "एक स्पोर्ट्स बॉल के नीचे एक लैपटॉप की तस्वीर"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "truck", "count": 1, "position": ["left of", 0]}], "prompt": "बेसबॉल बैट के बचे ट्रक की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "refrigerator", "count": 1, "position": ["above", 0]}], "prompt": "बेसबॉल बैट के ऊपर एक रेफ्रिजरेटर की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "tv", "count": 1, "position": ["above", 0]}], "prompt": "बेसबॉल बैट के ऊपर एक टीवी की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "bear", "count": 1}, {"class": "baseball glove", "count": 1, "position": ["right of", 0]}], "prompt": "एक भालू के एक बेसबॉल दस्ताने की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "scissors", "count": 1}, {"class": "refrigerator", "count": 1, "position": ["below", 0]}], "prompt": "एक कैंची के नीचे एक रेफ्रिजरेटर की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "dining table", "count": 1, "position": ["above", 0]}], "prompt": "एक सूटकेस के ऊपर एक डाइनिंग टेबल की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "parking meter", "count": 1, "position": ["above", 0]}], "prompt": "एक ब्रोकोली के ऊपर एक पार्किंग मीटर की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "truck", "count": 1}, {"class": "frisbee", "count": 1, "position": ["above", 0]}], "prompt": "एक ट्रक के ऊपर एक फ्रिसबी की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "banana", "count": 1}, {"class": "pizza", "count": 1, "position": ["right of", 0]}], "prompt": "एक केले के पिज्जा की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "boat", "count": 1}, {"class": "bus", "count": 1, "position": ["above", 0]}], "prompt": "एक नाव के ऊपर एक बस की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "tennis racket", "count": 1}, {"class": "cell phone", "count": 1, "position": ["left of", 0]}], "prompt": "एक टेनिस रैकेट के एक सेल फोन की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "horse", "count": 1, "position": ["right of", 0]}], "prompt": "एक ब्रोकोली के घोड़े की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "bottle", "count": 1}, {"class": "broccoli", "count": 1, "position": ["above", 0]}], "prompt": "एक बोतल के ऊपर एक ब्रोकोली की तस्वीर"}
+{"tag": "position", "include": [{"class": "horse", "count": 1}, {"class": "vase", "count": 1, "position": ["right of", 0]}], "prompt": "एक घोड़े के फूलदान की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "spoon", "count": 1}, {"class": "bear", "count": 1, "position": ["above", 0]}], "prompt": "एक चम्मच के ऊपर एक भालू की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "bed", "count": 1}, {"class": "zebra", "count": 1, "position": ["right of", 0]}], "prompt": "एक बिस्तर के दाईं ओर एक ज़ेबरा की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "laptop", "count": 1}, {"class": "cow", "count": 1, "position": ["right of", 0]}], "prompt": "एक गाय की एक तस्वीर एक लैपटॉप के अधिकार"}
+{"tag": "position", "include": [{"class": "frisbee", "count": 1}, {"class": "bed", "count": 1, "position": ["right of", 0]}], "prompt": "एक फ्रिसबी के एक बिस्तर की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "motorcycle", "count": 1}, {"class": "tie", "count": 1, "position": ["right of", 0]}], "prompt": "एक मोटरसाइकिल के एक टाई अधिकार की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "tv", "count": 1}, {"class": "laptop", "count": 1, "position": ["right of", 0]}], "prompt": "एक टीवी के लैपटॉप की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "chair", "count": 1}, {"class": "cell phone", "count": 1, "position": ["right of", 0]}], "prompt": "एक कुर्सी के एक सेल फोन की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "potted plant", "count": 1}, {"class": "couch", "count": 1, "position": ["below", 0]}], "prompt": "एक पॉटेड पौधे के नीचे एक सोफे की तस्वीर"}
+{"tag": "position", "include": [{"class": "tv", "count": 1}, {"class": "clock", "count": 1, "position": ["below", 0]}], "prompt": "एक टीवी के नीचे एक घड़ी की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "vase", "count": 1}, {"class": "couch", "count": 1, "position": ["below", 0]}], "prompt": "एक फूलदान के नीचे एक सोफे की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "cat", "count": 1}, {"class": "donut", "count": 1, "position": ["below", 0]}], "prompt": "एक बिल्ली के नीचे एक डोनट की एक तस्वीर"}
+{"tag": "position", "include": [{"class": "toaster", "count": 1}, {"class": "couch", "count": 1, "position": ["left of", 0]}], "prompt": "टोस्टर के बचे एक सोफे की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "wine glass", "count": 1, "color": "purple"}, {"class": "apple", "count": 1, "color": "black"}], "prompt": "एक बैंगनी वाइन ग्लास और एक काले सेब की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "bus", "count": 1, "color": "green"}, {"class": "microwave", "count": 1, "color": "purple"}], "prompt": "एक हरी बस और एक बैंगनी माइक्रोवेव की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "skis", "count": 1, "color": "green"}, {"class": "airplane", "count": 1, "color": "brown"}], "prompt": "एक हरे रंग की स्की और एक भूरे रंग के हवाई जहाज की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "computer keyboard", "count": 1, "color": "yellow"}, {"class": "sink", "count": 1, "color": "black"}], "prompt": "एक पीले कंप्यूटर कीबोर्ड और एक काले सिंक की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "oven", "count": 1, "color": "pink"}, {"class": "motorcycle", "count": 1, "color": "green"}], "prompt": "एक गुलाबी ओवन और एक हरी मोटरसाइकिल की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "parking meter", "count": 1, "color": "purple"}, {"class": "laptop", "count": 1, "color": "red"}], "prompt": "एक बैंगनी पार्किंग मीटर और एक लाल लैपटॉप की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "yellow"}, {"class": "computer mouse", "count": 1, "color": "orange"}], "prompt": "एक पीले स्केटबोर्ड और एक नारंगी कंप्यूटर माउस की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "skis", "count": 1, "color": "red"}, {"class": "tie", "count": 1, "color": "brown"}], "prompt": "एक लाल स्की और एक भूरे रंग की टाई की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "pink"}, {"class": "train", "count": 1, "color": "black"}], "prompt": "एक गुलाबी स्केटबोर्ड और एक काली ट्रेन की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "white"}, {"class": "bed", "count": 1, "color": "purple"}], "prompt": "एक सफेद हैंडबैग और एक बैंगनी बिस्तर की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "elephant", "count": 1, "color": "purple"}, {"class": "sports ball", "count": 1, "color": "brown"}], "prompt": "एक बैंगनी हाथी और एक भूरे रंग की खेल गेंद की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "dog", "count": 1, "color": "purple"}, {"class": "dining table", "count": 1, "color": "black"}], "prompt": "एक बैंगनी कुत्ते और एक काले भोजन की मेज की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "white"}, {"class": "car", "count": 1, "color": "red"}], "prompt": "एक सफेद डाइनिंग टेबल और एक लाल कार की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "cell phone", "count": 1, "color": "blue"}, {"class": "apple", "count": 1, "color": "green"}], "prompt": "एक नीले सेल फोन और एक हरे सेब की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "red"}, {"class": "potted plant", "count": 1, "color": "orange"}], "prompt": "एक लाल कार और एक नारंगी पॉटेड प्लांट की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "carrot", "count": 1, "color": "brown"}, {"class": "potted plant", "count": 1, "color": "white"}], "prompt": "एक भूरे रंग की गाजर और एक सफेद पॉटेड पौधे की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "kite", "count": 1, "color": "black"}, {"class": "bear", "count": 1, "color": "green"}], "prompt": "एक काली पतंग और एक हरे भालू की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "laptop", "count": 1, "color": "blue"}, {"class": "bear", "count": 1, "color": "brown"}], "prompt": "एक नीले लैपटॉप और एक भूरे भालू की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "teddy bear", "count": 1, "color": "green"}, {"class": "kite", "count": 1, "color": "brown"}], "prompt": "एक हरे रंग की टेडी बियर और एक भूरी पतंग की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "stop sign", "count": 1, "color": "yellow"}, {"class": "potted plant", "count": 1, "color": "blue"}], "prompt": "एक पीले रंग के स्टॉप साइन और एक नीले रंग के पॉटेड प्लांट की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "snowboard", "count": 1, "color": "orange"}, {"class": "cat", "count": 1, "color": "green"}], "prompt": "एक नारंगी स्नोबोर्ड और एक हरी बिल्ली की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "truck", "count": 1, "color": "orange"}, {"class": "sink", "count": 1, "color": "pink"}], "prompt": "एक नारंगी ट्रक और एक गुलाबी सिंक की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "hot dog", "count": 1, "color": "brown"}, {"class": "pizza", "count": 1, "color": "purple"}], "prompt": "एक भूरे रंग के हॉट डॉग और एक बैंगनी पिज्जा की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "couch", "count": 1, "color": "green"}, {"class": "umbrella", "count": 1, "color": "orange"}], "prompt": "एक हरे सोफे और एक नारंगी छतरी की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "bed", "count": 1, "color": "brown"}, {"class": "cell phone", "count": 1, "color": "pink"}], "prompt": "एक भूरे रंग के बिस्तर और एक गुलाबी सेल फोन की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "broccoli", "count": 1, "color": "black"}, {"class": "cake", "count": 1, "color": "yellow"}], "prompt": "एक काले ब्रोकोली और एक पीले केक की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "train", "count": 1, "color": "red"}, {"class": "bear", "count": 1, "color": "purple"}], "prompt": "एक लाल ट्रेन और एक बैंगनी भालू की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "purple"}, {"class": "sink", "count": 1, "color": "black"}], "prompt": "एक बैंगनी टेनिस रैकेट और एक काले सिंक की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "vase", "count": 1, "color": "blue"}, {"class": "banana", "count": 1, "color": "black"}], "prompt": "एक नीले फूलदान और एक काले केले की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "clock", "count": 1, "color": "blue"}, {"class": "cup", "count": 1, "color": "white"}], "prompt": "एक नीली घड़ी और एक सफेद कप की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "umbrella", "count": 1, "color": "red"}, {"class": "couch", "count": 1, "color": "blue"}], "prompt": "एक लाल छाता और एक नीले सोफे की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "white"}, {"class": "giraffe", "count": 1, "color": "red"}], "prompt": "एक सफेद हैंडबैग और एक लाल जिराफ की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "tv remote", "count": 1, "color": "pink"}, {"class": "airplane", "count": 1, "color": "blue"}], "prompt": "एक गुलाबी टीवी रिमोट और एक नीले हवाई जहाज की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "pink"}, {"class": "scissors", "count": 1, "color": "black"}], "prompt": "एक गुलाबी हैंडबैग और एक काली कैंची की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "brown"}, {"class": "hair drier", "count": 1, "color": "pink"}], "prompt": "एक भूरे रंग की कार और एक गुलाबी बाल सूखने की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "bus", "count": 1, "color": "black"}, {"class": "cell phone", "count": 1, "color": "brown"}], "prompt": "एक काली बस और एक भूरे रंग के सेल फोन की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "sheep", "count": 1, "color": "purple"}, {"class": "banana", "count": 1, "color": "pink"}], "prompt": "एक बैंगनी भेड़ और एक गुलाबी केले की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "blue"}, {"class": "cell phone", "count": 1, "color": "white"}], "prompt": "एक नीले हैंडबैग और एक सफेद सेल फोन की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "white"}, {"class": "umbrella", "count": 1, "color": "green"}], "prompt": "एक सफेद पिज्जा और एक हरी छतरी की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "tie", "count": 1, "color": "white"}, {"class": "skateboard", "count": 1, "color": "purple"}], "prompt": "एक सफेद टाई और एक बैंगनी स्केटबोर्ड की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "sports ball", "count": 1, "color": "yellow"}, {"class": "boat", "count": 1, "color": "green"}], "prompt": "एक पीले स्पोर्ट्स बॉल और एक हरी नाव की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "wine glass", "count": 1, "color": "white"}, {"class": "giraffe", "count": 1, "color": "brown"}], "prompt": "एक सफेद वाइन ग्लास और एक भूरे रंग की जिराफ की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "bowl", "count": 1, "color": "yellow"}, {"class": "baseball glove", "count": 1, "color": "white"}], "prompt": "एक पीले कटोरे और एक सफेद बेसबॉल दस्ताने की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "microwave", "count": 1, "color": "orange"}, {"class": "spoon", "count": 1, "color": "black"}], "prompt": "एक नारंगी माइक्रोवेव और एक काले चम्मच की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "orange"}, {"class": "bowl", "count": 1, "color": "pink"}], "prompt": "एक नारंगी स्केटबोर्ड और एक गुलाबी कटोरे की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "toilet", "count": 1, "color": "blue"}, {"class": "suitcase", "count": 1, "color": "white"}], "prompt": "एक नीले शौचालय और एक सफेद सूटकेस की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "boat", "count": 1, "color": "white"}, {"class": "hot dog", "count": 1, "color": "orange"}], "prompt": "एक सफेद नाव और एक नारंगी गर्म कुत्ते की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "yellow"}, {"class": "dog", "count": 1, "color": "pink"}], "prompt": "एक पीले रंग की डाइनिंग टेबल और एक गुलाबी कुत्ते की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "cake", "count": 1, "color": "red"}, {"class": "chair", "count": 1, "color": "purple"}], "prompt": "एक लाल केक और एक बैंगनी कुर्सी की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "tie", "count": 1, "color": "blue"}, {"class": "dining table", "count": 1, "color": "pink"}], "prompt": "एक नीली टाई और एक गुलाबी भोजन की मेज की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "cow", "count": 1, "color": "blue"}, {"class": "computer keyboard", "count": 1, "color": "black"}], "prompt": "एक नीली गाय और एक काले कंप्यूटर कीबोर्ड की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "yellow"}, {"class": "oven", "count": 1, "color": "green"}], "prompt": "एक पीले पिज्जा और एक हरे ओवन की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "laptop", "count": 1, "color": "red"}, {"class": "car", "count": 1, "color": "brown"}], "prompt": "एक लाल लैपटॉप और एक भूरे रंग की कार की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "computer keyboard", "count": 1, "color": "purple"}, {"class": "scissors", "count": 1, "color": "blue"}], "prompt": "एक बैंगनी कंप्यूटर कीबोर्ड और एक नीले कैंची की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "surfboard", "count": 1, "color": "green"}, {"class": "oven", "count": 1, "color": "orange"}], "prompt": "एक हरे सर्फबोर्ड और एक नारंगी ओवन की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "parking meter", "count": 1, "color": "yellow"}, {"class": "refrigerator", "count": 1, "color": "pink"}], "prompt": "एक पीले पार्किंग मीटर और एक गुलाबी रेफ्रिजरेटर की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "computer mouse", "count": 1, "color": "brown"}, {"class": "bottle", "count": 1, "color": "purple"}], "prompt": "एक भूरे रंग के कंप्यूटर माउस और एक बैंगनी बोतल की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "umbrella", "count": 1, "color": "red"}, {"class": "cow", "count": 1, "color": "green"}], "prompt": "एक लाल छाता और एक हरी गाय की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "red"}, {"class": "cell phone", "count": 1, "color": "black"}], "prompt": "एक लाल जिराफ और एक काले सेल फोन की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "oven", "count": 1, "color": "brown"}, {"class": "train", "count": 1, "color": "purple"}], "prompt": "एक भूरे रंग के ओवन और एक बैंगनी ट्रेन की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "baseball bat", "count": 1, "color": "blue"}, {"class": "book", "count": 1, "color": "pink"}], "prompt": "एक ब्लू बेसबॉल बैट और एक गुलाबी किताब की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "green"}, {"class": "bowl", "count": 1, "color": "yellow"}], "prompt": "एक हरे कप और एक पीले कटोरे की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "suitcase", "count": 1, "color": "yellow"}, {"class": "bus", "count": 1, "color": "brown"}], "prompt": "एक पीले सूटकेस और एक भूरे रंग की बस की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "motorcycle", "count": 1, "color": "orange"}, {"class": "donut", "count": 1, "color": "pink"}], "prompt": "एक नारंगी मोटरसाइकिल और एक गुलाबी डोनट की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "orange"}, {"class": "baseball glove", "count": 1, "color": "white"}], "prompt": "एक नारंगी जिराफ और एक सफेद बेसबॉल दस्ताने की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "orange"}, {"class": "carrot", "count": 1, "color": "green"}], "prompt": "एक नारंगी हैंडबैग और एक हरी गाजर की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "bottle", "count": 1, "color": "black"}, {"class": "refrigerator", "count": 1, "color": "white"}], "prompt": "एक काली बोतल और एक सफेद रेफ्रिजरेटर की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "dog", "count": 1, "color": "white"}, {"class": "potted plant", "count": 1, "color": "blue"}], "prompt": "एक सफेद कुत्ते और एक नीले रंग के पौधे की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "orange"}, {"class": "car", "count": 1, "color": "red"}], "prompt": "एक नारंगी हैंडबैग और एक लाल कार की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "stop sign", "count": 1, "color": "red"}, {"class": "book", "count": 1, "color": "blue"}], "prompt": "रेड स्टॉप साइन और एक ब्लू बुक की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "yellow"}, {"class": "toothbrush", "count": 1, "color": "orange"}], "prompt": "एक पीली कार और एक नारंगी टूथब्रश की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "potted plant", "count": 1, "color": "black"}, {"class": "toilet", "count": 1, "color": "yellow"}], "prompt": "एक काले रंग के पौधे और एक पीले शौचालय की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "brown"}, {"class": "suitcase", "count": 1, "color": "white"}], "prompt": "एक भूरे रंग के भोजन की मेज और एक सफेद सूटकेस की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "donut", "count": 1, "color": "orange"}, {"class": "stop sign", "count": 1, "color": "yellow"}], "prompt": "एक नारंगी डोनट की एक तस्वीर और एक पीला स्टॉप साइन"}
+{"tag": "color_attr", "include": [{"class": "suitcase", "count": 1, "color": "green"}, {"class": "boat", "count": 1, "color": "blue"}], "prompt": "एक हरे रंग के सूटकेस और एक नीली नाव की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "orange"}, {"class": "sports ball", "count": 1, "color": "yellow"}], "prompt": "एक नारंगी टेनिस रैकेट और एक पीले स्पोर्ट्स बॉल की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "computer keyboard", "count": 1, "color": "purple"}, {"class": "chair", "count": 1, "color": "red"}], "prompt": "एक बैंगनी कंप्यूटर कीबोर्ड और एक लाल कुर्सी की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "suitcase", "count": 1, "color": "purple"}, {"class": "pizza", "count": 1, "color": "orange"}], "prompt": "एक बैंगनी सूटकेस और एक नारंगी पिज्जा की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "bottle", "count": 1, "color": "white"}, {"class": "sheep", "count": 1, "color": "blue"}], "prompt": "एक सफेद बोतल और एक नीली भेड़ की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "backpack", "count": 1, "color": "purple"}, {"class": "umbrella", "count": 1, "color": "white"}], "prompt": "एक बैंगनी बैकपैक और एक सफेद छाता की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "potted plant", "count": 1, "color": "orange"}, {"class": "spoon", "count": 1, "color": "black"}], "prompt": "एक नारंगी पॉटेड पौधे और एक काले चम्मच की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "green"}, {"class": "dog", "count": 1, "color": "black"}], "prompt": "एक हरे टेनिस रैकेट और एक काले कुत्ते की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "yellow"}, {"class": "refrigerator", "count": 1, "color": "blue"}], "prompt": "एक पीले हैंडबैग और एक नीले रेफ्रिजरेटर की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "broccoli", "count": 1, "color": "pink"}, {"class": "sink", "count": 1, "color": "red"}], "prompt": "एक गुलाबी ब्रोकोली और एक लाल सिंक की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "bowl", "count": 1, "color": "red"}, {"class": "sink", "count": 1, "color": "pink"}], "prompt": "एक लाल कटोरे और एक गुलाबी सिंक की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "toilet", "count": 1, "color": "white"}, {"class": "apple", "count": 1, "color": "red"}], "prompt": "एक सफेद शौचालय और एक लाल सेब की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "pink"}, {"class": "sandwich", "count": 1, "color": "black"}], "prompt": "एक गुलाबी डाइनिंग टेबल और एक काले सैंडविच की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "black"}, {"class": "parking meter", "count": 1, "color": "green"}], "prompt": "एक काली कार और एक हरी पार्किंग मीटर की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "bird", "count": 1, "color": "yellow"}, {"class": "motorcycle", "count": 1, "color": "black"}], "prompt": "एक पीले पक्षी और एक काले मोटरसाइकिल की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "brown"}, {"class": "stop sign", "count": 1, "color": "white"}], "prompt": "एक भूरे रंग की जिराफ और एक सफेद स्टॉप साइन की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "banana", "count": 1, "color": "white"}, {"class": "elephant", "count": 1, "color": "black"}], "prompt": "एक सफेद केला और एक काले हाथी की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "cow", "count": 1, "color": "orange"}, {"class": "sandwich", "count": 1, "color": "purple"}], "prompt": "एक नारंगी गाय और एक बैंगनी सैंडविच की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "clock", "count": 1, "color": "red"}, {"class": "cell phone", "count": 1, "color": "black"}], "prompt": "एक लाल घड़ी और एक काले सेल फोन की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "knife", "count": 1, "color": "brown"}, {"class": "donut", "count": 1, "color": "blue"}], "prompt": "एक भूरे चाकू और एक नीले डोनट की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "red"}, {"class": "handbag", "count": 1, "color": "pink"}], "prompt": "एक लाल कप और एक गुलाबी हैंडबैग की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "bicycle", "count": 1, "color": "yellow"}, {"class": "motorcycle", "count": 1, "color": "red"}], "prompt": "एक पीले रंग की साइकिल और एक लाल मोटरसाइकिल की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "orange", "count": 1, "color": "red"}, {"class": "broccoli", "count": 1, "color": "purple"}], "prompt": "एक लाल नारंगी और एक बैंगनी ब्रोकोली की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "traffic light", "count": 1, "color": "orange"}, {"class": "toilet", "count": 1, "color": "white"}], "prompt": "एक नारंगी ट्रैफिक लाइट और एक सफेद शौचालय की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "green"}, {"class": "pizza", "count": 1, "color": "red"}], "prompt": "एक हरे रंग के कप और एक लाल पिज्जा की एक तस्वीर"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "blue"}, {"class": "baseball glove", "count": 1, "color": "yellow"}], "prompt": "एक नीले पिज्जा और एक पीले बेसबॉल दस्ताने की एक तस्वीर"}

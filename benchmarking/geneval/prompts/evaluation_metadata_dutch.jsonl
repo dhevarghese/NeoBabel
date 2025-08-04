@@ -1,0 +1,553 @@
+{"tag": "single_object", "include": [{"class": "bench", "count": 1}], "prompt": "Een foto van een bankje"}
+{"tag": "single_object", "include": [{"class": "cow", "count": 1}], "prompt": "Een foto van een koe"}
+{"tag": "single_object", "include": [{"class": "bicycle", "count": 1}], "prompt": "Een foto van een fiets"}
+{"tag": "single_object", "include": [{"class": "clock", "count": 1}], "prompt": "Een foto van een klok"}
+{"tag": "single_object", "include": [{"class": "carrot", "count": 1}], "prompt": "Een foto van een wortel"}
+{"tag": "single_object", "include": [{"class": "suitcase", "count": 1}], "prompt": "Een foto van een koffer"}
+{"tag": "single_object", "include": [{"class": "fork", "count": 1}], "prompt": "Een foto van een vork"}
+{"tag": "single_object", "include": [{"class": "surfboard", "count": 1}], "prompt": "Een foto van een surfplank"}
+{"tag": "single_object", "include": [{"class": "refrigerator", "count": 1}], "prompt": "Een foto van een koelkast"}
+{"tag": "single_object", "include": [{"class": "cup", "count": 1}], "prompt": "Een foto van een beker"}
+{"tag": "single_object", "include": [{"class": "microwave", "count": 1}], "prompt": "Een foto van een magnetron"}
+{"tag": "single_object", "include": [{"class": "potted plant", "count": 1}], "prompt": "Een foto van een potplant"}
+{"tag": "single_object", "include": [{"class": "snowboard", "count": 1}], "prompt": "Een foto van een snowboard"}
+{"tag": "single_object", "include": [{"class": "zebra", "count": 1}], "prompt": "Een foto van een zebra"}
+{"tag": "single_object", "include": [{"class": "parking meter", "count": 1}], "prompt": "Een foto van een parkeermeter"}
+{"tag": "single_object", "include": [{"class": "spoon", "count": 1}], "prompt": "Een foto van een lepel"}
+{"tag": "single_object", "include": [{"class": "skateboard", "count": 1}], "prompt": "Een foto van een skateboard"}
+{"tag": "single_object", "include": [{"class": "car", "count": 1}], "prompt": "Een foto van een auto"}
+{"tag": "single_object", "include": [{"class": "motorcycle", "count": 1}], "prompt": "Een foto van een motorfiets"}
+{"tag": "single_object", "include": [{"class": "traffic light", "count": 1}], "prompt": "Een foto van een verkeerslicht"}
+{"tag": "single_object", "include": [{"class": "book", "count": 1}], "prompt": "Een foto van een boek"}
+{"tag": "single_object", "include": [{"class": "couch", "count": 1}], "prompt": "Een foto van een bank"}
+{"tag": "single_object", "include": [{"class": "backpack", "count": 1}], "prompt": "Een foto van een rugzak"}
+{"tag": "single_object", "include": [{"class": "computer keyboard", "count": 1}], "prompt": "Een foto van een computertoetsenbord"}
+{"tag": "single_object", "include": [{"class": "toaster", "count": 1}], "prompt": "Een foto van een broodrooster"}
+{"tag": "single_object", "include": [{"class": "bird", "count": 1}], "prompt": "Een foto van een vogel"}
+{"tag": "single_object", "include": [{"class": "bowl", "count": 1}], "prompt": "Een foto van een kom"}
+{"tag": "single_object", "include": [{"class": "dog", "count": 1}], "prompt": "Een foto van een hond"}
+{"tag": "single_object", "include": [{"class": "tie", "count": 1}], "prompt": "Een foto van een gelijkspel"}
+{"tag": "single_object", "include": [{"class": "laptop", "count": 1}], "prompt": "Een foto van een laptop"}
+{"tag": "single_object", "include": [{"class": "computer mouse", "count": 1}], "prompt": "Een foto van een computermuis"}
+{"tag": "single_object", "include": [{"class": "sandwich", "count": 1}], "prompt": "Een foto van een sandwich"}
+{"tag": "single_object", "include": [{"class": "baseball bat", "count": 1}], "prompt": "Een foto van een honkbalknuppel"}
+{"tag": "single_object", "include": [{"class": "train", "count": 1}], "prompt": "Een foto van een trein"}
+{"tag": "single_object", "include": [{"class": "cell phone", "count": 1}], "prompt": "Een foto van een mobiele telefoon"}
+{"tag": "single_object", "include": [{"class": "chair", "count": 1}], "prompt": "Een foto van een stoel"}
+{"tag": "single_object", "include": [{"class": "tv", "count": 1}], "prompt": "Een foto van een tv"}
+{"tag": "single_object", "include": [{"class": "broccoli", "count": 1}], "prompt": "Een foto van een broccoli"}
+{"tag": "single_object", "include": [{"class": "bed", "count": 1}], "prompt": "Een foto van een bed"}
+{"tag": "single_object", "include": [{"class": "skis", "count": 1}], "prompt": "Een foto van een ski's"}
+{"tag": "single_object", "include": [{"class": "handbag", "count": 1}], "prompt": "Een foto van een handtas"}
+{"tag": "single_object", "include": [{"class": "pizza", "count": 1}], "prompt": "Een foto van een pizza"}
+{"tag": "single_object", "include": [{"class": "frisbee", "count": 1}], "prompt": "Een foto van een frisbee"}
+{"tag": "single_object", "include": [{"class": "scissors", "count": 1}], "prompt": "Een foto van een schaar"}
+{"tag": "single_object", "include": [{"class": "bottle", "count": 1}], "prompt": "Een foto van een fles"}
+{"tag": "single_object", "include": [{"class": "elephant", "count": 1}], "prompt": "Een foto van een olifant"}
+{"tag": "single_object", "include": [{"class": "toilet", "count": 1}], "prompt": "Een foto van een toilet"}
+{"tag": "single_object", "include": [{"class": "oven", "count": 1}], "prompt": "Een foto van een oven"}
+{"tag": "single_object", "include": [{"class": "orange", "count": 1}], "prompt": "Een foto van een sinaasappel"}
+{"tag": "single_object", "include": [{"class": "person", "count": 1}], "prompt": "Een foto van een persoon"}
+{"tag": "single_object", "include": [{"class": "teddy bear", "count": 1}], "prompt": "Een foto van een teddybeer"}
+{"tag": "single_object", "include": [{"class": "vase", "count": 1}], "prompt": "Een foto van een vaas"}
+{"tag": "single_object", "include": [{"class": "banana", "count": 1}], "prompt": "Een foto van een banaan"}
+{"tag": "single_object", "include": [{"class": "toothbrush", "count": 1}], "prompt": "Een foto van een tandenborstel"}
+{"tag": "single_object", "include": [{"class": "tv remote", "count": 1}], "prompt": "Een foto van een tv -afstandsbediening"}
+{"tag": "single_object", "include": [{"class": "dining table", "count": 1}], "prompt": "Een foto van een eettafel"}
+{"tag": "single_object", "include": [{"class": "stop sign", "count": 1}], "prompt": "Een foto van een stopbord"}
+{"tag": "single_object", "include": [{"class": "sheep", "count": 1}], "prompt": "Een foto van een schaap"}
+{"tag": "single_object", "include": [{"class": "fire hydrant", "count": 1}], "prompt": "Een foto van een brandkraan"}
+{"tag": "single_object", "include": [{"class": "airplane", "count": 1}], "prompt": "Een foto van een vliegtuig"}
+{"tag": "single_object", "include": [{"class": "giraffe", "count": 1}], "prompt": "Een foto van een giraf"}
+{"tag": "single_object", "include": [{"class": "horse", "count": 1}], "prompt": "Een foto van een paard"}
+{"tag": "single_object", "include": [{"class": "cat", "count": 1}], "prompt": "Een foto van een kat"}
+{"tag": "single_object", "include": [{"class": "donut", "count": 1}], "prompt": "Een foto van een donut"}
+{"tag": "single_object", "include": [{"class": "boat", "count": 1}], "prompt": "Een foto van een boot"}
+{"tag": "single_object", "include": [{"class": "baseball glove", "count": 1}], "prompt": "Een foto van een honkbalhandschoen"}
+{"tag": "single_object", "include": [{"class": "hair drier", "count": 1}], "prompt": "Een foto van een haardroger"}
+{"tag": "single_object", "include": [{"class": "sink", "count": 1}], "prompt": "Een foto van een gootsteen"}
+{"tag": "single_object", "include": [{"class": "cake", "count": 1}], "prompt": "Een foto van een cake"}
+{"tag": "single_object", "include": [{"class": "wine glass", "count": 1}], "prompt": "Een foto van een wijnglas"}
+{"tag": "single_object", "include": [{"class": "apple", "count": 1}], "prompt": "Een foto van een appel"}
+{"tag": "single_object", "include": [{"class": "bus", "count": 1}], "prompt": "Een foto van een bus"}
+{"tag": "single_object", "include": [{"class": "tennis racket", "count": 1}], "prompt": "Een foto van een tennisracket"}
+{"tag": "single_object", "include": [{"class": "knife", "count": 1}], "prompt": "Een foto van een mes"}
+{"tag": "single_object", "include": [{"class": "hot dog", "count": 1}], "prompt": "Een foto van een hotdog"}
+{"tag": "single_object", "include": [{"class": "truck", "count": 1}], "prompt": "Een foto van een vrachtwagen"}
+{"tag": "single_object", "include": [{"class": "umbrella", "count": 1}], "prompt": "Een foto van een paraplu"}
+{"tag": "single_object", "include": [{"class": "sports ball", "count": 1}], "prompt": "Een foto van een sportbal"}
+{"tag": "single_object", "include": [{"class": "bear", "count": 1}], "prompt": "Een foto van een beer"}
+{"tag": "single_object", "include": [{"class": "kite", "count": 1}], "prompt": "Een foto van een vlieger"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "sports ball", "count": 1}], "prompt": "Een foto van een bank en een sportbal"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "Een foto van een tandenborstel en een snowboard"}
+{"tag": "two_object", "include": [{"class": "toaster", "count": 1}, {"class": "oven", "count": 1}], "prompt": "Een foto van een broodrooster en een oven"}
+{"tag": "two_object", "include": [{"class": "broccoli", "count": 1}, {"class": "vase", "count": 1}], "prompt": "Een foto van een broccoli en een vaas"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "wine glass", "count": 1}], "prompt": "Een foto van een tennisracket en een wijnglas"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "knife", "count": 1}], "prompt": "Een foto van een vork en een mes"}
+{"tag": "two_object", "include": [{"class": "hair drier", "count": 1}, {"class": "cake", "count": 1}], "prompt": "Een foto van een haardroger en een cake"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "giraffe", "count": 1}], "prompt": "Een foto van een paard en een giraf"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "computer keyboard", "count": 1}], "prompt": "Een foto van een paard en een computertoetsenbord"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "Een foto van een tandenborstel en een wortel"}
+{"tag": "two_object", "include": [{"class": "cake", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "Een foto van een cake en een zebra"}
+{"tag": "two_object", "include": [{"class": "hair drier", "count": 1}, {"class": "bear", "count": 1}], "prompt": "Een foto van een haardroger en een beer"}
+{"tag": "two_object", "include": [{"class": "knife", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "Een foto van een mes en een zebra"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "wine glass", "count": 1}], "prompt": "Een foto van een bank en een wijnglas"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "vase", "count": 1}], "prompt": "Een foto van een frisbee en een vaas"}
+{"tag": "two_object", "include": [{"class": "book", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "Een foto van een boek en een laptop"}
+{"tag": "two_object", "include": [{"class": "dining table", "count": 1}, {"class": "bear", "count": 1}], "prompt": "Een foto van een eettafel en een beer"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "couch", "count": 1}], "prompt": "Een foto van een frisbee en een bank"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "horse", "count": 1}], "prompt": "Een foto van een bank en een paard"}
+{"tag": "two_object", "include": [{"class": "toilet", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "Een foto van een toilet en een computermuis"}
+{"tag": "two_object", "include": [{"class": "bottle", "count": 1}, {"class": "refrigerator", "count": 1}], "prompt": "Een foto van een fles en een koelkast"}
+{"tag": "two_object", "include": [{"class": "potted plant", "count": 1}, {"class": "backpack", "count": 1}], "prompt": "Een foto van een potplant en een rugzak"}
+{"tag": "two_object", "include": [{"class": "skateboard", "count": 1}, {"class": "cake", "count": 1}], "prompt": "Een foto van een skateboard en een cake"}
+{"tag": "two_object", "include": [{"class": "broccoli", "count": 1}, {"class": "parking meter", "count": 1}], "prompt": "Een foto van een broccoli en een parkeermeter"}
+{"tag": "two_object", "include": [{"class": "zebra", "count": 1}, {"class": "bed", "count": 1}], "prompt": "Een foto van een zebra en een bed"}
+{"tag": "two_object", "include": [{"class": "oven", "count": 1}, {"class": "bed", "count": 1}], "prompt": "Een foto van een oven en een bed"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "fork", "count": 1}], "prompt": "Een foto van een honkbalknuppel en een vork"}
+{"tag": "two_object", "include": [{"class": "vase", "count": 1}, {"class": "spoon", "count": 1}], "prompt": "Een foto van een vaas en een lepel"}
+{"tag": "two_object", "include": [{"class": "skateboard", "count": 1}, {"class": "sink", "count": 1}], "prompt": "Een foto van een skateboard en een gootsteen"}
+{"tag": "two_object", "include": [{"class": "pizza", "count": 1}, {"class": "bench", "count": 1}], "prompt": "Een foto van een pizza en een bankje"}
+{"tag": "two_object", "include": [{"class": "bowl", "count": 1}, {"class": "pizza", "count": 1}], "prompt": "Een foto van een kom en een pizza"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "bird", "count": 1}], "prompt": "Een foto van een tennisracket en een vogel"}
+{"tag": "two_object", "include": [{"class": "wine glass", "count": 1}, {"class": "bear", "count": 1}], "prompt": "Een foto van een wijnglas en een beer"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "book", "count": 1}], "prompt": "Een foto van een vork en een boek"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "bowl", "count": 1}], "prompt": "Een foto van een schaar en een kom"}
+{"tag": "two_object", "include": [{"class": "laptop", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "Een foto van een laptop en een wortel"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "bottle", "count": 1}], "prompt": "Een foto van een stopbord en een fles"}
+{"tag": "two_object", "include": [{"class": "microwave", "count": 1}, {"class": "truck", "count": 1}], "prompt": "Een foto van een magnetron en een vrachtwagen"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "bear", "count": 1}], "prompt": "Een foto van een persoon en een beer"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "Een foto van een frisbee en een mobiele telefoon"}
+{"tag": "two_object", "include": [{"class": "parking meter", "count": 1}, {"class": "teddy bear", "count": 1}], "prompt": "Een foto van een parkeermeter en een teddybeer"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "bicycle", "count": 1}], "prompt": "Een foto van een tennisracket en een fiets"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "motorcycle", "count": 1}], "prompt": "Een foto van een stopbord en een motorfiets"}
+{"tag": "two_object", "include": [{"class": "fire hydrant", "count": 1}, {"class": "tennis racket", "count": 1}], "prompt": "Een foto van een brandkraan en een tennisracket"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "sandwich", "count": 1}], "prompt": "Een foto van een schaar en een sandwich"}
+{"tag": "two_object", "include": [{"class": "pizza", "count": 1}, {"class": "book", "count": 1}], "prompt": "Een foto van een pizza en een boek"}
+{"tag": "two_object", "include": [{"class": "giraffe", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "Een foto van een giraf en een computermuis"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "toaster", "count": 1}], "prompt": "Een foto van een stopbord en een broodrooster"}
+{"tag": "two_object", "include": [{"class": "computer mouse", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "Een foto van een computermuis en een zebra"}
+{"tag": "two_object", "include": [{"class": "chair", "count": 1}, {"class": "bench", "count": 1}], "prompt": "Een foto van een stoel en een bankje"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "Een foto van een tv en een wortel"}
+{"tag": "two_object", "include": [{"class": "surfboard", "count": 1}, {"class": "suitcase", "count": 1}], "prompt": "Een foto van een surfplank en een koffer"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "Een foto van een computertoetsenbord en een laptop"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "microwave", "count": 1}], "prompt": "Een foto van een computertoetsenbord en een magnetron"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "bird", "count": 1}], "prompt": "Een foto van een schaar en een vogel"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "Een foto van een persoon en een snowboard"}
+{"tag": "two_object", "include": [{"class": "cow", "count": 1}, {"class": "horse", "count": 1}], "prompt": "Een foto van een koe en een paard"}
+{"tag": "two_object", "include": [{"class": "handbag", "count": 1}, {"class": "refrigerator", "count": 1}], "prompt": "Een foto van een handtas en een koelkast"}
+{"tag": "two_object", "include": [{"class": "chair", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "Een foto van een stoel en een laptop"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "bench", "count": 1}], "prompt": "Een foto van een tandenborstel en een bankje"}
+{"tag": "two_object", "include": [{"class": "book", "count": 1}, {"class": "baseball bat", "count": 1}], "prompt": "Een foto van een boek en een honkbalknuppel"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "train", "count": 1}], "prompt": "Een foto van een paard en een trein"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "vase", "count": 1}], "prompt": "Een foto van een bank en een vaas"}
+{"tag": "two_object", "include": [{"class": "traffic light", "count": 1}, {"class": "backpack", "count": 1}], "prompt": "Een foto van een verkeerslicht en een rugzak"}
+{"tag": "two_object", "include": [{"class": "sports ball", "count": 1}, {"class": "cow", "count": 1}], "prompt": "Een foto van een sportbal en een koe"}
+{"tag": "two_object", "include": [{"class": "computer mouse", "count": 1}, {"class": "spoon", "count": 1}], "prompt": "Een foto van een computermuis en een lepel"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "bicycle", "count": 1}], "prompt": "Een foto van een tv en een fiets"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "Een foto van een bank en een snowboard"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "toilet", "count": 1}], "prompt": "Een foto van een tandenborstel en een toilet"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "apple", "count": 1}], "prompt": "Een foto van een persoon en een appel"}
+{"tag": "two_object", "include": [{"class": "sink", "count": 1}, {"class": "sports ball", "count": 1}], "prompt": "Een foto van een gootsteen en een sportbal"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "dog", "count": 1}], "prompt": "Een foto van een stopbord en een hond"}
+{"tag": "two_object", "include": [{"class": "knife", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "Een foto van een mes en een stopbord"}
+{"tag": "two_object", "include": [{"class": "wine glass", "count": 1}, {"class": "handbag", "count": 1}], "prompt": "Een foto van een wijnglas en een handtas"}
+{"tag": "two_object", "include": [{"class": "bowl", "count": 1}, {"class": "skis", "count": 1}], "prompt": "Een foto van een kom en een ski's"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "apple", "count": 1}], "prompt": "Een foto van een frisbee en een appel"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "Een foto van een computertoetsenbord en een mobiele telefoon"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "fork", "count": 1}], "prompt": "Een foto van een stopbord en een vork"}
+{"tag": "two_object", "include": [{"class": "potted plant", "count": 1}, {"class": "boat", "count": 1}], "prompt": "een foto van een potplant en een boot"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "Een foto van een tv en een mobiele telefoon"}
+{"tag": "two_object", "include": [{"class": "tie", "count": 1}, {"class": "broccoli", "count": 1}], "prompt": "Een foto van een gelijkspel en een broccoli"}
+{"tag": "two_object", "include": [{"class": "potted plant", "count": 1}, {"class": "donut", "count": 1}], "prompt": "Een foto van een potplant en een donut"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "sink", "count": 1}], "prompt": "Een foto van een persoon en een gootsteen"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "Een foto van een bank en een snowboard"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "baseball glove", "count": 1}], "prompt": "Een foto van een vork en een honkbalhandschoen"}
+{"tag": "two_object", "include": [{"class": "apple", "count": 1}, {"class": "toothbrush", "count": 1}], "prompt": "Een foto van een appel en een tandenborstel"}
+{"tag": "two_object", "include": [{"class": "bus", "count": 1}, {"class": "baseball glove", "count": 1}], "prompt": "Een foto van een bus en een honkbalhandschoen"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "Een foto van een persoon en een stopbord"}
+{"tag": "two_object", "include": [{"class": "carrot", "count": 1}, {"class": "couch", "count": 1}], "prompt": "Een foto van een wortel en een bank"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "bear", "count": 1}], "prompt": "Een foto van een honkbalknuppel en een beer"}
+{"tag": "two_object", "include": [{"class": "fire hydrant", "count": 1}, {"class": "train", "count": 1}], "prompt": "Een foto van een brandkraan en een trein"}
+{"tag": "two_object", "include": [{"class": "baseball glove", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "Een foto van een honkbalhandschoen en een wortel"}
+{"tag": "two_object", "include": [{"class": "microwave", "count": 1}, {"class": "bench", "count": 1}], "prompt": "Een foto van een magnetron en een bankje"}
+{"tag": "two_object", "include": [{"class": "cake", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "Een foto van een cake en een stopbord"}
+{"tag": "two_object", "include": [{"class": "car", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "Een foto van een auto en een computermuis"}
+{"tag": "two_object", "include": [{"class": "suitcase", "count": 1}, {"class": "dining table", "count": 1}], "prompt": "Een foto van een koffer en een eettafel"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "traffic light", "count": 1}], "prompt": "Een foto van een persoon en een verkeerslicht"}
+{"tag": "two_object", "include": [{"class": "cell phone", "count": 1}, {"class": "horse", "count": 1}], "prompt": "Een foto van een mobiele telefoon en een paard"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "giraffe", "count": 1}], "prompt": "Een foto van een honkbalknuppel en een giraf"}
+{"tag": "counting", "include": [{"class": "clock", "count": 2}], "exclude": [{"class": "clock", "count": 3}], "prompt": "Een foto van twee klokken"}
+{"tag": "counting", "include": [{"class": "backpack", "count": 2}], "exclude": [{"class": "backpack", "count": 3}], "prompt": "Een foto van twee rugzakken"}
+{"tag": "counting", "include": [{"class": "handbag", "count": 4}], "exclude": [{"class": "handbag", "count": 5}], "prompt": "Een foto van vier handtassen"}
+{"tag": "counting", "include": [{"class": "frisbee", "count": 2}], "exclude": [{"class": "frisbee", "count": 3}], "prompt": "Een foto van twee frisbees"}
+{"tag": "counting", "include": [{"class": "sports ball", "count": 3}], "exclude": [{"class": "sports ball", "count": 4}], "prompt": "Een foto van drie sportballen"}
+{"tag": "counting", "include": [{"class": "bear", "count": 2}], "exclude": [{"class": "bear", "count": 3}], "prompt": "Een foto van twee beren"}
+{"tag": "counting", "include": [{"class": "tie", "count": 2}], "exclude": [{"class": "tie", "count": 3}], "prompt": "Een foto van twee banden"}
+{"tag": "counting", "include": [{"class": "sink", "count": 4}], "exclude": [{"class": "sink", "count": 5}], "prompt": "Een foto van vier gootstenen"}
+{"tag": "counting", "include": [{"class": "toothbrush", "count": 2}], "exclude": [{"class": "toothbrush", "count": 3}], "prompt": "Een foto van twee tandenborstels"}
+{"tag": "counting", "include": [{"class": "person", "count": 3}], "exclude": [{"class": "person", "count": 4}], "prompt": "Een foto van drie personen"}
+{"tag": "counting", "include": [{"class": "tennis racket", "count": 3}], "exclude": [{"class": "tennis racket", "count": 4}], "prompt": "Een foto van drie tennisrackets"}
+{"tag": "counting", "include": [{"class": "bowl", "count": 4}], "exclude": [{"class": "bowl", "count": 5}], "prompt": "Een foto van vier kommen"}
+{"tag": "counting", "include": [{"class": "vase", "count": 4}], "exclude": [{"class": "vase", "count": 5}], "prompt": "Een foto van vier vazen"}
+{"tag": "counting", "include": [{"class": "cup", "count": 3}], "exclude": [{"class": "cup", "count": 4}], "prompt": "Een foto van drie kopjes"}
+{"tag": "counting", "include": [{"class": "computer keyboard", "count": 4}], "exclude": [{"class": "computer keyboard", "count": 5}], "prompt": "Een foto van vier computertoetsenborden"}
+{"tag": "counting", "include": [{"class": "sink", "count": 3}], "exclude": [{"class": "sink", "count": 4}], "prompt": "Een foto van drie gootstenen"}
+{"tag": "counting", "include": [{"class": "oven", "count": 2}], "exclude": [{"class": "oven", "count": 3}], "prompt": "Een foto van twee ovens"}
+{"tag": "counting", "include": [{"class": "toilet", "count": 2}], "exclude": [{"class": "toilet", "count": 3}], "prompt": "Een foto van twee toiletten"}
+{"tag": "counting", "include": [{"class": "bicycle", "count": 2}], "exclude": [{"class": "bicycle", "count": 3}], "prompt": "Een foto van twee fietsen"}
+{"tag": "counting", "include": [{"class": "train", "count": 2}], "exclude": [{"class": "train", "count": 3}], "prompt": "Een foto van twee treinen"}
+{"tag": "counting", "include": [{"class": "orange", "count": 3}], "exclude": [{"class": "orange", "count": 4}], "prompt": "Een foto van drie sinaasappels"}
+{"tag": "counting", "include": [{"class": "bus", "count": 3}], "exclude": [{"class": "bus", "count": 4}], "prompt": "Een foto van drie bussen"}
+{"tag": "counting", "include": [{"class": "handbag", "count": 3}], "exclude": [{"class": "handbag", "count": 4}], "prompt": "Een foto van drie handtassen"}
+{"tag": "counting", "include": [{"class": "snowboard", "count": 3}], "exclude": [{"class": "snowboard", "count": 4}], "prompt": "Een foto van drie snowboards"}
+{"tag": "counting", "include": [{"class": "snowboard", "count": 2}], "exclude": [{"class": "snowboard", "count": 3}], "prompt": "Een foto van twee snowboards"}
+{"tag": "counting", "include": [{"class": "dog", "count": 4}], "exclude": [{"class": "dog", "count": 5}], "prompt": "Een foto van vier honden"}
+{"tag": "counting", "include": [{"class": "apple", "count": 3}], "exclude": [{"class": "apple", "count": 4}], "prompt": "Een foto van drie appels"}
+{"tag": "counting", "include": [{"class": "sheep", "count": 2}], "exclude": [{"class": "sheep", "count": 3}], "prompt": "Een foto van twee schapen"}
+{"tag": "counting", "include": [{"class": "hot dog", "count": 3}], "exclude": [{"class": "hot dog", "count": 4}], "prompt": "Een foto van drie hotdogs"}
+{"tag": "counting", "include": [{"class": "zebra", "count": 3}], "exclude": [{"class": "zebra", "count": 4}], "prompt": "Een foto van drie zebra's"}
+{"tag": "counting", "include": [{"class": "kite", "count": 3}], "exclude": [{"class": "kite", "count": 4}], "prompt": "Een foto van drie vliegers"}
+{"tag": "counting", "include": [{"class": "apple", "count": 4}], "exclude": [{"class": "apple", "count": 5}], "prompt": "Een foto van vier appels"}
+{"tag": "counting", "include": [{"class": "cell phone", "count": 3}], "exclude": [{"class": "cell phone", "count": 4}], "prompt": "Een foto van drie mobiele telefoons"}
+{"tag": "counting", "include": [{"class": "baseball glove", "count": 4}], "exclude": [{"class": "baseball glove", "count": 5}], "prompt": "Een foto van vier honkbalhandschoenen"}
+{"tag": "counting", "include": [{"class": "computer keyboard", "count": 3}], "exclude": [{"class": "computer keyboard", "count": 4}], "prompt": "Een foto van drie computertoetsenborden"}
+{"tag": "counting", "include": [{"class": "bed", "count": 2}], "exclude": [{"class": "bed", "count": 3}], "prompt": "Een foto van twee bedden"}
+{"tag": "counting", "include": [{"class": "tv remote", "count": 2}], "exclude": [{"class": "tv remote", "count": 3}], "prompt": "Een foto van twee tv -afstandsbedieningen"}
+{"tag": "counting", "include": [{"class": "fire hydrant", "count": 3}], "exclude": [{"class": "fire hydrant", "count": 4}], "prompt": "Een foto van drie brandkranen"}
+{"tag": "counting", "include": [{"class": "book", "count": 3}], "exclude": [{"class": "book", "count": 4}], "prompt": "Een foto van drie boeken"}
+{"tag": "counting", "include": [{"class": "giraffe", "count": 4}], "exclude": [{"class": "giraffe", "count": 5}], "prompt": "Een foto van vier giraffen"}
+{"tag": "counting", "include": [{"class": "vase", "count": 2}], "exclude": [{"class": "vase", "count": 3}], "prompt": "Een foto van twee vazen"}
+{"tag": "counting", "include": [{"class": "donut", "count": 4}], "exclude": [{"class": "donut", "count": 5}], "prompt": "Een foto van vier donuts"}
+{"tag": "counting", "include": [{"class": "chair", "count": 4}], "exclude": [{"class": "chair", "count": 5}], "prompt": "Een foto van vier stoelen"}
+{"tag": "counting", "include": [{"class": "baseball bat", "count": 3}], "exclude": [{"class": "baseball bat", "count": 4}], "prompt": "Een foto van drie honkbalvleermuizen"}
+{"tag": "counting", "include": [{"class": "stop sign", "count": 4}], "exclude": [{"class": "stop sign", "count": 5}], "prompt": "Een foto van vier stopborden"}
+{"tag": "counting", "include": [{"class": "pizza", "count": 2}], "exclude": [{"class": "pizza", "count": 3}], "prompt": "Een foto van twee pizza's"}
+{"tag": "counting", "include": [{"class": "refrigerator", "count": 3}], "exclude": [{"class": "refrigerator", "count": 4}], "prompt": "Een foto van drie koelkasten"}
+{"tag": "counting", "include": [{"class": "fire hydrant", "count": 2}], "exclude": [{"class": "fire hydrant", "count": 3}], "prompt": "Een foto van twee brandkranen"}
+{"tag": "counting", "include": [{"class": "giraffe", "count": 3}], "exclude": [{"class": "giraffe", "count": 4}], "prompt": "Een foto van drie giraffen"}
+{"tag": "counting", "include": [{"class": "tv", "count": 4}], "exclude": [{"class": "tv", "count": 5}], "prompt": "Een foto van vier tv's"}
+{"tag": "counting", "include": [{"class": "wine glass", "count": 3}], "exclude": [{"class": "wine glass", "count": 4}], "prompt": "Een foto van drie wijnglazen"}
+{"tag": "counting", "include": [{"class": "broccoli", "count": 4}], "exclude": [{"class": "broccoli", "count": 5}], "prompt": "Een foto van vier broccolis"}
+{"tag": "counting", "include": [{"class": "truck", "count": 3}], "exclude": [{"class": "truck", "count": 4}], "prompt": "Een foto van drie vrachtwagens"}
+{"tag": "counting", "include": [{"class": "truck", "count": 2}], "exclude": [{"class": "truck", "count": 3}], "prompt": "Een foto van twee vrachtwagens"}
+{"tag": "counting", "include": [{"class": "carrot", "count": 2}], "exclude": [{"class": "carrot", "count": 3}], "prompt": "Een foto van twee wortelen"}
+{"tag": "counting", "include": [{"class": "sandwich", "count": 2}], "exclude": [{"class": "sandwich", "count": 3}], "prompt": "Een foto van twee broodjes"}
+{"tag": "counting", "include": [{"class": "traffic light", "count": 4}], "exclude": [{"class": "traffic light", "count": 5}], "prompt": "Een foto van vier verkeerslichten"}
+{"tag": "counting", "include": [{"class": "clock", "count": 4}], "exclude": [{"class": "clock", "count": 5}], "prompt": "Een foto van vier klokken"}
+{"tag": "counting", "include": [{"class": "car", "count": 2}], "exclude": [{"class": "car", "count": 3}], "prompt": "Een foto van twee auto's"}
+{"tag": "counting", "include": [{"class": "banana", "count": 2}], "exclude": [{"class": "banana", "count": 3}], "prompt": "Een foto van twee bananen"}
+{"tag": "counting", "include": [{"class": "wine glass", "count": 2}], "exclude": [{"class": "wine glass", "count": 3}], "prompt": "Een foto van twee wijnglazen"}
+{"tag": "counting", "include": [{"class": "pizza", "count": 3}], "exclude": [{"class": "pizza", "count": 4}], "prompt": "Een foto van drie pizza's"}
+{"tag": "counting", "include": [{"class": "knife", "count": 4}], "exclude": [{"class": "knife", "count": 5}], "prompt": "Een foto van vier messen"}
+{"tag": "counting", "include": [{"class": "suitcase", "count": 3}], "exclude": [{"class": "suitcase", "count": 4}], "prompt": "Een foto van drie koffers"}
+{"tag": "counting", "include": [{"class": "zebra", "count": 4}], "exclude": [{"class": "zebra", "count": 5}], "prompt": "Een foto van vier zebra's"}
+{"tag": "counting", "include": [{"class": "teddy bear", "count": 2}], "exclude": [{"class": "teddy bear", "count": 3}], "prompt": "Een foto van twee teddyberen"}
+{"tag": "counting", "include": [{"class": "skateboard", "count": 4}], "exclude": [{"class": "skateboard", "count": 5}], "prompt": "Een foto van vier skateboards"}
+{"tag": "counting", "include": [{"class": "hot dog", "count": 4}], "exclude": [{"class": "hot dog", "count": 5}], "prompt": "Een foto van vier hotdogs"}
+{"tag": "counting", "include": [{"class": "bird", "count": 3}], "exclude": [{"class": "bird", "count": 4}], "prompt": "Een foto van drie vogels"}
+{"tag": "counting", "include": [{"class": "boat", "count": 4}], "exclude": [{"class": "boat", "count": 5}], "prompt": "Een foto van vier boten"}
+{"tag": "counting", "include": [{"class": "microwave", "count": 4}], "exclude": [{"class": "microwave", "count": 5}], "prompt": "Een foto van vier magnetrons"}
+{"tag": "counting", "include": [{"class": "hair drier", "count": 2}], "exclude": [{"class": "hair drier", "count": 3}], "prompt": "Een foto van twee haardrogers"}
+{"tag": "counting", "include": [{"class": "laptop", "count": 3}], "exclude": [{"class": "laptop", "count": 4}], "prompt": "Een foto van drie laptops"}
+{"tag": "counting", "include": [{"class": "cow", "count": 3}], "exclude": [{"class": "cow", "count": 4}], "prompt": "Een foto van drie koeien"}
+{"tag": "counting", "include": [{"class": "parking meter", "count": 2}], "exclude": [{"class": "parking meter", "count": 3}], "prompt": "Een foto van twee parkeermeters"}
+{"tag": "counting", "include": [{"class": "bench", "count": 4}], "exclude": [{"class": "bench", "count": 5}], "prompt": "Een foto van vier bankjes"}
+{"tag": "counting", "include": [{"class": "bench", "count": 3}], "exclude": [{"class": "bench", "count": 4}], "prompt": "Een foto van drie bankjes"}
+{"tag": "counting", "include": [{"class": "frisbee", "count": 4}], "exclude": [{"class": "frisbee", "count": 5}], "prompt": "Een foto van vier frisbees"}
+{"tag": "counting", "include": [{"class": "book", "count": 4}], "exclude": [{"class": "book", "count": 5}], "prompt": "Een foto van vier boeken"}
+{"tag": "counting", "include": [{"class": "bus", "count": 4}], "exclude": [{"class": "bus", "count": 5}], "prompt": "Een foto van vier bussen"}
+{"tag": "colors", "include": [{"class": "fire hydrant", "count": 1, "color": "blue"}], "prompt": "Een foto van een blauwvuurkraan"}
+{"tag": "colors", "include": [{"class": "car", "count": 1, "color": "pink"}], "prompt": "Een foto van een roze auto"}
+{"tag": "colors", "include": [{"class": "cup", "count": 1, "color": "purple"}], "prompt": "Een foto van een paarse beker"}
+{"tag": "colors", "include": [{"class": "cow", "count": 1, "color": "blue"}], "prompt": "Een foto van een blauwe koe"}
+{"tag": "colors", "include": [{"class": "boat", "count": 1, "color": "yellow"}], "prompt": "Een foto van een gele boot"}
+{"tag": "colors", "include": [{"class": "umbrella", "count": 1, "color": "blue"}], "prompt": "Een foto van een blauwe paraplu"}
+{"tag": "colors", "include": [{"class": "elephant", "count": 1, "color": "blue"}], "prompt": "Een foto van een blauwe olifant"}
+{"tag": "colors", "include": [{"class": "elephant", "count": 1, "color": "yellow"}], "prompt": "Een foto van een gele olifant"}
+{"tag": "colors", "include": [{"class": "bicycle", "count": 1, "color": "red"}], "prompt": "Een foto van een rode fiets"}
+{"tag": "colors", "include": [{"class": "suitcase", "count": 1, "color": "purple"}], "prompt": "Een foto van een paarse koffer"}
+{"tag": "colors", "include": [{"class": "hair drier", "count": 1, "color": "purple"}], "prompt": "Een foto van een paarse haardroger"}
+{"tag": "colors", "include": [{"class": "sandwich", "count": 1, "color": "white"}], "prompt": "Een foto van een witte sandwich"}
+{"tag": "colors", "include": [{"class": "elephant", "count": 1, "color": "purple"}], "prompt": "Een foto van een paarse olifant"}
+{"tag": "colors", "include": [{"class": "microwave", "count": 1, "color": "green"}], "prompt": "Een foto van een groene magnetron"}
+{"tag": "colors", "include": [{"class": "zebra", "count": 1, "color": "red"}], "prompt": "Een foto van een rode zebra"}
+{"tag": "colors", "include": [{"class": "apple", "count": 1, "color": "red"}], "prompt": "Een foto van een rode appel"}
+{"tag": "colors", "include": [{"class": "tv remote", "count": 1, "color": "yellow"}], "prompt": "Een foto van een gele tv -afstandsbediening"}
+{"tag": "colors", "include": [{"class": "toilet", "count": 1, "color": "blue"}], "prompt": "Een foto van een blauw toilet"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "orange"}], "prompt": "Een foto van een oranje oranje"}
+{"tag": "colors", "include": [{"class": "donut", "count": 1, "color": "black"}], "prompt": "Een foto van een zwarte donut"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "red"}], "prompt": "Een foto van een rode vaas"}
+{"tag": "colors", "include": [{"class": "pizza", "count": 1, "color": "purple"}], "prompt": "Een foto van een paarse pizza"}
+{"tag": "colors", "include": [{"class": "skateboard", "count": 1, "color": "pink"}], "prompt": "Een foto van een roze skateboard"}
+{"tag": "colors", "include": [{"class": "skateboard", "count": 1, "color": "green"}], "prompt": "Een foto van een groen skateboard"}
+{"tag": "colors", "include": [{"class": "bear", "count": 1, "color": "purple"}], "prompt": "Een foto van een paarse beer"}
+{"tag": "colors", "include": [{"class": "chair", "count": 1, "color": "brown"}], "prompt": "Een foto van een bruine stoel"}
+{"tag": "colors", "include": [{"class": "computer keyboard", "count": 1, "color": "brown"}], "prompt": "Een foto van een bruin computertoetsenbord"}
+{"tag": "colors", "include": [{"class": "cow", "count": 1, "color": "orange"}], "prompt": "Een foto van een oranje koe"}
+{"tag": "colors", "include": [{"class": "skis", "count": 1, "color": "brown"}], "prompt": "Een foto van een bruine ski's"}
+{"tag": "colors", "include": [{"class": "kite", "count": 1, "color": "white"}], "prompt": "Een foto van een witte vlieger"}
+{"tag": "colors", "include": [{"class": "dog", "count": 1, "color": "red"}], "prompt": "Een foto van een rode hond"}
+{"tag": "colors", "include": [{"class": "couch", "count": 1, "color": "green"}], "prompt": "Een foto van een groene bank"}
+{"tag": "colors", "include": [{"class": "airplane", "count": 1, "color": "yellow"}], "prompt": "Een foto van een geel vliegtuig"}
+{"tag": "colors", "include": [{"class": "tv", "count": 1, "color": "orange"}], "prompt": "Een foto van een oranje tv"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "white"}], "prompt": "Een foto van een witte schaar"}
+{"tag": "colors", "include": [{"class": "cell phone", "count": 1, "color": "pink"}], "prompt": "Een foto van een roze mobiele telefoon"}
+{"tag": "colors", "include": [{"class": "surfboard", "count": 1, "color": "green"}], "prompt": "Een foto van een groene surfplank"}
+{"tag": "colors", "include": [{"class": "fire hydrant", "count": 1, "color": "white"}], "prompt": "Een foto van een witte vuurhydrant"}
+{"tag": "colors", "include": [{"class": "bicycle", "count": 1, "color": "black"}], "prompt": "Een foto van een zwarte fiets"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "purple"}], "prompt": "Een foto van een paarse wortel"}
+{"tag": "colors", "include": [{"class": "dining table", "count": 1, "color": "black"}], "prompt": "Een foto van een zwarte eettafel"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "purple"}], "prompt": "Een foto van een paarse potplant"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "purple"}], "prompt": "Een foto van een paarse rugzak"}
+{"tag": "colors", "include": [{"class": "train", "count": 1, "color": "yellow"}], "prompt": "Een foto van een gele trein"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "pink"}], "prompt": "Een foto van een roze potplant"}
+{"tag": "colors", "include": [{"class": "giraffe", "count": 1, "color": "red"}], "prompt": "Een foto van een rode giraf"}
+{"tag": "colors", "include": [{"class": "bear", "count": 1, "color": "brown"}], "prompt": "Een foto van een bruine beer"}
+{"tag": "colors", "include": [{"class": "train", "count": 1, "color": "black"}], "prompt": "Een foto van een zwarte trein"}
+{"tag": "colors", "include": [{"class": "laptop", "count": 1, "color": "orange"}], "prompt": "Een foto van een oranje laptop"}
+{"tag": "colors", "include": [{"class": "hot dog", "count": 1, "color": "green"}], "prompt": "Een foto van een groene hotdog"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "yellow"}], "prompt": "Een foto van een gele parkeermeter"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "red"}], "prompt": "Een foto van een rode potplant"}
+{"tag": "colors", "include": [{"class": "traffic light", "count": 1, "color": "green"}], "prompt": "Een foto van een groen verkeerslicht"}
+{"tag": "colors", "include": [{"class": "tv", "count": 1, "color": "blue"}], "prompt": "Een foto van een blauwe tv"}
+{"tag": "colors", "include": [{"class": "refrigerator", "count": 1, "color": "brown"}], "prompt": "Een foto van een bruine koelkast"}
+{"tag": "colors", "include": [{"class": "tv remote", "count": 1, "color": "black"}], "prompt": "Een foto van een zwarte tv -afstandsbediening"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "purple"}], "prompt": "Een foto van een paarse schaar"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "yellow"}], "prompt": "Een foto van een gele sinaasappel"}
+{"tag": "colors", "include": [{"class": "toaster", "count": 1, "color": "brown"}], "prompt": "Een foto van een bruine broodrooster"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "red"}], "prompt": "Een foto van een rode parkeermeter"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "brown"}], "prompt": "Een foto van een bruine sinaasappel"}
+{"tag": "colors", "include": [{"class": "clock", "count": 1, "color": "green"}], "prompt": "Een foto van een groene klok"}
+{"tag": "colors", "include": [{"class": "sheep", "count": 1, "color": "white"}], "prompt": "Een foto van een wit schaap"}
+{"tag": "colors", "include": [{"class": "oven", "count": 1, "color": "yellow"}], "prompt": "Een foto van een gele oven"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "green"}], "prompt": "Een foto van een groene vaas"}
+{"tag": "colors", "include": [{"class": "teddy bear", "count": 1, "color": "black"}], "prompt": "Een foto van een zwarte teddybeer"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "yellow"}], "prompt": "Een foto van een gele wortel"}
+{"tag": "colors", "include": [{"class": "hot dog", "count": 1, "color": "black"}], "prompt": "Een foto van een zwarte hotdog"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "red"}], "prompt": "Een foto van een rode schaar"}
+{"tag": "colors", "include": [{"class": "teddy bear", "count": 1, "color": "white"}], "prompt": "Een foto van een witte teddybeer"}
+{"tag": "colors", "include": [{"class": "skis", "count": 1, "color": "black"}], "prompt": "Een foto van een zwarte ski's"}
+{"tag": "colors", "include": [{"class": "dining table", "count": 1, "color": "blue"}], "prompt": "Een foto van een blauwe eettafel"}
+{"tag": "colors", "include": [{"class": "refrigerator", "count": 1, "color": "black"}], "prompt": "Een foto van een zwarte koelkast"}
+{"tag": "colors", "include": [{"class": "dog", "count": 1, "color": "white"}], "prompt": "Een foto van een witte hond"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "orange"}], "prompt": "Een foto van een oranje schaar"}
+{"tag": "colors", "include": [{"class": "cell phone", "count": 1, "color": "red"}], "prompt": "Een foto van een rode mobiele telefoon"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "white"}], "prompt": "Een foto van een witte sinaasappel"}
+{"tag": "colors", "include": [{"class": "clock", "count": 1, "color": "blue"}], "prompt": "Een foto van een blauwe klok"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "blue"}], "prompt": "Een foto van een blauwe wortel"}
+{"tag": "colors", "include": [{"class": "motorcycle", "count": 1, "color": "green"}], "prompt": "Een foto van een groene motorfiets"}
+{"tag": "colors", "include": [{"class": "stop sign", "count": 1, "color": "pink"}], "prompt": "Een foto van een roze stopbord"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "black"}], "prompt": "Een foto van een zwarte vaas"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "black"}], "prompt": "Een foto van een zwarte rugzak"}
+{"tag": "colors", "include": [{"class": "car", "count": 1, "color": "red"}], "prompt": "Een foto van een rode auto"}
+{"tag": "colors", "include": [{"class": "computer mouse", "count": 1, "color": "green"}], "prompt": "Een foto van een groene computermuis"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "red"}], "prompt": "Een foto van een rode rugzak"}
+{"tag": "colors", "include": [{"class": "bus", "count": 1, "color": "green"}], "prompt": "Een foto van een groene bus"}
+{"tag": "colors", "include": [{"class": "toaster", "count": 1, "color": "orange"}], "prompt": "Een foto van een oranje broodrooster"}
+{"tag": "colors", "include": [{"class": "fork", "count": 1, "color": "yellow"}], "prompt": "Een foto van een gele vork"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "pink"}], "prompt": "Een foto van een roze parkeermeter"}
+{"tag": "colors", "include": [{"class": "book", "count": 1, "color": "blue"}], "prompt": "Een foto van een blauw boek"}
+{"tag": "colors", "include": [{"class": "broccoli", "count": 1, "color": "yellow"}], "prompt": "Een foto van een gele broccoli"}
+{"tag": "colors", "include": [{"class": "computer mouse", "count": 1, "color": "orange"}], "prompt": "Een foto van een oranje computermuis"}
+{"tag": "colors", "include": [{"class": "cake", "count": 1, "color": "red"}], "prompt": "Een foto van een rode cake"}
+{"tag": "position", "include": [{"class": "teddy bear", "count": 1}, {"class": "dog", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een hond rechts van een teddybeer"}
+{"tag": "position", "include": [{"class": "kite", "count": 1}, {"class": "wine glass", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een wijnglas boven een vlieger"}
+{"tag": "position", "include": [{"class": "cup", "count": 1}, {"class": "couch", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een bank onder een beker"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "laptop", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een laptop links van een koe"}
+{"tag": "position", "include": [{"class": "hair drier", "count": 1}, {"class": "fork", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een vork boven een haardroger"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "tie", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een gelijkspel rechts van een honkbalknuppel"}
+{"tag": "position", "include": [{"class": "fork", "count": 1}, {"class": "stop sign", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een stopbord boven een vork"}
+{"tag": "position", "include": [{"class": "skateboard", "count": 1}, {"class": "bird", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een vogel onder een skateboard"}
+{"tag": "position", "include": [{"class": "tv", "count": 1}, {"class": "apple", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een appel boven een tv"}
+{"tag": "position", "include": [{"class": "potted plant", "count": 1}, {"class": "train", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een trein boven een potplant"}
+{"tag": "position", "include": [{"class": "refrigerator", "count": 1}, {"class": "truck", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een vrachtwagen links van een koelkast"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "tv remote", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een tv -afstandsbediening onder een koe"}
+{"tag": "position", "include": [{"class": "train", "count": 1}, {"class": "bottle", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een fles rechts van een trein"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "dog", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een hond boven een koe"}
+{"tag": "position", "include": [{"class": "person", "count": 1}, {"class": "skateboard", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een skateboard boven een persoon"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "baseball glove", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een honkbalhandschoen onder een paraplu"}
+{"tag": "position", "include": [{"class": "oven", "count": 1}, {"class": "dining table", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een eettafel rechts van een oven"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "hot dog", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een hotdog links van een koffer"}
+{"tag": "position", "include": [{"class": "toothbrush", "count": 1}, {"class": "bus", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een bus onder een tandenborstel"}
+{"tag": "position", "include": [{"class": "sandwich", "count": 1}, {"class": "backpack", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een rugzak rechts van een sandwich"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "cake", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een cake onder een honkbalknuppel"}
+{"tag": "position", "include": [{"class": "tie", "count": 1}, {"class": "dog", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een hond recht van een gelijkspel"}
+{"tag": "position", "include": [{"class": "boat", "count": 1}, {"class": "suitcase", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een koffer rechts van een boot"}
+{"tag": "position", "include": [{"class": "clock", "count": 1}, {"class": "bear", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een beer boven een klok"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "tv remote", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een tv -afstandsbediening van een paraplu"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "sports ball", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een sportbal links van een paraplu"}
+{"tag": "position", "include": [{"class": "dining table", "count": 1}, {"class": "train", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een trein rechts van een eettafel"}
+{"tag": "position", "include": [{"class": "elephant", "count": 1}, {"class": "hair drier", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een haardroger onder een olifant"}
+{"tag": "position", "include": [{"class": "spoon", "count": 1}, {"class": "tennis racket", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een tennisracket rechts van een lepel"}
+{"tag": "position", "include": [{"class": "hot dog", "count": 1}, {"class": "wine glass", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een wijnglas rechts van een hotdog"}
+{"tag": "position", "include": [{"class": "bench", "count": 1}, {"class": "computer mouse", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een computermuis links van een bank"}
+{"tag": "position", "include": [{"class": "orange", "count": 1}, {"class": "carrot", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een wortel links van een sinaasappel"}
+{"tag": "position", "include": [{"class": "toothbrush", "count": 1}, {"class": "kite", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een vlieger boven een tandenborstel"}
+{"tag": "position", "include": [{"class": "traffic light", "count": 1}, {"class": "toaster", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een broodrooster onder een verkeerslicht"}
+{"tag": "position", "include": [{"class": "baseball glove", "count": 1}, {"class": "cat", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een kat onder een honkbalhandschoen"}
+{"tag": "position", "include": [{"class": "zebra", "count": 1}, {"class": "skis", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een ski -recht van een zebra"}
+{"tag": "position", "include": [{"class": "chair", "count": 1}, {"class": "stop sign", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een stopbord boven een stoel"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "stop sign", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een stopbord boven een parkeermeter"}
+{"tag": "position", "include": [{"class": "skateboard", "count": 1}, {"class": "hot dog", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een hotdog rechts van een skateboard"}
+{"tag": "position", "include": [{"class": "computer keyboard", "count": 1}, {"class": "pizza", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een pizza onder een computertoetsenbord"}
+{"tag": "position", "include": [{"class": "toilet", "count": 1}, {"class": "hair drier", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een haardroger links van een toilet"}
+{"tag": "position", "include": [{"class": "stop sign", "count": 1}, {"class": "cow", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een koe die is achtergelaten van een stopbord"}
+{"tag": "position", "include": [{"class": "skis", "count": 1}, {"class": "suitcase", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een koffer boven een ski's"}
+{"tag": "position", "include": [{"class": "laptop", "count": 1}, {"class": "book", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een boek boven een laptop"}
+{"tag": "position", "include": [{"class": "pizza", "count": 1}, {"class": "toothbrush", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een tandenborstel onder een pizza"}
+{"tag": "position", "include": [{"class": "kite", "count": 1}, {"class": "toilet", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een toilet links van een vlieger"}
+{"tag": "position", "include": [{"class": "sink", "count": 1}, {"class": "tie", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een gelijkspel boven een gootsteen"}
+{"tag": "position", "include": [{"class": "couch", "count": 1}, {"class": "bird", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een vogel achtergelaten van een bank"}
+{"tag": "position", "include": [{"class": "sports ball", "count": 1}, {"class": "bed", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een bed van een sportbal"}
+{"tag": "position", "include": [{"class": "surfboard", "count": 1}, {"class": "elephant", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een olifant onder een surfplank"}
+{"tag": "position", "include": [{"class": "motorcycle", "count": 1}, {"class": "frisbee", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een frisbee -recht van een motorfiets"}
+{"tag": "position", "include": [{"class": "fire hydrant", "count": 1}, {"class": "vase", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een vaas boven een brandkraan"}
+{"tag": "position", "include": [{"class": "elephant", "count": 1}, {"class": "zebra", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een zebra links van een olifant"}
+{"tag": "position", "include": [{"class": "bear", "count": 1}, {"class": "bench", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een bank links van een beer"}
+{"tag": "position", "include": [{"class": "bench", "count": 1}, {"class": "donut", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een donutrecht van een bank"}
+{"tag": "position", "include": [{"class": "horse", "count": 1}, {"class": "frisbee", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een frisbee onder een paard"}
+{"tag": "position", "include": [{"class": "snowboard", "count": 1}, {"class": "computer keyboard", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een computertoetsenbord boven een snowboard"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "tv", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een tv onder een koe"}
+{"tag": "position", "include": [{"class": "horse", "count": 1}, {"class": "elephant", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een olifant onder een paard"}
+{"tag": "position", "include": [{"class": "banana", "count": 1}, {"class": "suitcase", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een koffer links van een banaan"}
+{"tag": "position", "include": [{"class": "airplane", "count": 1}, {"class": "train", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een trein onder een vliegtuig"}
+{"tag": "position", "include": [{"class": "backpack", "count": 1}, {"class": "cat", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een kat onder een rugzak"}
+{"tag": "position", "include": [{"class": "cake", "count": 1}, {"class": "backpack", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een rugzak onder een cake"}
+{"tag": "position", "include": [{"class": "knife", "count": 1}, {"class": "sandwich", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een sandwich onder een mes"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "bicycle", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een fiets boven een parkeermeter"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "knife", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een mes rechts van een koffer"}
+{"tag": "position", "include": [{"class": "knife", "count": 1}, {"class": "hot dog", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een hotdog boven een mes"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "zebra", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een zebra -rechts van een parkeermeter"}
+{"tag": "position", "include": [{"class": "zebra", "count": 1}, {"class": "chair", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een stoel links van een zebra"}
+{"tag": "position", "include": [{"class": "airplane", "count": 1}, {"class": "cow", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een koe onder een vliegtuig"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "cup", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een beker links van een paraplu"}
+{"tag": "position", "include": [{"class": "computer keyboard", "count": 1}, {"class": "zebra", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een zebra onder een computertoetsenbord"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "zebra", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een zebra onder een broccoli"}
+{"tag": "position", "include": [{"class": "sports ball", "count": 1}, {"class": "laptop", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een laptop onder een sportbal"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "truck", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een vrachtwagen links van een honkbalknuppel"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "refrigerator", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een koelkast boven een honkbalknuppel"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "tv", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een tv boven een honkbalknuppel"}
+{"tag": "position", "include": [{"class": "bear", "count": 1}, {"class": "baseball glove", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een honkbalhandschoen recht van een beer"}
+{"tag": "position", "include": [{"class": "scissors", "count": 1}, {"class": "refrigerator", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een koelkast onder een schaar"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "dining table", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een eettafel boven een koffer"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "parking meter", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een parkeermeter boven een broccoli"}
+{"tag": "position", "include": [{"class": "truck", "count": 1}, {"class": "frisbee", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een frisbee boven een vrachtwagen"}
+{"tag": "position", "include": [{"class": "banana", "count": 1}, {"class": "pizza", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een pizza -recht van een banaan"}
+{"tag": "position", "include": [{"class": "boat", "count": 1}, {"class": "bus", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een bus boven een boot"}
+{"tag": "position", "include": [{"class": "tennis racket", "count": 1}, {"class": "cell phone", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een mobiele telefoon links van een tennisracket"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "horse", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een paard rechts van een broccoli"}
+{"tag": "position", "include": [{"class": "bottle", "count": 1}, {"class": "broccoli", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een broccoli boven een fles"}
+{"tag": "position", "include": [{"class": "horse", "count": 1}, {"class": "vase", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een vaasrecht van een paard"}
+{"tag": "position", "include": [{"class": "spoon", "count": 1}, {"class": "bear", "count": 1, "position": ["above", 0]}], "prompt": "Een foto van een beer boven een lepel"}
+{"tag": "position", "include": [{"class": "bed", "count": 1}, {"class": "zebra", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een zebra -recht van een bed"}
+{"tag": "position", "include": [{"class": "laptop", "count": 1}, {"class": "cow", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een koerecht van een laptop"}
+{"tag": "position", "include": [{"class": "frisbee", "count": 1}, {"class": "bed", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een bed van een frisbee"}
+{"tag": "position", "include": [{"class": "motorcycle", "count": 1}, {"class": "tie", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een gelijkspel rechts van een motorfiets"}
+{"tag": "position", "include": [{"class": "tv", "count": 1}, {"class": "laptop", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een laptop recht van een tv"}
+{"tag": "position", "include": [{"class": "chair", "count": 1}, {"class": "cell phone", "count": 1, "position": ["right of", 0]}], "prompt": "Een foto van een mobiele telefoon recht van een stoel"}
+{"tag": "position", "include": [{"class": "potted plant", "count": 1}, {"class": "couch", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een bank onder een potplant"}
+{"tag": "position", "include": [{"class": "tv", "count": 1}, {"class": "clock", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een klok onder een tv"}
+{"tag": "position", "include": [{"class": "vase", "count": 1}, {"class": "couch", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een bank onder een vaas"}
+{"tag": "position", "include": [{"class": "cat", "count": 1}, {"class": "donut", "count": 1, "position": ["below", 0]}], "prompt": "Een foto van een donut onder een kat"}
+{"tag": "position", "include": [{"class": "toaster", "count": 1}, {"class": "couch", "count": 1, "position": ["left of", 0]}], "prompt": "Een foto van een bank links van een broodrooster"}
+{"tag": "color_attr", "include": [{"class": "wine glass", "count": 1, "color": "purple"}, {"class": "apple", "count": 1, "color": "black"}], "prompt": "Een foto van een paars wijnglas en een zwarte appel"}
+{"tag": "color_attr", "include": [{"class": "bus", "count": 1, "color": "green"}, {"class": "microwave", "count": 1, "color": "purple"}], "prompt": "Een foto van een groene bus en een paarse magnetron"}
+{"tag": "color_attr", "include": [{"class": "skis", "count": 1, "color": "green"}, {"class": "airplane", "count": 1, "color": "brown"}], "prompt": "Een foto van een groene ski's en een bruin vliegtuig"}
+{"tag": "color_attr", "include": [{"class": "computer keyboard", "count": 1, "color": "yellow"}, {"class": "sink", "count": 1, "color": "black"}], "prompt": "Een foto van een geel computertoetsenbord en een zwarte gootsteen"}
+{"tag": "color_attr", "include": [{"class": "oven", "count": 1, "color": "pink"}, {"class": "motorcycle", "count": 1, "color": "green"}], "prompt": "Een foto van een roze oven en een groene motorfiets"}
+{"tag": "color_attr", "include": [{"class": "parking meter", "count": 1, "color": "purple"}, {"class": "laptop", "count": 1, "color": "red"}], "prompt": "Een foto van een paarse parkeermeter en een rode laptop"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "yellow"}, {"class": "computer mouse", "count": 1, "color": "orange"}], "prompt": "Een foto van een geel skateboard en een oranje computermuis"}
+{"tag": "color_attr", "include": [{"class": "skis", "count": 1, "color": "red"}, {"class": "tie", "count": 1, "color": "brown"}], "prompt": "Een foto van een rode ski's en een bruine stropdas"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "pink"}, {"class": "train", "count": 1, "color": "black"}], "prompt": "Een foto van een roze skateboard en een zwarte trein"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "white"}, {"class": "bed", "count": 1, "color": "purple"}], "prompt": "Een foto van een witte handtas en een paars bed"}
+{"tag": "color_attr", "include": [{"class": "elephant", "count": 1, "color": "purple"}, {"class": "sports ball", "count": 1, "color": "brown"}], "prompt": "Een foto van een paarse olifant en een bruine sportbal"}
+{"tag": "color_attr", "include": [{"class": "dog", "count": 1, "color": "purple"}, {"class": "dining table", "count": 1, "color": "black"}], "prompt": "Een foto van een paarse hond en een zwarte eettafel"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "white"}, {"class": "car", "count": 1, "color": "red"}], "prompt": "Een foto van een witte eettafel en een rode auto"}
+{"tag": "color_attr", "include": [{"class": "cell phone", "count": 1, "color": "blue"}, {"class": "apple", "count": 1, "color": "green"}], "prompt": "Een foto van een blauwe mobiele telefoon en een groene appel"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "red"}, {"class": "potted plant", "count": 1, "color": "orange"}], "prompt": "Een foto van een rode auto en een oranje potplant"}
+{"tag": "color_attr", "include": [{"class": "carrot", "count": 1, "color": "brown"}, {"class": "potted plant", "count": 1, "color": "white"}], "prompt": "Een foto van een bruine wortel en een witte potplant"}
+{"tag": "color_attr", "include": [{"class": "kite", "count": 1, "color": "black"}, {"class": "bear", "count": 1, "color": "green"}], "prompt": "Een foto van een zwarte vlieger en een groene beer"}
+{"tag": "color_attr", "include": [{"class": "laptop", "count": 1, "color": "blue"}, {"class": "bear", "count": 1, "color": "brown"}], "prompt": "Een foto van een blauwe laptop en een bruine beer"}
+{"tag": "color_attr", "include": [{"class": "teddy bear", "count": 1, "color": "green"}, {"class": "kite", "count": 1, "color": "brown"}], "prompt": "Een foto van een groene teddybeer en een bruine vlieger"}
+{"tag": "color_attr", "include": [{"class": "stop sign", "count": 1, "color": "yellow"}, {"class": "potted plant", "count": 1, "color": "blue"}], "prompt": "Een foto van een geel stopbord en een blauwe potplant"}
+{"tag": "color_attr", "include": [{"class": "snowboard", "count": 1, "color": "orange"}, {"class": "cat", "count": 1, "color": "green"}], "prompt": "Een foto van een oranje snowboard en een groene kat"}
+{"tag": "color_attr", "include": [{"class": "truck", "count": 1, "color": "orange"}, {"class": "sink", "count": 1, "color": "pink"}], "prompt": "Een foto van een oranje vrachtwagen en een roze gootsteen"}
+{"tag": "color_attr", "include": [{"class": "hot dog", "count": 1, "color": "brown"}, {"class": "pizza", "count": 1, "color": "purple"}], "prompt": "Een foto van een bruine hotdog en een paarse pizza"}
+{"tag": "color_attr", "include": [{"class": "couch", "count": 1, "color": "green"}, {"class": "umbrella", "count": 1, "color": "orange"}], "prompt": "Een foto van een groene bank en een oranje paraplu"}
+{"tag": "color_attr", "include": [{"class": "bed", "count": 1, "color": "brown"}, {"class": "cell phone", "count": 1, "color": "pink"}], "prompt": "Een foto van een bruin bed en een roze mobiele telefoon"}
+{"tag": "color_attr", "include": [{"class": "broccoli", "count": 1, "color": "black"}, {"class": "cake", "count": 1, "color": "yellow"}], "prompt": "Een foto van een zwarte broccoli en een gele cake"}
+{"tag": "color_attr", "include": [{"class": "train", "count": 1, "color": "red"}, {"class": "bear", "count": 1, "color": "purple"}], "prompt": "Een foto van een rode trein en een paarse beer"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "purple"}, {"class": "sink", "count": 1, "color": "black"}], "prompt": "Een foto van een paars tennisracket en een zwarte gootsteen"}
+{"tag": "color_attr", "include": [{"class": "vase", "count": 1, "color": "blue"}, {"class": "banana", "count": 1, "color": "black"}], "prompt": "Een foto van een blauwe vaas en een zwarte banaan"}
+{"tag": "color_attr", "include": [{"class": "clock", "count": 1, "color": "blue"}, {"class": "cup", "count": 1, "color": "white"}], "prompt": "Een foto van een blauwe klok en een witte beker"}
+{"tag": "color_attr", "include": [{"class": "umbrella", "count": 1, "color": "red"}, {"class": "couch", "count": 1, "color": "blue"}], "prompt": "Een foto van een rode paraplu en een blauwe bank"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "white"}, {"class": "giraffe", "count": 1, "color": "red"}], "prompt": "Een foto van een witte handtas en een rode giraf"}
+{"tag": "color_attr", "include": [{"class": "tv remote", "count": 1, "color": "pink"}, {"class": "airplane", "count": 1, "color": "blue"}], "prompt": "Een foto van een roze tv -afstandsbediening en een blauw vliegtuig"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "pink"}, {"class": "scissors", "count": 1, "color": "black"}], "prompt": "Een foto van een roze handtas en een zwarte schaar"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "brown"}, {"class": "hair drier", "count": 1, "color": "pink"}], "prompt": "Een foto van een bruine auto en een roze haardroger"}
+{"tag": "color_attr", "include": [{"class": "bus", "count": 1, "color": "black"}, {"class": "cell phone", "count": 1, "color": "brown"}], "prompt": "Een foto van een zwarte bus en een bruine mobiele telefoon"}
+{"tag": "color_attr", "include": [{"class": "sheep", "count": 1, "color": "purple"}, {"class": "banana", "count": 1, "color": "pink"}], "prompt": "Een foto van een paars schaap en een roze banaan"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "blue"}, {"class": "cell phone", "count": 1, "color": "white"}], "prompt": "Een foto van een blauwe handtas en een witte mobiele telefoon"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "white"}, {"class": "umbrella", "count": 1, "color": "green"}], "prompt": "Een foto van een witte pizza en een groene paraplu"}
+{"tag": "color_attr", "include": [{"class": "tie", "count": 1, "color": "white"}, {"class": "skateboard", "count": 1, "color": "purple"}], "prompt": "Een foto van een witte stropdas en een paars skateboard"}
+{"tag": "color_attr", "include": [{"class": "sports ball", "count": 1, "color": "yellow"}, {"class": "boat", "count": 1, "color": "green"}], "prompt": "Een foto van een gele sportbal en een groene boot"}
+{"tag": "color_attr", "include": [{"class": "wine glass", "count": 1, "color": "white"}, {"class": "giraffe", "count": 1, "color": "brown"}], "prompt": "Een foto van een wit wijnglas en een bruine giraf"}
+{"tag": "color_attr", "include": [{"class": "bowl", "count": 1, "color": "yellow"}, {"class": "baseball glove", "count": 1, "color": "white"}], "prompt": "Een foto van een gele kom en een witte honkbalhandschoen"}
+{"tag": "color_attr", "include": [{"class": "microwave", "count": 1, "color": "orange"}, {"class": "spoon", "count": 1, "color": "black"}], "prompt": "Een foto van een oranje magnetron en een zwarte lepel"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "orange"}, {"class": "bowl", "count": 1, "color": "pink"}], "prompt": "Een foto van een oranje skateboard en een roze kom"}
+{"tag": "color_attr", "include": [{"class": "toilet", "count": 1, "color": "blue"}, {"class": "suitcase", "count": 1, "color": "white"}], "prompt": "Een foto van een blauw toilet en een witte koffer"}
+{"tag": "color_attr", "include": [{"class": "boat", "count": 1, "color": "white"}, {"class": "hot dog", "count": 1, "color": "orange"}], "prompt": "Een foto van een witte boot en een oranje hotdog"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "yellow"}, {"class": "dog", "count": 1, "color": "pink"}], "prompt": "Een foto van een gele eettafel en een roze hond"}
+{"tag": "color_attr", "include": [{"class": "cake", "count": 1, "color": "red"}, {"class": "chair", "count": 1, "color": "purple"}], "prompt": "Een foto van een rode cake en een paarse stoel"}
+{"tag": "color_attr", "include": [{"class": "tie", "count": 1, "color": "blue"}, {"class": "dining table", "count": 1, "color": "pink"}], "prompt": "Een foto van een blauwe das en een roze eettafel"}
+{"tag": "color_attr", "include": [{"class": "cow", "count": 1, "color": "blue"}, {"class": "computer keyboard", "count": 1, "color": "black"}], "prompt": "Een foto van een blauwe koe en een zwarte computertoetsenbord"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "yellow"}, {"class": "oven", "count": 1, "color": "green"}], "prompt": "Een foto van een gele pizza en een groene oven"}
+{"tag": "color_attr", "include": [{"class": "laptop", "count": 1, "color": "red"}, {"class": "car", "count": 1, "color": "brown"}], "prompt": "Een foto van een rode laptop en een bruine auto"}
+{"tag": "color_attr", "include": [{"class": "computer keyboard", "count": 1, "color": "purple"}, {"class": "scissors", "count": 1, "color": "blue"}], "prompt": "Een foto van een paars computertoetsenbord en een blauwe schaar"}
+{"tag": "color_attr", "include": [{"class": "surfboard", "count": 1, "color": "green"}, {"class": "oven", "count": 1, "color": "orange"}], "prompt": "Een foto van een groene surfplank en een oranje oven"}
+{"tag": "color_attr", "include": [{"class": "parking meter", "count": 1, "color": "yellow"}, {"class": "refrigerator", "count": 1, "color": "pink"}], "prompt": "Een foto van een gele parkeermeter en een roze koelkast"}
+{"tag": "color_attr", "include": [{"class": "computer mouse", "count": 1, "color": "brown"}, {"class": "bottle", "count": 1, "color": "purple"}], "prompt": "Een foto van een bruine computermuis en een paarse fles"}
+{"tag": "color_attr", "include": [{"class": "umbrella", "count": 1, "color": "red"}, {"class": "cow", "count": 1, "color": "green"}], "prompt": "Een foto van een rode paraplu en een groene koe"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "red"}, {"class": "cell phone", "count": 1, "color": "black"}], "prompt": "Een foto van een rode giraf en een zwarte mobiele telefoon"}
+{"tag": "color_attr", "include": [{"class": "oven", "count": 1, "color": "brown"}, {"class": "train", "count": 1, "color": "purple"}], "prompt": "Een foto van een bruine oven en een paarse trein"}
+{"tag": "color_attr", "include": [{"class": "baseball bat", "count": 1, "color": "blue"}, {"class": "book", "count": 1, "color": "pink"}], "prompt": "Een foto van een blauwe honkbalknuppel en een roze boek"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "green"}, {"class": "bowl", "count": 1, "color": "yellow"}], "prompt": "Een foto van een groene beker en een gele kom"}
+{"tag": "color_attr", "include": [{"class": "suitcase", "count": 1, "color": "yellow"}, {"class": "bus", "count": 1, "color": "brown"}], "prompt": "Een foto van een gele koffer en een bruine bus"}
+{"tag": "color_attr", "include": [{"class": "motorcycle", "count": 1, "color": "orange"}, {"class": "donut", "count": 1, "color": "pink"}], "prompt": "Een foto van een oranje motorfiets en een roze donut"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "orange"}, {"class": "baseball glove", "count": 1, "color": "white"}], "prompt": "Een foto van een oranje giraf en een witte honkbalhandschoen"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "orange"}, {"class": "carrot", "count": 1, "color": "green"}], "prompt": "Een foto van een oranje handtas en een groene wortel"}
+{"tag": "color_attr", "include": [{"class": "bottle", "count": 1, "color": "black"}, {"class": "refrigerator", "count": 1, "color": "white"}], "prompt": "Een foto van een zwarte fles en een witte koelkast"}
+{"tag": "color_attr", "include": [{"class": "dog", "count": 1, "color": "white"}, {"class": "potted plant", "count": 1, "color": "blue"}], "prompt": "Een foto van een witte hond en een blauwe potplant"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "orange"}, {"class": "car", "count": 1, "color": "red"}], "prompt": "Een foto van een oranje handtas en een rode auto"}
+{"tag": "color_attr", "include": [{"class": "stop sign", "count": 1, "color": "red"}, {"class": "book", "count": 1, "color": "blue"}], "prompt": "Een foto van een rood stopbord en een blauw boek"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "yellow"}, {"class": "toothbrush", "count": 1, "color": "orange"}], "prompt": "Een foto van een gele auto en een oranje tandenborstel"}
+{"tag": "color_attr", "include": [{"class": "potted plant", "count": 1, "color": "black"}, {"class": "toilet", "count": 1, "color": "yellow"}], "prompt": "Een foto van een zwarte potplant en een geel toilet"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "brown"}, {"class": "suitcase", "count": 1, "color": "white"}], "prompt": "Een foto van een bruine eettafel en een witte koffer"}
+{"tag": "color_attr", "include": [{"class": "donut", "count": 1, "color": "orange"}, {"class": "stop sign", "count": 1, "color": "yellow"}], "prompt": "Een foto van een oranje donut en een geel stopbord"}
+{"tag": "color_attr", "include": [{"class": "suitcase", "count": 1, "color": "green"}, {"class": "boat", "count": 1, "color": "blue"}], "prompt": "Een foto van een groene koffer en een blauwe boot"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "orange"}, {"class": "sports ball", "count": 1, "color": "yellow"}], "prompt": "Een foto van een oranje tennisracket en een gele sportbal"}
+{"tag": "color_attr", "include": [{"class": "computer keyboard", "count": 1, "color": "purple"}, {"class": "chair", "count": 1, "color": "red"}], "prompt": "Een foto van een paars computertoetsenbord en een rode stoel"}
+{"tag": "color_attr", "include": [{"class": "suitcase", "count": 1, "color": "purple"}, {"class": "pizza", "count": 1, "color": "orange"}], "prompt": "Een foto van een paarse koffer en een oranje pizza"}
+{"tag": "color_attr", "include": [{"class": "bottle", "count": 1, "color": "white"}, {"class": "sheep", "count": 1, "color": "blue"}], "prompt": "Een foto van een witte fles en een blauw schaap"}
+{"tag": "color_attr", "include": [{"class": "backpack", "count": 1, "color": "purple"}, {"class": "umbrella", "count": 1, "color": "white"}], "prompt": "Een foto van een paarse rugzak en een witte paraplu"}
+{"tag": "color_attr", "include": [{"class": "potted plant", "count": 1, "color": "orange"}, {"class": "spoon", "count": 1, "color": "black"}], "prompt": "Een foto van een oranje potplant en een zwarte lepel"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "green"}, {"class": "dog", "count": 1, "color": "black"}], "prompt": "Een foto van een groen tennisracket en een zwarte hond"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "yellow"}, {"class": "refrigerator", "count": 1, "color": "blue"}], "prompt": "Een foto van een gele handtas en een blauwe koelkast"}
+{"tag": "color_attr", "include": [{"class": "broccoli", "count": 1, "color": "pink"}, {"class": "sink", "count": 1, "color": "red"}], "prompt": "Een foto van een roze broccoli en een rode gootsteen"}
+{"tag": "color_attr", "include": [{"class": "bowl", "count": 1, "color": "red"}, {"class": "sink", "count": 1, "color": "pink"}], "prompt": "Een foto van een rode kom en een roze gootsteen"}
+{"tag": "color_attr", "include": [{"class": "toilet", "count": 1, "color": "white"}, {"class": "apple", "count": 1, "color": "red"}], "prompt": "Een foto van een wit toilet en een rode appel"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "pink"}, {"class": "sandwich", "count": 1, "color": "black"}], "prompt": "Een foto van een roze eettafel en een zwarte sandwich"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "black"}, {"class": "parking meter", "count": 1, "color": "green"}], "prompt": "Een foto van een zwarte auto en een groene parkeermeter"}
+{"tag": "color_attr", "include": [{"class": "bird", "count": 1, "color": "yellow"}, {"class": "motorcycle", "count": 1, "color": "black"}], "prompt": "Een foto van een gele vogel en een zwarte motorfiets"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "brown"}, {"class": "stop sign", "count": 1, "color": "white"}], "prompt": "Een foto van een bruine giraf en een wit stopbord"}
+{"tag": "color_attr", "include": [{"class": "banana", "count": 1, "color": "white"}, {"class": "elephant", "count": 1, "color": "black"}], "prompt": "Een foto van een witte banaan en een zwarte olifant"}
+{"tag": "color_attr", "include": [{"class": "cow", "count": 1, "color": "orange"}, {"class": "sandwich", "count": 1, "color": "purple"}], "prompt": "Een foto van een oranje koe en een paarse sandwich"}
+{"tag": "color_attr", "include": [{"class": "clock", "count": 1, "color": "red"}, {"class": "cell phone", "count": 1, "color": "black"}], "prompt": "Een foto van een rode klok en een zwarte mobiele telefoon"}
+{"tag": "color_attr", "include": [{"class": "knife", "count": 1, "color": "brown"}, {"class": "donut", "count": 1, "color": "blue"}], "prompt": "Een foto van een bruin mes en een blauwe donut"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "red"}, {"class": "handbag", "count": 1, "color": "pink"}], "prompt": "Een foto van een rode beker en een roze handtas"}
+{"tag": "color_attr", "include": [{"class": "bicycle", "count": 1, "color": "yellow"}, {"class": "motorcycle", "count": 1, "color": "red"}], "prompt": "Een foto van een gele fiets en een rode motorfiets"}
+{"tag": "color_attr", "include": [{"class": "orange", "count": 1, "color": "red"}, {"class": "broccoli", "count": 1, "color": "purple"}], "prompt": "Een foto van een rode sinaasappel en een paarse broccoli"}
+{"tag": "color_attr", "include": [{"class": "traffic light", "count": 1, "color": "orange"}, {"class": "toilet", "count": 1, "color": "white"}], "prompt": "Een foto van een oranje verkeerslicht en een wit toilet"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "green"}, {"class": "pizza", "count": 1, "color": "red"}], "prompt": "Een foto van een groene beker en een rode pizza"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "blue"}, {"class": "baseball glove", "count": 1, "color": "yellow"}], "prompt": "Een foto van een blauwe pizza en een gele honkbalhandschoen"}

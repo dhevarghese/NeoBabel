@@ -1,0 +1,6 @@
+experiment:
+    project: "neobabel-evals"
+    name: "Janus-dpg"
+    metadata_file: "dpg_prompts/english-prompts"
+    output_dir: "dpg/Janus-Pro_7B_dpg_english" 
+    seed: 10086

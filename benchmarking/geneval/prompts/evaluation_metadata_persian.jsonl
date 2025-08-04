@@ -1,0 +1,553 @@
+{"tag": "single_object", "include": [{"class": "bench", "count": 1}], "prompt": "یک عکس از یک نیمکت"}
+{"tag": "single_object", "include": [{"class": "cow", "count": 1}], "prompt": "یک عکس از یک گاو"}
+{"tag": "single_object", "include": [{"class": "bicycle", "count": 1}], "prompt": "یک عکس از یک دوچرخه"}
+{"tag": "single_object", "include": [{"class": "clock", "count": 1}], "prompt": "یک عکس از یک ساعت"}
+{"tag": "single_object", "include": [{"class": "carrot", "count": 1}], "prompt": "یک عکس از یک هویج"}
+{"tag": "single_object", "include": [{"class": "suitcase", "count": 1}], "prompt": "یک عکس از یک چمدان"}
+{"tag": "single_object", "include": [{"class": "fork", "count": 1}], "prompt": "یک عکس از یک چنگال"}
+{"tag": "single_object", "include": [{"class": "surfboard", "count": 1}], "prompt": "یک عکس از یک تخته موج‌سواری"}
+{"tag": "single_object", "include": [{"class": "refrigerator", "count": 1}], "prompt": "یک عکس از یک یخچال"}
+{"tag": "single_object", "include": [{"class": "cup", "count": 1}], "prompt": "یک عکس از یک فنجان"}
+{"tag": "single_object", "include": [{"class": "microwave", "count": 1}], "prompt": "یک عکس از یک مایکروویو"}
+{"tag": "single_object", "include": [{"class": "potted plant", "count": 1}], "prompt": "یک عکس از یک گیاه گلدانی"}
+{"tag": "single_object", "include": [{"class": "snowboard", "count": 1}], "prompt": "یک عکس از یک تخته اسنوبرد"}
+{"tag": "single_object", "include": [{"class": "zebra", "count": 1}], "prompt": "یک عکس از یک گورخر"}
+{"tag": "single_object", "include": [{"class": "parking meter", "count": 1}], "prompt": "یک عکس از یک پارکومتر"}
+{"tag": "single_object", "include": [{"class": "spoon", "count": 1}], "prompt": "یک عکس از یک قاشق"}
+{"tag": "single_object", "include": [{"class": "skateboard", "count": 1}], "prompt": "یک عکس از یک اسکیت‌برد"}
+{"tag": "single_object", "include": [{"class": "car", "count": 1}], "prompt": "یک عکس از یک ماشین"}
+{"tag": "single_object", "include": [{"class": "motorcycle", "count": 1}], "prompt": "یک عکس از یک موتورسیکلت"}
+{"tag": "single_object", "include": [{"class": "traffic light", "count": 1}], "prompt": "یک عکس از یک چراغ راهنمایی"}
+{"tag": "single_object", "include": [{"class": "book", "count": 1}], "prompt": "یک عکس از یک کتاب"}
+{"tag": "single_object", "include": [{"class": "couch", "count": 1}], "prompt": "یک عکس از یک کاناپه"}
+{"tag": "single_object", "include": [{"class": "backpack", "count": 1}], "prompt": "یک عکس از یک کوله‌پشتی"}
+{"tag": "single_object", "include": [{"class": "computer keyboard", "count": 1}], "prompt": "یک عکس از یک کیبورد کامپیوتر"}
+{"tag": "single_object", "include": [{"class": "toaster", "count": 1}], "prompt": "یک عکس از یک تُستِر"}
+{"tag": "single_object", "include": [{"class": "bird", "count": 1}], "prompt": "یک عکس از یک پرنده"}
+{"tag": "single_object", "include": [{"class": "bowl", "count": 1}], "prompt": "یک عکس از یک کاسه"}
+{"tag": "single_object", "include": [{"class": "dog", "count": 1}], "prompt": "یک عکس از یک سگ"}
+{"tag": "single_object", "include": [{"class": "tie", "count": 1}], "prompt": "یک عکس از یک کراوات"}
+{"tag": "single_object", "include": [{"class": "laptop", "count": 1}], "prompt": "یک عکس از یک لپ‌تاپ"}
+{"tag": "single_object", "include": [{"class": "computer mouse", "count": 1}], "prompt": "یک عکس از یک موس کامپیوتر"}
+{"tag": "single_object", "include": [{"class": "sandwich", "count": 1}], "prompt": "یک عکس از یک ساندویچ"}
+{"tag": "single_object", "include": [{"class": "baseball bat", "count": 1}], "prompt": "یک عکس از یک چوب بیسبال"}
+{"tag": "single_object", "include": [{"class": "train", "count": 1}], "prompt": "یک عکس از یک قطار"}
+{"tag": "single_object", "include": [{"class": "cell phone", "count": 1}], "prompt": "یک عکس از یک تلفن همراه"}
+{"tag": "single_object", "include": [{"class": "chair", "count": 1}], "prompt": "یک عکس از یک صندلی"}
+{"tag": "single_object", "include": [{"class": "tv", "count": 1}], "prompt": "یک عکس از یک تلویزیون"}
+{"tag": "single_object", "include": [{"class": "broccoli", "count": 1}], "prompt": "یک عکس از یک بروکلی"}
+{"tag": "single_object", "include": [{"class": "bed", "count": 1}], "prompt": "یک عکس از یک تخت‌خواب"}
+{"tag": "single_object", "include": [{"class": "skis", "count": 1}], "prompt": "یک عکس از یک جفت چوب اسکی"}
+{"tag": "single_object", "include": [{"class": "handbag", "count": 1}], "prompt": "یک عکس از یک کیف دستی"}
+{"tag": "single_object", "include": [{"class": "pizza", "count": 1}], "prompt": "یک عکس از یک پیتزا"}
+{"tag": "single_object", "include": [{"class": "frisbee", "count": 1}], "prompt": "یک عکس از یک فریزبی"}
+{"tag": "single_object", "include": [{"class": "scissors", "count": 1}], "prompt": "یک عکس از یک قیچی"}
+{"tag": "single_object", "include": [{"class": "bottle", "count": 1}], "prompt": "یک عکس از یک بطری"}
+{"tag": "single_object", "include": [{"class": "elephant", "count": 1}], "prompt": "یک عکس از یک فیل"}
+{"tag": "single_object", "include": [{"class": "toilet", "count": 1}], "prompt": "یک عکس از یک توالت"}
+{"tag": "single_object", "include": [{"class": "oven", "count": 1}], "prompt": "یک عکس از یک فر"}
+{"tag": "single_object", "include": [{"class": "orange", "count": 1}], "prompt": "یک عکس از یک پرتقال"}
+{"tag": "single_object", "include": [{"class": "person", "count": 1}], "prompt": "یک عکس از یک شخص"}
+{"tag": "single_object", "include": [{"class": "teddy bear", "count": 1}], "prompt": "یک عکس از یک خرس عروسکی"}
+{"tag": "single_object", "include": [{"class": "vase", "count": 1}], "prompt": "یک عکس از یک گلدان"}
+{"tag": "single_object", "include": [{"class": "banana", "count": 1}], "prompt": "یک عکس از یک موز"}
+{"tag": "single_object", "include": [{"class": "toothbrush", "count": 1}], "prompt": "یک عکس از یک مسواک"}
+{"tag": "single_object", "include": [{"class": "tv remote", "count": 1}], "prompt": "یک عکس از یک کنترل تلویزیون"}
+{"tag": "single_object", "include": [{"class": "dining table", "count": 1}], "prompt": "یک عکس از یک میز غذاخوری"}
+{"tag": "single_object", "include": [{"class": "stop sign", "count": 1}], "prompt": "یک عکس از یک علامت ایست"}
+{"tag": "single_object", "include": [{"class": "sheep", "count": 1}], "prompt": "یک عکس از یک گوسفند"}
+{"tag": "single_object", "include": [{"class": "fire hydrant", "count": 1}], "prompt": "یک عکس از یک شیر آتش‌نشانی"}
+{"tag": "single_object", "include": [{"class": "airplane", "count": 1}], "prompt": "یک عکس از یک هواپیما"}
+{"tag": "single_object", "include": [{"class": "giraffe", "count": 1}], "prompt": "یک عکس از یک زرافه"}
+{"tag": "single_object", "include": [{"class": "horse", "count": 1}], "prompt": "یک عکس از یک اسب"}
+{"tag": "single_object", "include": [{"class": "cat", "count": 1}], "prompt": "یک عکس از یک گربه"}
+{"tag": "single_object", "include": [{"class": "donut", "count": 1}], "prompt": "یک عکس از یک دونات"}
+{"tag": "single_object", "include": [{"class": "boat", "count": 1}], "prompt": "یک عکس از یک قایق"}
+{"tag": "single_object", "include": [{"class": "baseball glove", "count": 1}], "prompt": "یک عکس از یک دستکش بیسبال"}
+{"tag": "single_object", "include": [{"class": "hair drier", "count": 1}], "prompt": "یک عکس از یک سشوار"}
+{"tag": "single_object", "include": [{"class": "sink", "count": 1}], "prompt": "یک عکس از یک سینک"}
+{"tag": "single_object", "include": [{"class": "cake", "count": 1}], "prompt": "یک عکس از یک کیک"}
+{"tag": "single_object", "include": [{"class": "wine glass", "count": 1}], "prompt": "یک عکس از یک جام شراب"}
+{"tag": "single_object", "include": [{"class": "apple", "count": 1}], "prompt": "یک عکس از یک سیب"}
+{"tag": "single_object", "include": [{"class": "bus", "count": 1}], "prompt": "یک عکس از یک اتوبوس"}
+{"tag": "single_object", "include": [{"class": "tennis racket", "count": 1}], "prompt": "یک عکس از یک راکت تنیس"}
+{"tag": "single_object", "include": [{"class": "knife", "count": 1}], "prompt": "یک عکس از یک چاقو"}
+{"tag": "single_object", "include": [{"class": "hot dog", "count": 1}], "prompt": "یک عکس از یک هات‌داگ"}
+{"tag": "single_object", "include": [{"class": "truck", "count": 1}], "prompt": "یک عکس از یک کامیون"}
+{"tag": "single_object", "include": [{"class": "umbrella", "count": 1}], "prompt": "یک عکس از یک چتر"}
+{"tag": "single_object", "include": [{"class": "sports ball", "count": 1}], "prompt": "یک عکس از یک توپ ورزشی"}
+{"tag": "single_object", "include": [{"class": "bear", "count": 1}], "prompt": "یک عکس از یک خرس"}
+{"tag": "single_object", "include": [{"class": "kite", "count": 1}], "prompt": "یک عکس از یک بادبادک"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "sports ball", "count": 1}], "prompt": "یک عکس از یک نیمکت و یک توپ ورزشی"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "یک عکس از یک مسواک و یک تخته اسنوبرد"}
+{"tag": "two_object", "include": [{"class": "toaster", "count": 1}, {"class": "oven", "count": 1}], "prompt": "یک عکس از یک تُستِر و یک فر"}
+{"tag": "two_object", "include": [{"class": "broccoli", "count": 1}, {"class": "vase", "count": 1}], "prompt": "یک عکس از یک بروکلی و یک گلدان"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "wine glass", "count": 1}], "prompt": "یک عکس از یک راکت تنیس و یک جام شراب"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "knife", "count": 1}], "prompt": "یک عکس از یک چنگال و یک چاقو"}
+{"tag": "two_object", "include": [{"class": "hair drier", "count": 1}, {"class": "cake", "count": 1}], "prompt": "یک عکس از یک سشوار و یک کیک"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "giraffe", "count": 1}], "prompt": "یک عکس از یک اسب و یک زرافه"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "computer keyboard", "count": 1}], "prompt": "یک عکس از یک اسب و یک کیبورد کامپیوتر"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "یک عکس از یک مسواک و یک هویج"}
+{"tag": "two_object", "include": [{"class": "cake", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "یک عکس از یک کیک و یک گورخر"}
+{"tag": "two_object", "include": [{"class": "hair drier", "count": 1}, {"class": "bear", "count": 1}], "prompt": "یک عکس از یک سشوار و یک خرس"}
+{"tag": "two_object", "include": [{"class": "knife", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "یک عکس از یک چاقو و یک گورخر"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "wine glass", "count": 1}], "prompt": "یک عکس از یک کاناپه و یک جام شراب"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "vase", "count": 1}], "prompt": "یک عکس از یک فریزبی و یک گلدان"}
+{"tag": "two_object", "include": [{"class": "book", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "یک عکس از یک کتاب و یک لپ‌تاپ"}
+{"tag": "two_object", "include": [{"class": "dining table", "count": 1}, {"class": "bear", "count": 1}], "prompt": "یک عکس از یک میز غذاخوری و یک خرس"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "couch", "count": 1}], "prompt": "یک عکس از یک فریزبی و یک کاناپه"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "horse", "count": 1}], "prompt": "یک عکس از یک کاناپه و یک اسب"}
+{"tag": "two_object", "include": [{"class": "toilet", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "یک عکس از یک توالت و یک موس کامپیوتر"}
+{"tag": "two_object", "include": [{"class": "bottle", "count": 1}, {"class": "refrigerator", "count": 1}], "prompt": "یک عکس از یک بطری و یک یخچال"}
+{"tag": "two_object", "include": [{"class": "potted plant", "count": 1}, {"class": "backpack", "count": 1}], "prompt": "یک عکس از یک گیاه گلدانی و یک کوله‌پشتی"}
+{"tag": "two_object", "include": [{"class": "skateboard", "count": 1}, {"class": "cake", "count": 1}], "prompt": "یک عکس از یک اسکیت‌برد و یک کیک"}
+{"tag": "two_object", "include": [{"class": "broccoli", "count": 1}, {"class": "parking meter", "count": 1}], "prompt": "یک عکس از یک بروکلی و یک پارکومتر"}
+{"tag": "two_object", "include": [{"class": "zebra", "count": 1}, {"class": "bed", "count": 1}], "prompt": "یک عکس از یک گورخر و یک تخت‌خواب"}
+{"tag": "two_object", "include": [{"class": "oven", "count": 1}, {"class": "bed", "count": 1}], "prompt": "یک عکس از یک فر و یک تخت‌خواب"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "fork", "count": 1}], "prompt": "یک عکس از یک چوب بیسبال و یک چنگال"}
+{"tag": "two_object", "include": [{"class": "vase", "count": 1}, {"class": "spoon", "count": 1}], "prompt": "یک عکس از یک گلدان و یک قاشق"}
+{"tag": "two_object", "include": [{"class": "skateboard", "count": 1}, {"class": "sink", "count": 1}], "prompt": "یک عکس از یک اسکیت‌برد و یک سینک"}
+{"tag": "two_object", "include": [{"class": "pizza", "count": 1}, {"class": "bench", "count": 1}], "prompt": "یک عکس از یک پیتزا و یک نیمکت"}
+{"tag": "two_object", "include": [{"class": "bowl", "count": 1}, {"class": "pizza", "count": 1}], "prompt": "یک عکس از یک کاسه و یک پیتزا"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "bird", "count": 1}], "prompt": "یک عکس از یک راکت تنیس و یک پرنده"}
+{"tag": "two_object", "include": [{"class": "wine glass", "count": 1}, {"class": "bear", "count": 1}], "prompt": "یک عکس از یک جام شراب و یک خرس"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "book", "count": 1}], "prompt": "یک عکس از یک چنگال و یک کتاب"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "bowl", "count": 1}], "prompt": "یک عکس از یک قیچی و یک کاسه"}
+{"tag": "two_object", "include": [{"class": "laptop", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "یک عکس از یک لپ‌تاپ و یک هویج"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "bottle", "count": 1}], "prompt": "یک عکس از یک علامت ایست و یک بطری"}
+{"tag": "two_object", "include": [{"class": "microwave", "count": 1}, {"class": "truck", "count": 1}], "prompt": "یک عکس از یک مایکروویو و یک کامیون"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "bear", "count": 1}], "prompt": "یک عکس از یک شخص و یک خرس"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "یک عکس از یک فریزبی و یک تلفن همراه"}
+{"tag": "two_object", "include": [{"class": "parking meter", "count": 1}, {"class": "teddy bear", "count": 1}], "prompt": "یک عکس از یک پارکومتر و یک خرس عروسکی"}
+{"tag": "two_object", "include": [{"class": "tennis racket", "count": 1}, {"class": "bicycle", "count": 1}], "prompt": "یک عکس از یک راکت تنیس و یک دوچرخه"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "motorcycle", "count": 1}], "prompt": "یک عکس از یک علامت ایست و یک موتورسیکلت"}
+{"tag": "two_object", "include": [{"class": "fire hydrant", "count": 1}, {"class": "tennis racket", "count": 1}], "prompt": "یک عکس از یک شیر آتش‌نشانی و یک راکت تنیس"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "sandwich", "count": 1}], "prompt": "یک عکس از یک قیچی و یک ساندویچ"}
+{"tag": "two_object", "include": [{"class": "pizza", "count": 1}, {"class": "book", "count": 1}], "prompt": "یک عکس از یک پیتزا و یک کتاب"}
+{"tag": "two_object", "include": [{"class": "giraffe", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "یک عکس از یک زرافه و یک موس کامپیوتر"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "toaster", "count": 1}], "prompt": "یک عکس از یک علامت ایست و یک تُستِر"}
+{"tag": "two_object", "include": [{"class": "computer mouse", "count": 1}, {"class": "zebra", "count": 1}], "prompt": "یک عکس از یک موس کامپیوتر و یک گورخر"}
+{"tag": "two_object", "include": [{"class": "chair", "count": 1}, {"class": "bench", "count": 1}], "prompt": "یک عکس از یک صندلی و یک نیمکت"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "یک عکس از یک تلویزیون و یک هویج"}
+{"tag": "two_object", "include": [{"class": "surfboard", "count": 1}, {"class": "suitcase", "count": 1}], "prompt": "یک عکس از یک تخته موج‌سواری و یک چمدان"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "یک عکس از یک کیبورد کامپیوتر و یک لپ‌تاپ"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "microwave", "count": 1}], "prompt": "یک عکس از یک کیبورد کامپیوتر و یک مایکروویو"}
+{"tag": "two_object", "include": [{"class": "scissors", "count": 1}, {"class": "bird", "count": 1}], "prompt": "یک عکس از یک قیچی و یک پرنده"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "یک عکس از یک شخص و یک تخته اسنوبرد"}
+{"tag": "two_object", "include": [{"class": "cow", "count": 1}, {"class": "horse", "count": 1}], "prompt": "یک عکس از یک گاو و یک اسب"}
+{"tag": "two_object", "include": [{"class": "handbag", "count": 1}, {"class": "refrigerator", "count": 1}], "prompt": "یک عکس از یک کیف دستی و یک یخچال"}
+{"tag": "two_object", "include": [{"class": "chair", "count": 1}, {"class": "laptop", "count": 1}], "prompt": "یک عکس از یک صندلی و یک لپ‌تاپ"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "bench", "count": 1}], "prompt": "یک عکس از یک مسواک و یک نیمکت"}
+{"tag": "two_object", "include": [{"class": "book", "count": 1}, {"class": "baseball bat", "count": 1}], "prompt": "یک عکس از یک کتاب و یک چوب بیسبال"}
+{"tag": "two_object", "include": [{"class": "horse", "count": 1}, {"class": "train", "count": 1}], "prompt": "یک عکس از یک اسب و یک قطار"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "یک عکس از یک نیمکت و یک تخته اسنوبرد"}
+{"tag": "two_object", "include": [{"class": "traffic light", "count": 1}, {"class": "backpack", "count": 1}], "prompt": "یک عکس از یک چراغ راهنمایی و یک کوله‌پشتی"}
+{"tag": "two_object", "include": [{"class": "sports ball", "count": 1}, {"class": "cow", "count": 1}], "prompt": "یک عکس از یک توپ ورزشی و یک گاو"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "bicycle", "count": 1}], "prompt": "یک عکس از یک تلویزیون و یک دوچرخه"}
+{"tag": "two_object", "include": [{"class": "bench", "count": 1}, {"class": "vase", "count": 1}], "prompt": "یک عکس از یک نیمکت و یک گلدان"}
+{"tag": "two_object", "include": [{"class": "traffic light", "count": 1}, {"class": "backpack", "count": 1}], "prompt": "یک عکس از یک چراغ راهنمایی و یک کوله‌پشتی"}
+{"tag": "two_object", "include": [{"class": "toothbrush", "count": 1}, {"class": "toilet", "count": 1}], "prompt": "یک عکس از یک مسواک و یک توالت"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "apple", "count": 1}], "prompt": "یک عکس از یک شخص و یک سیب"}
+{"tag": "two_object", "include": [{"class": "sink", "count": 1}, {"class": "sports ball", "count": 1}], "prompt": "یک عکس از یک سینک و یک توپ ورزشی"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "dog", "count": 1}], "prompt": "یک عکس از یک علامت ایست و یک سگ"}
+{"tag": "two_object", "include": [{"class": "knife", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "یک عکس از یک چاقو و یک علامت ایست"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "bicycle", "count": 1}], "prompt": "یک عکس از یک تلویزیون و یک دوچرخه"}
+{"tag": "two_object", "include": [{"class": "wine glass", "count": 1}, {"class": "bear", "count": 1}], "prompt": "یک عکس از یک جام شراب و یک خرس"}
+{"tag": "two_object", "include": [{"class": "bowl", "count": 1}, {"class": "skis", "count": 1}], "prompt": "یک عکس از یک کاسه و یک جفت چوب اسکی"}
+{"tag": "two_object", "include": [{"class": "frisbee", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "یک عکس از یک فریزبی و یک تلفن همراه"}
+{"tag": "two_object", "include": [{"class": "computer keyboard", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "یک عکس از یک کیبورد کامپیوتر و یک تلفن همراه"}
+{"tag": "two_object", "include": [{"class": "stop sign", "count": 1}, {"class": "fork", "count": 1}], "prompt": "یک عکس از یک علامت ایست و یک چنگال"}
+{"tag": "two_object", "include": [{"class": "tv", "count": 1}, {"class": "cell phone", "count": 1}], "prompt": "یک عکس از یک تلویزیون و یک تلفن همراه"}
+{"tag": "two_object", "include": [{"class": "tie", "count": 1}, {"class": "broccoli", "count": 1}], "prompt": "یک عکس از یک کراوات و یک بروکلی"}
+{"tag": "two_object", "include": [{"class": "potted plant", "count": 1}, {"class": "donut", "count": 1}], "prompt": "یک عکس از یک گیاه گلدانی و یک دونات"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "sink", "count": 1}], "prompt": "یک عکس از یک شخص و یک سینک"}
+{"tag": "two_object", "include": [{"class": "couch", "count": 1}, {"class": "snowboard", "count": 1}], "prompt": "یک عکس از یک کاناپه و یک تخته اسنوبرد"}
+{"tag": "two_object", "include": [{"class": "fork", "count": 1}, {"class": "baseball glove", "count": 1}], "prompt": "یک عکس از یک چنگال و یک دستکش بیسبال"}
+{"tag": "two_object", "include": [{"class": "apple", "count": 1}, {"class": "toothbrush", "count": 1}], "prompt": "یک عکس از یک سیب و یک مسواک"}
+{"tag": "two_object", "include": [{"class": "bus", "count": 1}, {"class": "baseball glove", "count": 1}], "prompt": "یک عکس از یک اتوبوس و یک دستکش بیسبال"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "یک عکس از یک شخص و یک علامت ایست"}
+{"tag": "two_object", "include": [{"class": "carrot", "count": 1}, {"class": "couch", "count": 1}], "prompt": "یک عکس از یک هویج و یک کاناپه"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "bear", "count": 1}], "prompt": "یک عکس از یک چوب بیسبال و یک خرس"}
+{"tag": "two_object", "include": [{"class": "fire hydrant", "count": 1}, {"class": "train", "count": 1}], "prompt": "یک عکس از یک شیر آتش‌نشانی و یک قطار"}
+{"tag": "two_object", "include": [{"class": "baseball glove", "count": 1}, {"class": "carrot", "count": 1}], "prompt": "یک عکس از یک دستکش بیسبال و یک هویج"}
+{"tag": "two_object", "include": [{"class": "microwave", "count": 1}, {"class": "bench", "count": 1}], "prompt": "یک عکس از یک مایکروویو و یک نیمکت"}
+{"tag": "two_object", "include": [{"class": "cake", "count": 1}, {"class": "stop sign", "count": 1}], "prompt": "یک عکس از یک کیک و یک علامت ایست"}
+{"tag": "two_object", "include": [{"class": "car", "count": 1}, {"class": "computer mouse", "count": 1}], "prompt": "یک عکس از یک ماشین و یک موس کامپیوتر"}
+{"tag": "two_object", "include": [{"class": "suitcase", "count": 1}, {"class": "dining table", "count": 1}], "prompt": "یک عکس از یک چمدان و یک میز غذاخوری"}
+{"tag": "two_object", "include": [{"class": "person", "count": 1}, {"class": "traffic light", "count": 1}], "prompt": "یک عکس از یک شخص و یک چراغ راهنمایی"}
+{"tag": "two_object", "include": [{"class": "cell phone", "count": 1}, {"class": "horse", "count": 1}], "prompt": "یک عکس از یک تلفن همراه و یک اسب"}
+{"tag": "two_object", "include": [{"class": "baseball bat", "count": 1}, {"class": "giraffe", "count": 1}], "prompt": "یک عکس از یک چوب بیسبال و یک زرافه"}
+{"tag": "counting", "include": [{"class": "clock", "count": 2}], "exclude": [{"class": "clock", "count": 3}], "prompt": "یک عکس از دو ساعت"}
+{"tag": "counting", "include": [{"class": "backpack", "count": 2}], "exclude": [{"class": "backpack", "count": 3}], "prompt": "یک عکس از دو کوله‌پشتی"}
+{"tag": "counting", "include": [{"class": "handbag", "count": 4}], "exclude": [{"class": "handbag", "count": 5}], "prompt": "یک عکس از چهار کیف دستی"}
+{"tag": "counting", "include": [{"class": "frisbee", "count": 2}], "exclude": [{"class": "frisbee", "count": 3}], "prompt": "یک عکس از دو فریزبی"}
+{"tag": "counting", "include": [{"class": "sports ball", "count": 3}], "exclude": [{"class": "sports ball", "count": 4}], "prompt": "یک عکس از سه توپ ورزشی"}
+{"tag": "counting", "include": [{"class": "bear", "count": 2}], "exclude": [{"class": "bear", "count": 3}], "prompt": "یک عکس از دو خرس"}
+{"tag": "counting", "include": [{"class": "tie", "count": 2}], "exclude": [{"class": "tie", "count": 3}], "prompt": "یک عکس از دو کراوات"}
+{"tag": "counting", "include": [{"class": "sink", "count": 4}], "exclude": [{"class": "sink", "count": 5}], "prompt": "یک عکس از چهار سینک"}
+{"tag": "counting", "include": [{"class": "toothbrush", "count": 2}], "exclude": [{"class": "toothbrush", "count": 3}], "prompt": "یک عکس از دو مسواک"}
+{"tag": "counting", "include": [{"class": "person", "count": 3}], "exclude": [{"class": "person", "count": 4}], "prompt": "یک عکس از سه شخص"}
+{"tag": "counting", "include": [{"class": "tennis racket", "count": 3}], "exclude": [{"class": "tennis racket", "count": 4}], "prompt": "یک عکس از سه راکت تنیس"}
+{"tag": "counting", "include": [{"class": "bowl", "count": 4}], "exclude": [{"class": "bowl", "count": 5}], "prompt": "یک عکس از چهار کاسه"}
+{"tag": "counting", "include": [{"class": "vase", "count": 4}], "exclude": [{"class": "vase", "count": 5}], "prompt": "یک عکس از چهار گلدان"}
+{"tag": "counting", "include": [{"class": "cup", "count": 3}], "exclude": [{"class": "cup", "count": 4}], "prompt": "یک عکس از سه فنجان"}
+{"tag": "counting", "include": [{"class": "computer keyboard", "count": 4}], "exclude": [{"class": "computer keyboard", "count": 5}], "prompt": "یک عکس از چهار کیبورد کامپیوتر"}
+{"tag": "counting", "include": [{"class": "sink", "count": 3}], "exclude": [{"class": "sink", "count": 4}], "prompt": "یک عکس از سه سینک"}
+{"tag": "counting", "include": [{"class": "oven", "count": 2}], "exclude": [{"class": "oven", "count": 3}], "prompt": "یک عکس از دو فر"}
+{"tag": "counting", "include": [{"class": "toilet", "count": 2}], "exclude": [{"class": "toilet", "count": 3}], "prompt": "یک عکس از دو توالت"}
+{"tag": "counting", "include": [{"class": "bicycle", "count": 2}], "exclude": [{"class": "bicycle", "count": 3}], "prompt": "یک عکس از دو دوچرخه"}
+{"tag": "counting", "include": [{"class": "train", "count": 2}], "exclude": [{"class": "train", "count": 3}], "prompt": "یک عکس از دو قطار"}
+{"tag": "counting", "include": [{"class": "orange", "count": 3}], "exclude": [{"class": "orange", "count": 4}], "prompt": "یک عکس از سه پرتقال"}
+{"tag": "counting", "include": [{"class": "bus", "count": 3}], "exclude": [{"class": "bus", "count": 4}], "prompt": "یک عکس از سه اتوبوس"}
+{"tag": "counting", "include": [{"class": "handbag", "count": 3}], "exclude": [{"class": "handbag", "count": 4}], "prompt": "یک عکس از سه کیف دستی"}
+{"tag": "counting", "include": [{"class": "snowboard", "count": 3}], "exclude": [{"class": "snowboard", "count": 4}], "prompt": "یک عکس از سه تخته اسنوبرد"}
+{"tag": "counting", "include": [{"class": "snowboard", "count": 2}], "exclude": [{"class": "snowboard", "count": 3}], "prompt": "یک عکس از دو تخته اسنوبرد"}
+{"tag": "counting", "include": [{"class": "dog", "count": 4}], "exclude": [{"class": "dog", "count": 5}], "prompt": "یک عکس از چهار سگ"}
+{"tag": "counting", "include": [{"class": "apple", "count": 3}], "exclude": [{"class": "apple", "count": 4}], "prompt": "یک عکس از سه سیب"}
+{"tag": "counting", "include": [{"class": "sheep", "count": 2}], "exclude": [{"class": "sheep", "count": 3}], "prompt": "یک عکس از دو گوسفند"}
+{"tag": "counting", "include": [{"class": "hot dog", "count": 3}], "exclude": [{"class": "hot dog", "count": 4}], "prompt": "یک عکس از سه هات‌داگ"}
+{"tag": "counting", "include": [{"class": "zebra", "count": 3}], "exclude": [{"class": "zebra", "count": 4}], "prompt": "یک عکس از سه گورخر"}
+{"tag": "counting", "include": [{"class": "kite", "count": 3}], "exclude": [{"class": "kite", "count": 4}], "prompt": "یک عکس از سه بادبادک"}
+{"tag": "counting", "include": [{"class": "apple", "count": 4}], "exclude": [{"class": "apple", "count": 5}], "prompt": "یک عکس از چهار سیب"}
+{"tag": "counting", "include": [{"class": "cell phone", "count": 3}], "exclude": [{"class": "cell phone", "count": 4}], "prompt": "یک عکس از سه تلفن همراه"}
+{"tag": "counting", "include": [{"class": "baseball glove", "count": 4}], "exclude": [{"class": "baseball glove", "count": 5}], "prompt": "یک عکس از چهار دستکش بیسبال"}
+{"tag": "counting", "include": [{"class": "computer keyboard", "count": 3}], "exclude": [{"class": "computer keyboard", "count": 4}], "prompt": "یک عکس از سه کیبورد کامپیوتر"}
+{"tag": "counting", "include": [{"class": "bed", "count": 2}], "exclude": [{"class": "bed", "count": 3}], "prompt": "یک عکس از دو تخت‌خواب"}
+{"tag": "counting", "include": [{"class": "tv remote", "count": 2}], "exclude": [{"class": "tv remote", "count": 3}], "prompt": "یک عکس از دو کنترل تلویزیون"}
+{"tag": "counting", "include": [{"class": "fire hydrant", "count": 3}], "exclude": [{"class": "fire hydrant", "count": 4}], "prompt": "یک عکس از سه شیر آتش‌نشانی"}
+{"tag": "counting", "include": [{"class": "book", "count": 3}], "exclude": [{"class": "book", "count": 4}], "prompt": "یک عکس از سه کتاب"}
+{"tag": "counting", "include": [{"class": "giraffe", "count": 4}], "exclude": [{"class": "giraffe", "count": 5}], "prompt": "یک عکس از چهار زرافه"}
+{"tag": "counting", "include": [{"class": "vase", "count": 2}], "exclude": [{"class": "vase", "count": 3}], "prompt": "یک عکس از دو گلدان"}
+{"tag": "counting", "include": [{"class": "donut", "count": 4}], "exclude": [{"class": "donut", "count": 5}], "prompt": "یک عکس از چهار دونات"}
+{"tag": "counting", "include": [{"class": "chair", "count": 4}], "exclude": [{"class": "chair", "count": 5}], "prompt": "یک عکس از چهار صندلی"}
+{"tag": "counting", "include": [{"class": "baseball bat", "count": 3}], "exclude": [{"class": "baseball bat", "count": 4}], "prompt": "یک عکس از سه چوب بیسبال"}
+{"tag": "counting", "include": [{"class": "stop sign", "count": 4}], "exclude": [{"class": "stop sign", "count": 5}], "prompt": "یک عکس از چهار علامت ایست"}
+{"tag": "counting", "include": [{"class": "pizza", "count": 2}], "exclude": [{"class": "pizza", "count": 3}], "prompt": "یک عکس از دو پیتزا"}
+{"tag": "counting", "include": [{"class": "refrigerator", "count": 3}], "exclude": [{"class": "refrigerator", "count": 4}], "prompt": "یک عکس از سه یخچال"}
+{"tag": "counting", "include": [{"class": "fire hydrant", "count": 2}], "exclude": [{"class": "fire hydrant", "count": 3}], "prompt": "یک عکس از دو شیر آتش‌نشانی"}
+{"tag": "counting", "include": [{"class": "giraffe", "count": 3}], "exclude": [{"class": "giraffe", "count": 4}], "prompt": "یک عکس از سه زرافه"}
+{"tag": "counting", "include": [{"class": "tv", "count": 4}], "exclude": [{"class": "tv", "count": 5}], "prompt": "یک عکس از چهار تلویزیون"}
+{"tag": "counting", "include": [{"class": "kite", "count": 3}], "exclude": [{"class": "kite", "count": 4}], "prompt": "یک عکس از سه بادبادک"}
+{"tag": "counting", "include": [{"class": "broccoli", "count": 4}], "exclude": [{"class": "broccoli", "count": 5}], "prompt": "یک عکس از چهار بروکلی"}
+{"tag": "counting", "include": [{"class": "truck", "count": 3}], "exclude": [{"class": "truck", "count": 4}], "prompt": "یک عکس از سه کامیون"}
+{"tag": "counting", "include": [{"class": "truck", "count": 2}], "exclude": [{"class": "truck", "count": 3}], "prompt": "یک عکس از دو کامیون"}
+{"tag": "counting", "include": [{"class": "carrot", "count": 2}], "exclude": [{"class": "carrot", "count": 3}], "prompt": "یک عکس از دو هویج"}
+{"tag": "counting", "include": [{"class": "sandwich", "count": 2}], "exclude": [{"class": "sandwich", "count": 3}], "prompt": "یک عکس از دو ساندویچ"}
+{"tag": "counting", "include": [{"class": "traffic light", "count": 4}], "exclude": [{"class": "traffic light", "count": 5}], "prompt": "یک عکس از چهار چراغ راهنمایی"}
+{"tag": "counting", "include": [{"class": "clock", "count": 4}], "exclude": [{"class": "clock", "count": 5}], "prompt": "یک عکس از چهار ساعت"}
+{"tag": "counting", "include": [{"class": "car", "count": 2}], "exclude": [{"class": "car", "count": 3}], "prompt": "یک عکس از دو ماشین"}
+{"tag": "counting", "include": [{"class": "banana", "count": 2}], "exclude": [{"class": "banana", "count": 3}], "prompt": "یک عکس از دو موز"}
+{"tag": "counting", "include": [{"class": "wine glass", "count": 2}], "exclude": [{"class": "wine glass", "count": 3}], "prompt": "یک عکس از دو جام شراب"}
+{"tag": "counting", "include": [{"class": "pizza", "count": 3}], "exclude": [{"class": "pizza", "count": 4}], "prompt": "یک عکس از سه پیتزا"}
+{"tag": "counting", "include": [{"class": "knife", "count": 4}], "exclude": [{"class": "knife", "count": 5}], "prompt": "یک عکس از چهار چاقو"}
+{"tag": "counting", "include": [{"class": "zebra", "count": 4}], "exclude": [{"class": "zebra", "count": 5}], "prompt": "یک عکس از چهار گورخر"}
+{"tag": "counting", "include": [{"class": "teddy bear", "count": 2}], "exclude": [{"class": "teddy bear", "count": 3}], "prompt": "یک عکس از دو خرس عروسکی"}
+{"tag": "counting", "include": [{"class": "skateboard", "count": 4}], "exclude": [{"class": "skateboard", "count": 5}], "prompt": "یک عکس از چهار اسکیت‌برد"}
+{"tag": "counting", "include": [{"class": "hot dog", "count": 4}], "exclude": [{"class": "hot dog", "count": 5}], "prompt": "یک عکس از چهار هات‌داگ"}
+{"tag": "counting", "include": [{"class": "hot dog", "count": 3}], "exclude": [{"class": "hot dog", "count": 4}], "prompt": "یک عکس از سه هات‌داگ"}
+{"tag": "counting", "include": [{"class": "boat", "count": 4}], "exclude": [{"class": "boat", "count": 5}], "prompt": "یک عکس از چهار قایق"}
+{"tag": "counting", "include": [{"class": "microwave", "count": 4}], "exclude": [{"class": "microwave", "count": 5}], "prompt": "یک عکس از چهار مایکروویو"}
+{"tag": "counting", "include": [{"class": "hair drier", "count": 2}], "exclude": [{"class": "hair drier", "count": 3}], "prompt": "یک عکس از دو سشوار"}
+{"tag": "counting", "include": [{"class": "laptop", "count": 3}], "exclude": [{"class": "laptop", "count": 4}], "prompt": "یک عکس از سه لپ‌تاپ"}
+{"tag": "counting", "include": [{"class": "giraffe", "count": 3}], "exclude": [{"class": "giraffe", "count": 4}], "prompt": "یک عکس از سه زرافه"}
+{"tag": "counting", "include": [{"class": "parking meter", "count": 2}], "exclude": [{"class": "parking meter", "count": 3}], "prompt": "یک عکس از دو پارکومتر"}
+{"tag": "counting", "include": [{"class": "bench", "count": 4}], "exclude": [{"class": "bench", "count": 5}], "prompt": "یک عکس از چهار نیمکت"}
+{"tag": "counting", "include": [{"class": "bench", "count": 2}], "exclude": [{"class": "bench", "count": 3}], "prompt": "یک عکس از دو نیمکت"}
+{"tag": "counting", "include": [{"class": "frisbee", "count": 4}], "exclude": [{"class": "frisbee", "count": 5}], "prompt": "یک عکس از چهار فریزبی"}
+{"tag": "counting", "include": [{"class": "book", "count": 3}], "exclude": [{"class": "book", "count": 4}], "prompt": "یک عکس از سه کتاب"}
+{"tag": "counting", "include": [{"class": "book", "count": 4}], "exclude": [{"class": "book", "count": 5}], "prompt": "یک عکس از چهار کتاب"}
+{"tag": "counting", "include": [{"class": "bus", "count": 4}], "exclude": [{"class": "bus", "count": 5}], "prompt": "یک عکس از چهار اتوبوس"}
+{"tag": "colors", "include": [{"class": "fire hydrant", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک شیر آتش‌نشانی آبی"}
+{"tag": "colors", "include": [{"class": "car", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک ماشین صورتی"}
+{"tag": "colors", "include": [{"class": "cup", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک فنجان بنفش"}
+{"tag": "colors", "include": [{"class": "cow", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک گاو آبی"}
+{"tag": "colors", "include": [{"class": "boat", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک قایق آبی"}
+{"tag": "colors", "include": [{"class": "suitcase", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک چمدان بنفش"}
+{"tag": "colors", "include": [{"class": "hair drier", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک سشوار بنفش"}
+{"tag": "colors", "include": [{"class": "elephant", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک فیل آبی"}
+{"tag": "colors", "include": [{"class": "elephant", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک فیل زرد"}
+{"tag": "colors", "include": [{"class": "microwave", "count": 1, "color": "green"}], "prompt": "یک عکس از یک مایکروویو سبز"}
+{"tag": "colors", "include": [{"class": "sandwich", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک ساندویچ زرد"}
+{"tag": "colors", "include": [{"class": "apple", "count": 1, "color": "red"}], "prompt": "یک عکس از یک سیب قرمز"}
+{"tag": "colors", "include": [{"class": "tv remote", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک کنترل تلویزیون زرد"}
+{"tag": "colors", "include": [{"class": "donut", "count": 1, "color": "black"}], "prompt": "یک عکس از یک دونات سیاه"}
+{"tag": "colors", "include": [{"class": "fire hydrant", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک شیر آتش‌نشانی آبی"}
+{"tag": "colors", "include": [{"class": "tv remote", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک کنترل تلویزیون زرد"}
+{"tag": "colors", "include": [{"class": "tv remote", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک کنترل تلویزیون بنفش"}
+{"tag": "colors", "include": [{"class": "clock", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک ساعت آبی"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک پرتقال نارنجی"}
+{"tag": "colors", "include": [{"class": "donut", "count": 1, "color": "black"}], "prompt": "یک عکس از یک دونات سیاه"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک گلدان بنفش"}
+{"tag": "colors", "include": [{"class": "pizza", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک پیتزای بنفش"}
+{"tag": "colors", "include": [{"class": "skateboard", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک اسکیت‌برد صورتی"}
+{"tag": "colors", "include": [{"class": "skateboard", "count": 1, "color": "green"}], "prompt": "یک عکس از یک اسکیت‌برد سبز"}
+{"tag": "colors", "include": [{"class": "bear", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک خرس بنفش"}
+{"tag": "colors", "include": [{"class": "chair", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک صندلی قهوه‌ای"}
+{"tag": "colors", "include": [{"class": "computer keyboard", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک کیبورد کامپیوتر قهوه‌ای"}
+{"tag": "colors", "include": [{"class": "cow", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک گاو نارنجی"}
+{"tag": "colors", "include": [{"class": "skis", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک چوب اسکی قهوه‌ای"}
+{"tag": "colors", "include": [{"class": "kite", "count": 1, "color": "white"}], "prompt": "یک عکس از یک بادبادک سفید"}
+{"tag": "colors", "include": [{"class": "dog", "count": 1, "color": "red"}], "prompt": "یک عکس از یک سگ قرمز"}
+{"tag": "colors", "include": [{"class": "couch", "count": 1, "color": "green"}], "prompt": "یک عکس از یک کاناپه سبز"}
+{"tag": "colors", "include": [{"class": "airplane", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک هواپیمای زرد"}
+{"tag": "colors", "include": [{"class": "tv", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک تلویزیون نارنجی"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "white"}], "prompt": "یک عکس از یک قیچی سفید"}
+{"tag": "colors", "include": [{"class": "cell phone", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک تلفن همراه صورتی"}
+{"tag": "colors", "include": [{"class": "surfboard", "count": 1, "color": "green"}], "prompt": "یک عکس از یک تخته موج‌سواری سبز"}
+{"tag": "colors", "include": [{"class": "fire hydrant", "count": 1, "color": "white"}], "prompt": "یک عکس از یک شیر آتش‌نشانی سفید"}
+{"tag": "colors", "include": [{"class": "bicycle", "count": 1, "color": "black"}], "prompt": "یک عکس از یک دوچرخه سیاه"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک هویج بنفش"}
+{"tag": "colors", "include": [{"class": "dining table", "count": 1, "color": "black"}], "prompt": "یک عکس از یک میز غذاخوری سیاه"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک گیاه گلدانی بنفش"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک کوله‌پشتی بنفش"}
+{"tag": "colors", "include": [{"class": "train", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک قطار زرد"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک گیاه گلدانی صورتی"}
+{"tag": "colors", "include": [{"class": "giraffe", "count": 1, "color": "red"}], "prompt": "یک عکس از یک زرافه قرمز"}
+{"tag": "colors", "include": [{"class": "bear", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک خرس قهوه‌ای"}
+{"tag": "colors", "include": [{"class": "train", "count": 1, "color": "black"}], "prompt": "یک عکس از یک قطار سیاه"}
+{"tag": "colors", "include": [{"class": "laptop", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک لپ‌تاپ نارنجی"}
+{"tag": "colors", "include": [{"class": "hot dog", "count": 1, "color": "green"}], "prompt": "یک عکس از یک هات‌داگ سبز"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک پارکومتر زرد"}
+{"tag": "colors", "include": [{"class": "potted plant", "count": 1, "color": "red"}], "prompt": "یک عکس از یک گیاه گلدانی قرمز"}
+{"tag": "colors", "include": [{"class": "traffic light", "count": 1, "color": "green"}], "prompt": "یک عکس از یک چراغ راهنمایی سبز"}
+{"tag": "colors", "include": [{"class": "tv", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک تلویزیون آبی"}
+{"tag": "colors", "include": [{"class": "refrigerator", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک یخچال قهوه‌ای"}
+{"tag": "colors", "include": [{"class": "tv remote", "count": 1, "color": "black"}], "prompt": "یک عکس از یک کنترل تلویزیون سیاه"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک قیچی بنفش"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک پرتقال زرد"}
+{"tag": "colors", "include": [{"class": "toaster", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک توستر قهوه‌ای"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "red"}], "prompt": "یک عکس از یک پارکومتر قرمز"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک پرتقال قهوه‌ای"}
+{"tag": "colors", "include": [{"class": "clock", "count": 1, "color": "green"}], "prompt": "یک عکس از یک ساعت سبز"}
+{"tag": "colors", "include": [{"class": "sheep", "count": 1, "color": "white"}], "prompt": "یک عکس از یک گوسفند سفید"}
+{"tag": "colors", "include": [{"class": "oven", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک اجاق زرد"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "green"}], "prompt": "یک عکس از یک گلدان سبز"}
+{"tag": "colors", "include": [{"class": "teddy bear", "count": 1, "color": "black"}], "prompt": "یک عکس از یک خرس عروسکی سیاه"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک هویج زرد"}
+{"tag": "colors", "include": [{"class": "hot dog", "count": 1, "color": "black"}], "prompt": "یک عکس از یک هات‌داگ سیاه"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "red"}], "prompt": "یک عکس از یک قیچی قرمز"}
+{"tag": "colors", "include": [{"class": "teddy bear", "count": 1, "color": "white"}], "prompt": "یک عکس از یک خرس عروسکی سفید"}
+{"tag": "colors", "include": [{"class": "skis", "count": 1, "color": "black"}], "prompt": "یک عکس از یک چوب اسکی سیاه"}
+{"tag": "colors", "include": [{"class": "dining table", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک میز غذاخوری آبی"}
+{"tag": "colors", "include": [{"class": "refrigerator", "count": 1, "color": "black"}], "prompt": "یک عکس از یک یخچال سیاه"}
+{"tag": "colors", "include": [{"class": "dog", "count": 1, "color": "white"}], "prompt": "یک عکس از یک سگ سفید"}
+{"tag": "colors", "include": [{"class": "scissors", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک قیچی نارنجی"}
+{"tag": "colors", "include": [{"class": "cell phone", "count": 1, "color": "red"}], "prompt": "یک عکس از یک تلفن همراه قرمز"}
+{"tag": "colors", "include": [{"class": "clock", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک ساعت آبی"}
+{"tag": "colors", "include": [{"class": "orange", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک پرتقال قهوه‌ای"}
+{"tag": "colors", "include": [{"class": "clock", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک ساعت آبی"}
+{"tag": "colors", "include": [{"class": "carrot", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک هویج آبی"}
+{"tag": "colors", "include": [{"class": "stop sign", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک تابلوی ایست صورتی"}
+{"tag": "colors", "include": [{"class": "vase", "count": 1, "color": "black"}], "prompt": "یک عکس از یک گلدان سیاه"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "black"}], "prompt": "یک عکس از یک کوله‌پشتی سیاه"}
+{"tag": "colors", "include": [{"class": "car", "count": 1, "color": "red"}], "prompt": "یک عکس از یک ماشین قرمز"}
+{"tag": "colors", "include": [{"class": "computer mouse", "count": 1, "color": "green"}], "prompt": "یک عکس از یک موس کامپیوتر سبز"}
+{"tag": "colors", "include": [{"class": "backpack", "count": 1, "color": "red"}], "prompt": "یک عکس از یک کوله‌پشتی قرمز"}
+{"tag": "colors", "include": [{"class": "bus", "count": 1, "color": "green"}], "prompt": "یک عکس از یک اتوبوس سبز"}
+{"tag": "colors", "include": [{"class": "toaster", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک تُستر نارنجی"}
+{"tag": "colors", "include": [{"class": "fork", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک چنگال زرد"}
+{"tag": "colors", "include": [{"class": "parking meter", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک پارکومتر صورتی"}
+{"tag": "colors", "include": [{"class": "book", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک کتاب آبی"}
+{"tag": "colors", "include": [{"class": "broccoli", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک بروکلی زرد"}
+{"tag": "colors", "include": [{"class": "computer mouse", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک موس کامپیوتر نارنجی"}
+{"tag": "colors", "include": [{"class": "cake", "count": 1, "color": "red"}], "prompt": "یک عکس از یک کیک قرمز"}
+{"tag": "position", "include": [{"class": "teddy bear", "count": 1}, {"class": "dog", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک سگ در سمت راست یک خرس عروسکی"}
+{"tag": "position", "include": [{"class": "kite", "count": 1}, {"class": "wine glass", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک لیوان شراب بالای یک بادبادک"}
+{"tag": "position", "include": [{"class": "cup", "count": 1}, {"class": "couch", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک کاناپه زیر یک فنجان"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "laptop", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک لپ‌تاپ در سمت چپ یک گاو"}
+{"tag": "position", "include": [{"class": "hair drier", "count": 1}, {"class": "fork", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک چنگال بالای یک سشوار"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "tie", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک کراوات در سمت راست یک چوب بیسبال"}
+{"tag": "position", "include": [{"class": "fork", "count": 1}, {"class": "stop sign", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک تابلوی ایست بالای یک چنگال"}
+{"tag": "position", "include": [{"class": "skateboard", "count": 1}, {"class": "bird", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک پرنده زیر یک اسکیت‌برد"}
+{"tag": "position", "include": [{"class": "tv", "count": 1}, {"class": "apple", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک سیب بالای یک تلویزیون"}
+{"tag": "position", "include": [{"class": "potted plant", "count": 1}, {"class": "train", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک قطار بالای یک گیاه گلدانی"}
+{"tag": "position", "include": [{"class": "refrigerator", "count": 1}, {"class": "truck", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک کامیون در سمت چپ یک یخچال"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "tv remote", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک کنترل تلویزیون زیر یک گاو"}
+{"tag": "position", "include": [{"class": "train", "count": 1}, {"class": "bottle", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک بطری در سمت راست یک قطار"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "dog", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک سگ بالای یک گاو"}
+{"tag": "position", "include": [{"class": "person", "count": 1}, {"class": "skateboard", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک اسکیت‌برد بالای یک شخص"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "baseball glove", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک دستکش بیسبال زیر یک چتر"}
+{"tag": "position", "include": [{"class": "oven", "count": 1}, {"class": "dining table", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک میز غذاخوری در سمت راست یک فر"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "hot dog", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک هات‌داگ در سمت چپ یک چمدان"}
+{"tag": "position", "include": [{"class": "toothbrush", "count": 1}, {"class": "bus", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک اتوبوس زیر یک مسواک"}
+{"tag": "position", "include": [{"class": "sandwich", "count": 1}, {"class": "backpack", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک کوله‌پشتی در سمت راست یک ساندویچ"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "cake", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک کیک زیر یک چوب بیسبال"}
+{"tag": "position", "include": [{"class": "tie", "count": 1}, {"class": "dog", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک سگ در سمت راست یک کراوات"}
+{"tag": "position", "include": [{"class": "boat", "count": 1}, {"class": "suitcase", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک چمدان در سمت راست یک قایق"}
+{"tag": "position", "include": [{"class": "clock", "count": 1}, {"class": "bear", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک خرس بالای یک ساعت"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "tv remote", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک کنترل تلویزیون در سمت چپ یک چتر"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "sports ball", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک توپ ورزشی در سمت چپ یک چتر"}
+{"tag": "position", "include": [{"class": "dining table", "count": 1}, {"class": "train", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک قطار در سمت راست یک میز غذاخوری"}
+{"tag": "position", "include": [{"class": "elephant", "count": 1}, {"class": "hair drier", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک سشوار زیر یک فیل"}
+{"tag": "position", "include": [{"class": "spoon", "count": 1}, {"class": "tennis racket", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک راکت تنیس در سمت راست یک قاشق"}
+{"tag": "position", "include": [{"class": "spoon", "count": 1}, {"class": "wine glass", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک لیوان شراب بالای یک قاشق"}
+{"tag": "position", "include": [{"class": "bench", "count": 1}, {"class": "computer mouse", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک موس کامپیوتر در سمت چپ یک نیمکت"}
+{"tag": "position", "include": [{"class": "toothbrush", "count": 1}, {"class": "kite", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک بادبادک بالای یک مسواک"}
+{"tag": "position", "include": [{"class": "traffic light", "count": 1}, {"class": "cat", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک گربه زیر یک چراغ راهنمایی"}
+{"tag": "position", "include": [{"class": "zebra", "count": 1}, {"class": "baseball glove", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک دستکش بیسبال در سمت راست یک گورخر"}
+{"tag": "position", "include": [{"class": "pizza", "count": 1}, {"class": "computer keyboard", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک پیتزا زیر یک صفحه‌کلید کامپیوتر"}
+{"tag": "position", "include": [{"class": "toilet", "count": 1}, {"class": "stop sign", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک تابلوی ایست در سمت چپ یک توالت"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "cat", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک گربه زیر یک پارکومتر"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "hot dog", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک هات‌داگ بالای یک گاو"}
+{"tag": "position", "include": [{"class": "chair", "count": 1}, {"class": "cake", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک کیک در سمت راست یک صندلی"}
+{"tag": "position", "include": [{"class": "bench", "count": 1}, {"class": "pizza", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک پیتزا زیر یک نیمکت"}
+{"tag": "position", "include": [{"class": "chair", "count": 1}, {"class": "stop sign", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک تابلوی ایست بالای یک صندلی"}
+{"tag": "position", "include": [{"class": "carrot", "count": 1}, {"class": "orange", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک پرتقال در سمت چپ یک هویج"}
+{"tag": "position", "include": [{"class": "book", "count": 1}, {"class": "tennis racket", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک راکت تنیس بالای یک کتاب"}
+{"tag": "position", "include": [{"class": "cup", "count": 1}, {"class": "cat", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک گربه در سمت چپ یک فنجان"}
+{"tag": "position", "include": [{"class": "boat", "count": 1}, {"class": "dog", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک سگ بالای یک قایق"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "chair", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک صندلی زیر یک چتر"}
+{"tag": "position", "include": [{"class": "apple", "count": 1}, {"class": "car", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک ماشین در سمت راست یک سیب"}
+{"tag": "position", "include": [{"class": "couch", "count": 1}, {"class": "bird", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک پرنده در سمت چپ یک کاناپه"}
+{"tag": "position", "include": [{"class": "sports ball", "count": 1}, {"class": "bed", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک تخت در سمت راست یک توپ ورزشی"}
+{"tag": "position", "include": [{"class": "surfboard", "count": 1}, {"class": "elephant", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک فیل در زیر یک تخته موج‌سواری"}
+{"tag": "position", "include": [{"class": "motorcycle", "count": 1}, {"class": "frisbee", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک فریزبی در سمت راست یک موتورسیکلت"}
+{"tag": "position", "include": [{"class": "fire hydrant", "count": 1}, {"class": "vase", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک گلدان بالای یک شیر آتش‌نشانی"}
+{"tag": "position", "include": [{"class": "elephant", "count": 1}, {"class": "zebra", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک گورخر در سمت چپ یک فیل"}
+{"tag": "position", "include": [{"class": "bear", "count": 1}, {"class": "bench", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک نیمکت در سمت چپ یک خرس"}
+{"tag": "position", "include": [{"class": "bench", "count": 1}, {"class": "donut", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک دونات در سمت راست یک نیمکت"}
+{"tag": "position", "include": [{"class": "horse", "count": 1}, {"class": "frisbee", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک فریزبی زیر یک اسب"}
+{"tag": "position", "include": [{"class": "snowboard", "count": 1}, {"class": "computer keyboard", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک صفحه‌کلید کامپیوتر بالای یک تخته اسنوبرد"}
+{"tag": "position", "include": [{"class": "cow", "count": 1}, {"class": "tv", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک تلویزیون زیر یک گاو"}
+{"tag": "position", "include": [{"class": "horse", "count": 1}, {"class": "elephant", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک فیل زیر یک اسب"}
+{"tag": "position", "include": [{"class": "banana", "count": 1}, {"class": "suitcase", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک چمدان در سمت چپ یک موز"}
+{"tag": "position", "include": [{"class": "airplane", "count": 1}, {"class": "train", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک قطار زیر یک هواپیما"}
+{"tag": "position", "include": [{"class": "backpack", "count": 1}, {"class": "cat", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک گربه زیر یک کوله‌پشتی"}
+{"tag": "position", "include": [{"class": "cake", "count": 1}, {"class": "backpack", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک کوله‌پشتی زیر یک کیک"}
+{"tag": "position", "include": [{"class": "knife", "count": 1}, {"class": "sandwich", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک ساندویچ زیر یک چاقو"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "bicycle", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک دوچرخه بالای یک پارکومتر"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "knife", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک چاقو در سمت راست یک چمدان"}
+{"tag": "position", "include": [{"class": "knife", "count": 1}, {"class": "hot dog", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک هات‌داگ بالای یک چاقو"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "zebra", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک گورخر در سمت راست یک پارکومتر"}
+{"tag": "position", "include": [{"class": "zebra", "count": 1}, {"class": "chair", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک صندلی در سمت چپ یک گورخر"}
+{"tag": "position", "include": [{"class": "airplane", "count": 1}, {"class": "cow", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک گاو زیر یک هواپیما"}
+{"tag": "position", "include": [{"class": "umbrella", "count": 1}, {"class": "cup", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک فنجان در سمت چپ یک چتر"}
+{"tag": "position", "include": [{"class": "computer keyboard", "count": 1}, {"class": "zebra", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک گورخر زیر یک صفحه‌کلید کامپیوتر"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "zebra", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک گورخر زیر یک کلم بروکلی"}
+{"tag": "position", "include": [{"class": "sports ball", "count": 1}, {"class": "laptop", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک لپ‌تاپ زیر یک توپ ورزشی"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "truck", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک کامیون در سمت چپ یک چوب بیسبال"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "refrigerator", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک یخچال بالای یک چوب بیسبال"}
+{"tag": "position", "include": [{"class": "baseball bat", "count": 1}, {"class": "tv", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک تلویزیون بالای یک چوب بیسبال"}
+{"tag": "position", "include": [{"class": "bear", "count": 1}, {"class": "baseball glove", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک دستکش بیسبال در سمت راست یک خرس"}
+{"tag": "position", "include": [{"class": "scissors", "count": 1}, {"class": "refrigerator", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک یخچال زیر یک قیچی"}
+{"tag": "position", "include": [{"class": "suitcase", "count": 1}, {"class": "dining table", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک میز غذاخوری بالای یک چمدان"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "parking meter", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک پارکومتر بالای یک کلم بروکلی"}
+{"tag": "position", "include": [{"class": "truck", "count": 1}, {"class": "frisbee", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک فریزبی بالای یک کامیون"}
+{"tag": "position", "include": [{"class": "banana", "count": 1}, {"class": "pizza", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک پیتزا در سمت راست یک موز"}
+{"tag": "position", "include": [{"class": "boat", "count": 1}, {"class": "bus", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک اتوبوس بالای یک قایق"}
+{"tag": "position", "include": [{"class": "tennis racket", "count": 1}, {"class": "cell phone", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک تلفن همراه در سمت چپ یک راکت تنیس"}
+{"tag": "position", "include": [{"class": "broccoli", "count": 1}, {"class": "horse", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک اسب در سمت راست یک کلم بروکلی"}
+{"tag": "position", "include": [{"class": "bottle", "count": 1}, {"class": "broccoli", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک کلم بروکلی بالای یک بطری"}
+{"tag": "position", "include": [{"class": "parking meter", "count": 1}, {"class": "vase", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک گلدان در سمت راست یک پارکومتر"}
+{"tag": "position", "include": [{"class": "spoon", "count": 1}, {"class": "bear", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک خرس بالای یک قاشق"}
+{"tag": "position", "include": [{"class": "bed", "count": 1}, {"class": "zebra", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک گورخر در سمت راست یک تخت"}
+{"tag": "position", "include": [{"class": "laptop", "count": 1}, {"class": "cow", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک گاو در سمت راست یک لپ‌تاپ"}
+{"tag": "position", "include": [{"class": "frisbee", "count": 1}, {"class": "bed", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک تخت در سمت راست یک فریزبی"}
+{"tag": "position", "include": [{"class": "motorcycle", "count": 1}, {"class": "tie", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک کراوات در سمت راست یک موتورسیکلت"}
+{"tag": "position", "include": [{"class": "tv", "count": 1}, {"class": "clock", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک ساعت زیر یک تلویزیون"}
+{"tag": "position", "include": [{"class": "chair", "count": 1}, {"class": "cell phone", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک تلفن همراه در سمت راست یک صندلی"}
+{"tag": "position", "include": [{"class": "motorcycle", "count": 1}, {"class": "tie", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک کراوات در سمت راست یک موتورسیکلت"}
+{"tag": "position", "include": [{"class": "potted plant", "count": 1}, {"class": "cell phone", "count": 1, "position": ["right of", 0]}], "prompt": "یک عکس از یک تلفن همراه در سمت راست یک گیاه گلدانی"}
+{"tag": "position", "include": [{"class": "chair", "count": 1}, {"class": "tv", "count": 1, "position": ["above", 0]}], "prompt": "یک عکس از یک تلویزیون بالای یک صندلی"}
+{"tag": "position", "include": [{"class": "cat", "count": 1}, {"class": "donut", "count": 1, "position": ["below", 0]}], "prompt": "یک عکس از یک دونات زیر یک گربه"}
+{"tag": "position", "include": [{"class": "toaster", "count": 1}, {"class": "couch", "count": 1, "position": ["left of", 0]}], "prompt": "یک عکس از یک کاناپه در سمت چپ یک توستر"}
+{"tag": "color_attr", "include": [{"class": "wine glass", "count": 1, "color": "purple"}, {"class": "apple", "count": 1, "color": "black"}], "prompt": "یک عکس از یک لیوان شراب بنفش و یک سیب سیاه"}
+{"tag": "color_attr", "include": [{"class": "bus", "count": 1, "color": "green"}, {"class": "microwave", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک اتوبوس سبز و یک مایکروویو قهوه‌ای"}
+{"tag": "color_attr", "include": [{"class": "skis", "count": 1, "color": "green"}, {"class": "airplane", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک جفت چوب اسکی سبز و یک هواپیمای قهوه‌ای"}
+{"tag": "color_attr", "include": [{"class": "computer keyboard", "count": 1, "color": "yellow"}, {"class": "sink", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک صفحه‌کلید کامپیوتر زرد و یک سینک نارنجی"}
+{"tag": "color_attr", "include": [{"class": "oven", "count": 1, "color": "pink"}, {"class": "motorcycle", "count": 1, "color": "green"}], "prompt": "یک عکس از یک اجاق صورتی و یک موتورسیکلت سبز"}
+{"tag": "color_attr", "include": [{"class": "parking meter", "count": 1, "color": "purple"}, {"class": "laptop", "count": 1, "color": "red"}], "prompt": "یک عکس از یک لپ‌تاپ بنفش و یک پارکومتر سبز"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "yellow"}, {"class": "computer mouse", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک اسکیت‌برد زرد و یک ماوس کامپیوتر نارنجی"}
+{"tag": "color_attr", "include": [{"class": "skis", "count": 1, "color": "red"}, {"class": "tie", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک جفت چوب اسکی قرمز و یک کراوات قهوه‌ای"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "pink"}, {"class": "train", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک اسکیت‌برد صورتی و یک قطار قهوه‌ای"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "white"}, {"class": "bed", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک کیف دستی سفید و یک تخت بنفش"}
+{"tag": "color_attr", "include": [{"class": "elephant", "count": 1, "color": "purple"}, {"class": "sports ball", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک فیل بنفش و یک توپ ورزشی قهوه‌ای"}
+{"tag": "color_attr", "include": [{"class": "dog", "count": 1, "color": "purple"}, {"class": "dining table", "count": 1, "color": "black"}], "prompt": "یک عکس از یک سگ بنفش و یک میز غذاخوری سیاه"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "white"}, {"class": "car", "count": 1, "color": "red"}], "prompt": "یک عکس از یک میز غذاخوری سفید و یک ماشین قرمز"}
+{"tag": "color_attr", "include": [{"class": "cell phone", "count": 1, "color": "blue"}, {"class": "apple", "count": 1, "color": "green"}], "prompt": "یک عکس از یک تلفن همراه آبی و یک سیب سبز"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "red"}, {"class": "potted plant", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک ماشین قرمز و یک گیاه گلدانی نارنجی"}
+{"tag": "color_attr", "include": [{"class": "carrot", "count": 1, "color": "brown"}, {"class": "potted plant", "count": 1, "color": "white"}], "prompt": "یک عکس از یک هویج قهوه‌ای و یک گیاه گلدانی سفید"}
+{"tag": "color_attr", "include": [{"class": "kite", "count": 1, "color": "black"}, {"class": "bear", "count": 1, "color": "green"}], "prompt": "یک عکس از یک بادبادک سیاه و یک خرس سبز"}
+{"tag": "color_attr", "include": [{"class": "laptop", "count": 1, "color": "blue"}, {"class": "bear", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک لپ‌تاپ آبی و یک خرس قهوه‌ای"}
+{"tag": "color_attr", "include": [{"class": "teddy bear", "count": 1, "color": "green"}, {"class": "kite", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک خرس عروسکی سبز و یک بادبادک قهوه‌ای"}
+{"tag": "color_attr", "include": [{"class": "stop sign", "count": 1, "color": "yellow"}, {"class": "potted plant", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک تابلوی ایست زرد و یک گیاه گلدانی آبی"}
+{"tag": "color_attr", "include": [{"class": "snowboard", "count": 1, "color": "orange"}, {"class": "cat", "count": 1, "color": "green"}], "prompt": "یک عکس از یک تخته اسنوبرد نارنجی و یک گربه سبز"}
+{"tag": "color_attr", "include": [{"class": "truck", "count": 1, "color": "orange"}, {"class": "sink", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک کامیون نارنجی و یک سینک صورتی"}
+{"tag": "color_attr", "include": [{"class": "hot dog", "count": 1, "color": "brown"}, {"class": "pizza", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک هات‌داگ قهوه‌ای و یک پیتزای بنفش"}
+{"tag": "color_attr", "include": [{"class": "couch", "count": 1, "color": "green"}, {"class": "umbrella", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک کاناپه سبز و یک چتر نارنجی"}
+{"tag": "color_attr", "include": [{"class": "bed", "count": 1, "color": "brown"}, {"class": "cell phone", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک تخت قهوه‌ای و یک تلفن همراه صورتی"}
+{"tag": "color_attr", "include": [{"class": "broccoli", "count": 1, "color": "black"}, {"class": "cake", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک کلم بروکلی سیاه و یک کیک زرد"}
+{"tag": "color_attr", "include": [{"class": "train", "count": 1, "color": "red"}, {"class": "bear", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک قطار قرمز و یک خرس بنفش"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "purple"}, {"class": "sink", "count": 1, "color": "black"}], "prompt": "یک عکس از یک راکت تنیس بنفش و یک سینک سیاه"}
+{"tag": "color_attr", "include": [{"class": "vase", "count": 1, "color": "blue"}, {"class": "banana", "count": 1, "color": "black"}], "prompt": "یک عکس از یک گلدان آبی و یک موز سیاه"}
+{"tag": "color_attr", "include": [{"class": "clock", "count": 1, "color": "blue"}, {"class": "cup", "count": 1, "color": "white"}], "prompt": "یک عکس از یک ساعت آبی و یک فنجان سفید"}
+{"tag": "color_attr", "include": [{"class": "umbrella", "count": 1, "color": "red"}, {"class": "couch", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک چتر قرمز و یک مبل آبی"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "white"}, {"class": "giraffe", "count": 1, "color": "red"}], "prompt": "یک عکس از یک کیف دستی سفید و یک زرافه قرمز"}
+{"tag": "color_attr", "include": [{"class": "tv remote", "count": 1, "color": "pink"}, {"class": "airplane", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک کنترل تلویزیون صورتی و یک هواپیمای آبی"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "pink"}, {"class": "scissors", "count": 1, "color": "black"}], "prompt": "یک عکس از یک کیف دستی صورتی و یک قیچی سیاه"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "brown"}, {"class": "hair drier", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک ماشین قهوه‌ای و یک سشوار صورتی"}
+{"tag": "color_attr", "include": [{"class": "bus", "count": 1, "color": "black"}, {"class": "cell phone", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک اتوبوس سیاه و یک تلفن همراه قهوه‌ای"}
+{"tag": "color_attr", "include": [{"class": "sheep", "count": 1, "color": "purple"}, {"class": "banana", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک گوسفند بنفش و یک موز صورتی"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "blue"}, {"class": "cell phone", "count": 1, "color": "white"}], "prompt": "یک عکس از یک کیف دستی آبی و یک تلفن همراه سفید"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "white"}, {"class": "umbrella", "count": 1, "color": "green"}], "prompt": "یک عکس از یک پیتزای سفید و یک چتر سبز"}
+{"tag": "color_attr", "include": [{"class": "tie", "count": 1, "color": "white"}, {"class": "skateboard", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک کراوات سفید و یک اسکیت‌برد بنفش"}
+{"tag": "color_attr", "include": [{"class": "sports ball", "count": 1, "color": "yellow"}, {"class": "boat", "count": 1, "color": "green"}], "prompt": "یک عکس از یک توپ ورزشی زرد و یک قایق سبز"}
+{"tag": "color_attr", "include": [{"class": "wine glass", "count": 1, "color": "white"}, {"class": "giraffe", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک لیوان شراب سفید و یک زرافه قهوه‌ای"}
+{"tag": "color_attr", "include": [{"class": "bowl", "count": 1, "color": "yellow"}, {"class": "baseball glove", "count": 1, "color": "white"}], "prompt": "یک عکس از یک کاسه زرد و یک دستکش بیس‌بال سفید"}
+{"tag": "color_attr", "include": [{"class": "microwave", "count": 1, "color": "orange"}, {"class": "spoon", "count": 1, "color": "black"}], "prompt": "یک عکس از یک مایکروویو نارنجی و یک قاشق سیاه"}
+{"tag": "color_attr", "include": [{"class": "skateboard", "count": 1, "color": "orange"}, {"class": "bowl", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک اسکیت‌برد نارنجی و یک کاسه صورتی"}
+{"tag": "color_attr", "include": [{"class": "toilet", "count": 1, "color": "blue"}, {"class": "suitcase", "count": 1, "color": "white"}], "prompt": "یک عکس از یک توالت آبی و یک چمدان سفید"}
+{"tag": "color_attr", "include": [{"class": "boat", "count": 1, "color": "white"}, {"class": "hot dog", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک قایق سفید و یک هات‌داگ نارنجی"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "yellow"}, {"class": "dog", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک میز غذاخوری زرد و یک سگ صورتی"}
+{"tag": "color_attr", "include": [{"class": "cake", "count": 1, "color": "red"}, {"class": "chair", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک کیک قرمز و یک صندلی بنفش"}
+{"tag": "color_attr", "include": [{"class": "tie", "count": 1, "color": "blue"}, {"class": "dining table", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک کراوات آبی و یک میز غذاخوری صورتی"}
+{"tag": "color_attr", "include": [{"class": "cow", "count": 1, "color": "blue"}, {"class": "computer keyboard", "count": 1, "color": "black"}], "prompt": "یک عکس از یک گاو آبی و یک کیبورد کامپیوتر سیاه"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "yellow"}, {"class": "oven", "count": 1, "color": "green"}], "prompt": "یک عکس از یک پیتزای زرد و یک فر سبز"}
+{"tag": "color_attr", "include": [{"class": "laptop", "count": 1, "color": "red"}, {"class": "car", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک لپ‌تاپ قرمز و یک ماشین قهوه‌ای"}
+{"tag": "color_attr", "include": [{"class": "computer keyboard", "count": 1, "color": "purple"}, {"class": "scissors", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک کیبورد کامپیوتر بنفش و یک قیچی آبی"}
+{"tag": "color_attr", "include": [{"class": "surfboard", "count": 1, "color": "green"}, {"class": "oven", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک تخته موج‌سواری سبز و یک فر نارنجی"}
+{"tag": "color_attr", "include": [{"class": "parking meter", "count": 1, "color": "yellow"}, {"class": "refrigerator", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک پارکومتر زرد و یک یخچال صورتی"}
+{"tag": "color_attr", "include": [{"class": "computer mouse", "count": 1, "color": "brown"}, {"class": "bottle", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک ماوس کامپیوتر قهوه‌ای و یک بطری بنفش"}
+{"tag": "color_attr", "include": [{"class": "umbrella", "count": 1, "color": "red"}, {"class": "cow", "count": 1, "color": "green"}], "prompt": "یک عکس از یک چتر قرمز و یک گاو سبز"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "red"}, {"class": "cell phone", "count": 1, "color": "black"}], "prompt": "یک عکس از یک زرافه قرمز و یک تلفن همراه سیاه"}
+{"tag": "color_attr", "include": [{"class": "oven", "count": 1, "color": "brown"}, {"class": "train", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک فر قهوه‌ای و یک قطار بنفش"}
+{"tag": "color_attr", "include": [{"class": "baseball bat", "count": 1, "color": "blue"}, {"class": "book", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک چوب بیسبال آبی و یک کتاب صورتی"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "green"}, {"class": "bowl", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک فنجان سبز و یک کاسه زرد"}
+{"tag": "color_attr", "include": [{"class": "suitcase", "count": 1, "color": "yellow"}, {"class": "bus", "count": 1, "color": "brown"}], "prompt": "یک عکس از یک چمدان زرد و یک اتوبوس قهوه‌ای"}
+{"tag": "color_attr", "include": [{"class": "motorcycle", "count": 1, "color": "orange"}, {"class": "donut", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک موتورسیکلت نارنجی و یک دونات صورتی"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "orange"}, {"class": "baseball glove", "count": 1, "color": "white"}], "prompt": "یک عکس از یک زرافه نارنجی و یک دستکش بیسبال سفید"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "orange"}, {"class": "baseball glove", "count": 1, "color": "white"}], "prompt": "یک عکس از یک کیف دستی نارنجی و یک دستکش بیسبال سفید"}
+{"tag": "color_attr", "include": [{"class": "bottle", "count": 1, "color": "black"}, {"class": "refrigerator", "count": 1, "color": "white"}], "prompt": "یک عکس از یک بطری سیاه و یک یخچال سفید"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "yellow"}, {"class": "dog", "count": 1, "color": "dog"}], "prompt": "یک عکس از یک میز ناهارخوری زرد و یک سگ صورتی"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "orange"}, {"class": "car", "count": 1, "color": "red"}], "prompt": "یک عکس از یک کیف دستی نارنجی و یک ماشین قرمز"}
+{"tag": "color_attr", "include": [{"class": "stop sign", "count": 1, "color": "red"}, {"class": "chair", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک علامت ایست قرمز و یک کتاب بنفش"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "yellow"}, {"class": "toothbrush", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک ماشین زرد و یک مسواک نارنجی"}
+{"tag": "color_attr", "include": [{"class": "dining table", "count": 1, "color": "brown"}, {"class": "suitcase", "count": 1, "color": "white"}], "prompt": "یک عکس از یک میز ناهارخوری قهوه‌ای و یک چمدان سفید"}
+{"tag": "color_attr", "include": [{"class": "donut", "count": 1, "color": "orange"}, {"class": "motorcycle", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک دونات نارنجی و یک موتورسیکلت صورتی"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "green"}, {"class": "boat", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک چمدان سبز و یک قایق آبی"}
+{"tag": "color_attr", "include": [{"class": "tennis racket", "count": 1, "color": "purple"}, {"class": "sports ball", "count": 1, "color": "red"}], "prompt": "یک عکس از یک کیبورد کامپیوتر بنفش و یک صندلی قرمز"}
+{"tag": "color_attr", "include": [{"class": "bottle", "count": 1, "color": "white"}, {"class": "sheep", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک بطری سفید و یک گوسفند آبی"}
+{"tag": "color_attr", "include": [{"class": "potted plant", "count": 1, "color": "orange"}, {"class": "spoon", "count": 1, "color": "black"}], "prompt": "یک عکس از یک گیاه گلدانی نارنجی و یک قاشق سیاه"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "yellow"}, {"class": "refrigerator", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک کیف دستی زرد و یک یخچال آبی"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "green"}, {"class": "bowl", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک فنجان سبز و یک کاسه زرد"}
+{"tag": "color_attr", "include": [{"class": "motorcycle", "count": 1, "color": "orange"}, {"class": "donut", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک موتورسیکلت نارنجی و یک دونات صورتی"}
+{"tag": "color_attr", "include": [{"class": "handbag", "count": 1, "color": "orange"}, {"class": "carrot", "count": 1, "color": "green"}], "prompt": "یک عکس از یک کیف دستی نارنجی و یک هویج سبز"}
+{"tag": "color_attr", "include": [{"class": "bottle", "count": 1, "color": "black"}, {"class": "refrigerator", "count": 1, "color": "white"}], "prompt": "یک عکس از یک بطری سیاه و یک یخچال سفید"}
+{"tag": "color_attr", "include": [{"class": "computer mouse", "count": 1, "color": "brown"}, {"class": "bottle", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک ماوس کامپیوتر قهوه‌ای و یک بطری بنفش"}
+{"tag": "color_attr", "include": [{"class": "oven", "count": 1, "color": "brown"}, {"class": "train", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک فر قهوه‌ای و یک قطار بنفش"}
+{"tag": "color_attr", "include": [{"class": "surfboard", "count": 1, "color": "green"}, {"class": "oven", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک تخته موج‌سواری سبز و یک فر نارنجی"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "green"}, {"class": "bowl", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک فنجان سبز و یک کاسه زرد"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "yellow"}, {"class": "toothbrush", "count": 1, "color": "orange"}], "prompt": "یک عکس از یک ماشین زرد و یک مسواک نارنجی"}
+{"tag": "color_attr", "include": [{"class": "car", "count": 1, "color": "black"}, {"class": "parking meter", "count": 1, "color": "green"}], "prompt": "یک عکس از یک ماشین سیاه و یک پارکومتر سبز"}
+{"tag": "color_attr", "include": [{"class": "bird", "count": 1, "color": "yellow"}, {"class": "motorcycle", "count": 1, "color": "black"}], "prompt": "یک عکس از یک پرنده زرد و یک موتورسیکلت سیاه"}
+{"tag": "color_attr", "include": [{"class": "giraffe", "count": 1, "color": "brown"}, {"class": "stop sign", "count": 1, "color": "white"}], "prompt": "یک عکس از یک زرافه قهوه‌ای و یک علامت ایست سفید"}
+{"tag": "color_attr", "include": [{"class": "banana", "count": 1, "color": "white"}, {"class": "elephant", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک موز سفید و یک فیل آبی"}
+{"tag": "color_attr", "include": [{"class": "cow", "count": 1, "color": "orange"}, {"class": "sandwich", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک گاو نارنجی و یک ساندویچ بنفش"}
+{"tag": "color_attr", "include": [{"class": "clock", "count": 1, "color": "red"}, {"class": "cell phone", "count": 1, "color": "black"}], "prompt": "یک عکس از یک ساعت قرمز و یک تلفن همراه سیاه"}
+{"tag": "color_attr", "include": [{"class": "knife", "count": 1, "color": "brown"}, {"class": "donut", "count": 1, "color": "blue"}], "prompt": "یک عکس از یک چاقوی قهوه‌ای و یک دونات آبی"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "red"}, {"class": "handbag", "count": 1, "color": "pink"}], "prompt": "یک عکس از یک فنجان قرمز و یک کیف دستی صورتی"}
+{"tag": "color_attr", "include": [{"class": "bicycle", "count": 1, "color": "yellow"}, {"class": "motorcycle", "count": 1, "color": "red"}], "prompt": "یک عکس از یک دوچرخه زرد و یک موتورسیکلت قرمز"}
+{"tag": "color_attr", "include": [{"class": "orange", "count": 1, "color": "red"}, {"class": "broccoli", "count": 1, "color": "purple"}], "prompt": "یک عکس از یک پرتقال قرمز و یک بروکلی بنفش"}
+{"tag": "color_attr", "include": [{"class": "traffic light", "count": 1, "color": "orange"}, {"class": "toilet", "count": 1, "color": "white"}], "prompt": "یک عکس از یک چراغ راهنمایی نارنجی و یک توالت سفید"}
+{"tag": "color_attr", "include": [{"class": "cup", "count": 1, "color": "green"}, {"class": "pizza", "count": 1, "color": "red"}], "prompt": "یک عکس از یک فنجان سبز و یک پیتزای قرمز"}
+{"tag": "color_attr", "include": [{"class": "pizza", "count": 1, "color": "blue"}, {"class": "baseball glove", "count": 1, "color": "yellow"}], "prompt": "یک عکس از یک پیتزای آبی و یک دستکش بیسبال زرد"}

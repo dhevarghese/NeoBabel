@@ -1,0 +1,6 @@
+experiment:
+    project: "neobabel-evals"
+    name: "Blip3o-dpg"
+    metadata_file: "dpg_prompts/english-prompts" 
+    output_dir: "dpg/Blip3o_dpg_english" 
+    seed: 10086 

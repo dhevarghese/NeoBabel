@@ -1,0 +1,132 @@
+wandb:
+  entity: NeoBabel
+  project: neobabel-o-training-gemma-6-languages-tuning-stage1-gcp
+  resume: 'auto'
+
+experiment:
+    project: "neobabel-o-training-gemma-6-languages-tuning-stage1-gcp-mix-laion-jdb-internal"
+    name: "neobabel-tuning-stage1-mix-laion-jdb-internal"
+    output_dir: "neobabel-tuning-stage1-mix-laion-jdb-internal"
+    max_train_examples_t2i: 40000000
+    max_train_examples_mmu: 40000000
+    save_every: 5000
+    eval_every: 2500
+    generate_every: 1000
+    log_every: 50
+    log_grad_norm_every: 500
+    checkpoints_total_limit: 10
+    resume_from_checkpoint: true
+    full_resume: true
+    set_scheduler_step: true
+
+model:
+    vq_model:
+        type: "magvitv2"
+        vq_model_name: "showlab/magvitv2"
+
+    neobabel:
+        load_from_neobabel: False
+        pretrained_model_path: "google/gemma-2-2b-it"
+        vocab_size: 264203
+        llm_vocab_size: 256000
+        llm_model_path: 'google/gemma-2-2b-it'
+        codebook_size: 8192
+        num_vq_tokens: 1024
+        num_new_special_tokens: 10  # <|soi|> <|eoi|> <|sov|> <|eov|> <|t2i|> <|mmu|> <|t2v|> <|v2v|> <|lvg|> <|pad|>
+
+    gradient_checkpointing: True
+
+dataset:
+    gen_type: "t2i"
+    und_type: "llava_pretrain"
+    combined_loader_mode: "min_size"
+    add_system_prompt: False
+    params:
+        train_t2i_shards_path_or_url: 
+            laion: ["/home/m2_derakhshani1993/data/laion/laion2B-en-aesthetic-data/{00000..01209}.tar"]
+            jdb: ["/home/m2_derakhshani1993/data/JourneyDB/train/imgs/{000..199}.tgz"]
+            internal: ["/home/m2_derakhshani1993/data/instruction_tuning_maya/Geneval_train.tar",
+                    "/home/m2_derakhshani1993/data/instruction_tuning_maya/Human_gestures.tar",
+                    "/home/m2_derakhshani1993/data/instruction_tuning_maya/Journey.tar",
+                    "/home/m2_derakhshani1993/data/instruction_tuning_maya/MSCOCO_human.tar",
+                    "/home/m2_derakhshani1993/data/instruction_tuning_maya/dalle3.tar",
+                    "/home/m2_derakhshani1993/data/instruction_tuning_maya/object_1.tar",
+                    "/home/m2_derakhshani1993/data/instruction_tuning_maya/object_2.tar",
+                    "/home/m2_derakhshani1993/data/instruction_tuning_maya/occupation_1.tar",
+                    "/home/m2_derakhshani1993/data/instruction_tuning_maya/occupation_2.tar",
+                    "/home/m2_derakhshani1993/data/instruction_tuning_maya/text_1.tar",
+                    "/home/m2_derakhshani1993/data/instruction_tuning_maya/text_2.tar",]
+        train_mmu_shards_path_or_url: []
+        train_lm_shards_path_or_url: ""
+        add_caption_prompt: True
+        external_caption_path: ""
+        external_journeydb_caption_path: "/home/m2_derakhshani1993/data/JourneyDB/captions"`
+        external_laion12m_caption_path: "/home/m2_derakhshani1993/data/laion/captions-laion"
+        external_cc12m_caption_path: ""
+        external_crs3600_caption_path: ""
+        external_liu4k_gcp_caption_path: ""
+        external_open_img_pref_gcp_caption_path: ""
+        external_open_pickapic_gcp_caption_path: ""
+        external_instruction_tuning_maya_geneval_train_caption_path: "/home/m2_derakhshani1993/data/instruction_tuning_maya/Geneval_train.json"
+        external_instruction_tuning_maya_human_gestures_caption_path: "/home/m2_derakhshani1993/data/instruction_tuning_maya/Human_gestures.json"
+        external_instruction_tuning_maya_journey_caption_path: "/home/m2_derakhshani1993/data/instruction_tuning_maya/Journey.json"
+        external_instruction_tuning_maya_mscoco_human_caption_path: "/home/m2_derakhshani1993/data/instruction_tuning_maya/MSCOCO_human.json"
+        external_instruction_tuning_maya_dalle3_caption_path: "/home/m2_derakhshani1993/data/instruction_tuning_maya/dalle3.json"
+        external_instruction_tuning_maya_object_1_caption_path: "/home/m2_derakhshani1993/data/instruction_tuning_maya/object_1.json"
+        external_instruction_tuning_maya_object_2_caption_path: "/home/m2_derakhshani1993/data/instruction_tuning_maya/object_2.json"
+        external_instruction_tuning_maya_occupation_1_caption_path: "/home/m2_derakhshani1993/data/instruction_tuning_maya/occupation_1.json"
+        external_instruction_tuning_maya_occupation_2_caption_path: "/home/m2_derakhshani1993/data/instruction_tuning_maya/occupation_2.json"
+        external_instruction_tuning_maya_text_1_caption_path: "/home/m2_derakhshani1993/data/instruction_tuning_maya/text_1.json"
+        external_instruction_tuning_maya_text_2_caption_path: "/home/m2_derakhshani1993/data/instruction_tuning_maya/text_2.json"
+        validation_prompts_file: "validation_prompts/gen_eval_prompt.txt"
+        shuffle_buffer_size: 1000
+        num_workers: 32
+        resolution: 512
+        pin_memory: True
+        persistent_workers: True
+        shard_ratios:
+            laion: 0.6
+            jdb: 0.3
+            internal: 0.1
+
+    preprocessing:
+        max_seq_length: 512 # for text tokens
+        resolution: 512
+        center_crop: False
+        random_flip: False
+
+optimizer:
+    name: adamw
+    params: # default adamw params
+        learning_rate: 0.00002
+        scale_lr: False # scale learning rate by total batch size
+        beta1: 0.9
+        beta2: 0.999
+        weight_decay: 0.01
+        epsilon: 1e-8
+
+lr_scheduler:
+    scheduler: "cosine"
+    params:
+        learning_rate: ${optimizer.params.learning_rate}
+        warmup_steps: 5000
+
+training:
+    gradient_accumulation_steps: 36
+    batch_size_t2i: 4
+    batch_size_lm: 0
+    batch_size_mmu: 0
+    mixed_precision: "bf16"
+    enable_tf32: True
+    seed: 10086
+    max_train_steps: 500000
+    overfit_one_batch: False
+    cond_dropout_prob: 0.1
+    min_masking_rate: 0.0
+    label_smoothing: 0.0
+    max_grad_norm: null
+    guidance_scale: 0.0
+    generation_timesteps: 12
+    t2i_coeff: 1.0
+    lm_coeff: 0.0
+    mmu_coeff: 0.0
