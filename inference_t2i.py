@@ -256,7 +256,7 @@ if __name__ == '__main__':
             elif direction == 'up':
                 gen_token_ids = torch.cat([gen_token_ids, image_down_part], dim=-2)
             else:
-                gen_token_ids = torch.cat([image_left_part, gen_token_ids], dim=-2)
+                gen_token_ids = torch.cat([image_up_part, gen_token_ids], dim=-2)
 
         _, h, w = gen_token_ids.shape
         gen_token_ids = gen_token_ids.reshape(config.training.batch_size, -1)

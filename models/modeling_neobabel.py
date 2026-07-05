@@ -24,11 +24,12 @@ class NeoBabel(ModelMixin, ConfigMixin):
         super().__init__()
         self.vocab_size = vocab_size
         self.register_to_config(mask_token_id=vocab_size - 1)
+        # eager attention: gemma-2 logit soft-capping is silently disabled under sdpa
         if load_from_huggingface:
             config = AutoConfig.from_pretrained(llm_model_path)
-            self.neobabel = AutoModelForCausalLM.from_config(config)
+            self.neobabel = AutoModelForCausalLM.from_config(config, attn_implementation="eager")
         else:
-            self.neobabel = AutoModelForCausalLM.from_pretrained(llm_model_path)
+            self.neobabel = AutoModelForCausalLM.from_pretrained(llm_model_path, attn_implementation="eager")
             
         self.neobabel.resize_token_embeddings(self.vocab_size)
         self.output_size = self.vocab_size
@@ -45,6 +46,8 @@ class NeoBabel(ModelMixin, ConfigMixin):
             labels=None,
             label_smoothing=0.0,
             batch_size_t2i=0,
+            batch_size_lm=0,
+            batch_size_mmu=0,
             max_seq_length=128,
             labels_mask_text=None,
             labels_mask_image=None,
@@ -57,11 +60,40 @@ class NeoBabel(ModelMixin, ConfigMixin):
             logits = self.neobabel(inputs_embeds=input_embeddings, attention_mask=attention_mask)['logits']
 
         if labels is not None:
-            loss_t2i = F.cross_entropy(
-                logits[:batch_size_t2i, max_seq_length + 1:].contiguous().view(-1, self.output_size),
-                labels[:batch_size_t2i, max_seq_length + 1:].contiguous().view(-1), ignore_index=-100,
-            )
-            return logits, loss_t2i
+            zero_loss = logits.new_zeros(())
+
+            # 1. Mask token prediction (discrete diffusion) for image generation
+            # Note that, max_seq_length indicates the maximum number of text tokens, maybe a bit confused.
+            if batch_size_t2i > 0:
+                loss_t2i = F.cross_entropy(
+                    logits[:batch_size_t2i, max_seq_length + 1:].contiguous().view(-1, self.output_size),
+                    labels[:batch_size_t2i, max_seq_length + 1:].contiguous().view(-1), ignore_index=-100,
+                )
+            else:
+                loss_t2i = zero_loss
+
+            # 2. Next token prediction for language modeling
+            if batch_size_lm > 0:
+                loss_lm = F.cross_entropy(
+                    logits[batch_size_t2i:batch_size_t2i + batch_size_lm, :-1].contiguous().view(-1, self.output_size),
+                    labels[batch_size_t2i:batch_size_t2i + batch_size_lm, 1:].contiguous().view(-1),
+                    ignore_index=-100, label_smoothing=label_smoothing,
+                )
+            else:
+                loss_lm = zero_loss
+
+            # 3. Next token prediction for captioning/multimodal understanding
+            # (guard batch_size_mmu == 0: logits[-0:] would select the whole batch)
+            if batch_size_mmu > 0:
+                loss_mmu = F.cross_entropy(
+                    logits[-batch_size_mmu:, :-1].contiguous().view(-1, self.output_size),
+                    labels[-batch_size_mmu:, 1:].contiguous().view(-1),
+                    ignore_index=-100, label_smoothing=label_smoothing,
+                )
+            else:
+                loss_mmu = zero_loss
+
+            return logits, loss_t2i, loss_lm, loss_mmu
 
         return logits
 
